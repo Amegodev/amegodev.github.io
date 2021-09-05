@@ -3,6 +3,7 @@
       "AdsController": [
         {
           "NetworkAds": "facebook",
+<<<<<<< HEAD
           "AdMobId": "pub-8644958469423958",
           "BannerAdmob": "ca-app-pub-8644958469423958/4030177215",
           "InterstitialAdmob": "ca-app-pub-8644958469423958/1431934031",
@@ -10,6 +11,15 @@
           "BannerFacebook": "2930351717200000_2930351767199995",
           "InterstitialFacebook": "2930351717200000_2930351757199996",
           "NativeFacebook": "2930351717200000_2930351763866662",
+=======
+          "AdMobId": "pub-3940256099942544",
+          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+          "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+          "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+>>>>>>> bacdccda2ea1759fbea78c73cb4fc078fa7a89ff
           "IronSource": "103944d49"
         }
       ],
