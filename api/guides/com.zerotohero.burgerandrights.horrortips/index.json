@@ -3,10 +3,10 @@
       "AdsController": [
         {
           "NetworkAds": "facebook",
-          "AdMobId": "pub-3940256099942544",
-          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "AdMobId": "pub-8644958469423958",
+          "BannerAdmob": "ca-app-pub-8644958469423958/4030177215",
+          "InterstitialAdmob": "ca-app-pub-8644958469423958/1431934031",
+          "NativeAdmob": "ca-app-pub-8644958469423958/2796986596",
           "BannerFacebook": "2930351717200000_2930351767199995",
           "InterstitialFacebook": "2930351717200000_2930351757199996",
           "NativeFacebook": "2930351717200000_2930351763866662",
@@ -16,15 +16,15 @@
       "items": [
         {
           "title": "Dark Meadow: The Pact !",
-          "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+          "image": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODEyNzI4LnBuZw==/347x500/VbLVSg.png"
         },
         {
           "title": "The Old 2",
-          "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+          "image": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODEyNzI3LnBuZw==/original/GpFxs1.png"
         },
         {
           "title": "Call of Cthulhu: Wasted Land ",
-          "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+          "image": "https://i0.hdslb.com/bfs/archive/bd9432bdd4fb9916e428b995bae14b3e458e211c.jpg@320w_200h_1c.webp"
         },
         {
           "title": "Dead Space Android",
