@@ -2,7 +2,7 @@
     "GuideData": {
       "AdsController": [
         {
-          "NetworkAds": "facebook",
+          "NetworkAds": "admob",
           "AdMobId": "pub-8644958469423958",
           "BannerAdmob": "ca-app-pub-8644958469423958/4030177215",
           "InterstitialAdmob": "ca-app-pub-8644958469423958/1431934031",
