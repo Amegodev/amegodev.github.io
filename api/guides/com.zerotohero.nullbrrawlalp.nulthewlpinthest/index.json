@@ -2,14 +2,14 @@
     "GuideData": {
       "AdsController": [
         {
-          "NetworkAds": "facebook",
+          "NetworkAds": "admob",
           "AdMobId": "pub-8644958469423958",
-          "BannerAdmob": "ca-app-pub-8644958469423958/4030177215",
-          "InterstitialAdmob": "ca-app-pub-8644958469423958/1431934031",
-          "NativeAdmob": "ca-app-pub-8644958469423958/2796986596",
-          "BannerFacebook": "2930351717200000_2930351767199995",
-          "InterstitialFacebook": "2930351717200000_2930351757199996",
-          "NativeFacebook": "2930351717200000_2930351763866662",
+          "BannerAdmob": "ca-app-pub-8644958469423958/5495023541",
+          "InterstitialAdmob": "ca-app-pub-8644958469423958/8688163095",
+          "NativeAdmob": "ca-app-pub-8644958469423958/6061999759",
+          "BannerFacebook": "583218002641157_583218049307819",
+          "InterstitialFacebook": "583218002641157_583218035974487",
+          "NativeFacebook": "583218002641157_583218039307820",
           "IronSource": "10774b749"
         }
       ],
