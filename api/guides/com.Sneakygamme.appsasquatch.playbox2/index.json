@@ -19,12 +19,16 @@
           "image": "https://media.pocketgamer.com/artwork/na-31407-1587031036/Sneaky%20Sasquatch%201.jpg"
         },
         {
-          "title": "Adds motorcycles and new customisation options",
+          "title": "Adds motorcycles and customisation",
           "image": "https://media.pocketgamer.com/artwork/na-31407-1587030992/Sneaky%20Sasquatch%202.JPG"
         },
         {
-          "title": "Three super foods that completely replenish your health",
+          "title": "Replenish your health",
           "image": "https://media.pocketgamer.com/artwork/na-31407-1587031036/Sneaky%20Sasquatch%201.jpg"
+        },
+        {
+          "title": "Things to do in the new update",
+          "image": "https://media.pocketgamer.com/artwork/na-31407-1587862424/Sneaky%20Sasquatch%206.jpg"
         }
       ],
       "content1": [
@@ -63,7 +67,7 @@
           "gravity": "left",
           "left": "5",
           "text_size": "25",
-          "isLink": "true",
+          "isLink": "false",
           "link_title": "",
           "setLink": "",
           "image_link": "",
@@ -154,8 +158,66 @@
           "isLink": "false",
           "link_title": "",
           "setLink": "",
-          "image_link": "https://media.pocketgamer.com/artwork/na-31407-1587030992/Sneaky%20Sasquatch%202.JPG",
+          "image_link": "https://media.pocketgamer.com/artwork/na-31407-1587031036/Sneaky%20Sasquatch%201.jpg",
           "text": "Sneaky Sasquatch as we know features a big interconnected world that you can explore. Its signature element is the ability to snatch the food of campers at the park. But you need to take caution when doing so because if the campers see you, then they'll freak out.\n\nThis will then alert the rangers and send you on the other end of a goose chase. If caught, then they send you back home. Once you purchase certain apparel such as camper gear or golf attire, other people won't notice that you're beast although you're friendly. The rangers will know though.\n\nEach food item you grab refills one slice of the pie chart which operates as a health bar. However, with the slew of updates since the game's launch on Apple Arcade, several new food items have been added that give you a greater boost. These will fill your whole chart in one bite. We tell you what a few of those items are if you're new to the Sneaky Sasquatch experience.",
+          "isNative": "false"
+        }
+      ],
+      "content4": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "30",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Things to do in the new update",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://media.pocketgamer.com/artwork/na-31407-1587862424/Sneaky%20Sasquatch%206.jpg",
+          "text": "Sneaky Sasquatch has received its first big update since its launch and it gives you access to a whole new section of the open world created by RAC7 Games. You still can have fun with the other activities but there are some added things to do and places to explore. There are also a ton of new items to boot.\n\nBut just to give you a background on the updated story, the big mean corporate man who you (Sasquatch) stopped from turning the park into condos, wants a little revenge on our friend Sasquatch. This new area of the game houses Mr. Pemberton's (corporate dude) large office building.",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Sneaky Sasquatch has received its first big update since its launch and it gives you access to a whole new section of the open world created by RAC7 Games. You still can have fun with the other activities but there are some added things to do and places to explore. There are also a ton of new items to boot.\n\nBut just to give you a background on the updated story, the big mean corporate man who you (Sasquatch) stopped from turning the park into condos, wants a little revenge on our friend Sasquatch. This new area of the game houses Mr. Pemberton's (corporate dude) large office building.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "true",
+          "link_title": "Open App",
+          "setLink": "https://play.google.com/store/apps/details?id=com.Sneakygamme.appsasquatch.playbox2",
+          "image_link": "",
+          "text": "Apparently, he has some secret plans aimed towards Sasquatch, and it up to you to stop him from making these plans a reality. You need to get a job at the building and try to gain Pemberton's trust. Once you do, you'll be able to snatch the plans and see what it's all about.\n\nBut, for this story, we'll just talk to you about some of the leisure things you can do while you enjoy the new update. As mentioned, there are a decent amount of things to do, so definitely take advantage.",
           "isNative": "false"
         }
       ]
