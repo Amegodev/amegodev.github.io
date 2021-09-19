@@ -59,7 +59,7 @@
           "gravity": "left",
           "left": "5",
           "text_size": "30",
-          "isLink": "true",
+          "isLink": "false",
           "link_title": "",
           "setLink": "",
           "image_link": "",
