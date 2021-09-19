@@ -1,0 +1,239 @@
+{
+    "GuideData": {
+      "AdsController": [
+        {
+          "NetworkAds": "facebook",
+          "AdMobId": "pub-3940256099942544",
+          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "BannerFacebook": "156876689649407_156876732982736",
+          "InterstitialFacebook": "156876689649407_156876726316070 ",
+          "NativeFacebook": "156876689649407_156876739649402",
+          "IronSource": "11150c985"
+        }
+      ],
+      "items": [
+        {
+          "title": "Basics",
+          "image": "https://img.youtube.com/vi/1B0p_3wPDKs/0.jpg"
+        },
+        {
+          "title": "Character Abilities",
+          "image": "https://www.thesun.co.uk/wp-content/uploads/2018/06/the-nun-horror-trailer.00_01_16_06.Still008.jpg"
+        },
+        {
+          "title": "Deck Archetypes",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGYzODRlZTgtNDQyNC00Nzk3LWFmNmItZjQxNmU1YTg2MjZhXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+          "title": "Blessings",
+          "image": "https://i1.sndcdn.com/artworks-LtBM3HlYDObYKXeU-QsL8BA-t500x500.jpg"
+        }
+      ],
+      "content1": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Originally posted by Description:\nThe kind Little Red Riding Hood does not like to use violence to solve problems. “Injuries of the body are far easier to treat than those of the heart or spirit.” This is Little Red Riding Hood’s motto. Perhaps this is the reason why she is more understanding than others.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "The Nun is the third class in the game. She can survive virtually anything thanks to her unrivaled ability to heal and shield, while destroying enemies with overflow effects or Confessions.\n\nThis guide will cover strategies, as well as blessings that will assist you in overcoming the challenges that lie ahead of this… odd class.",
+          "isNative": "true"
+        }
+      ],
+      "content2": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Out of Combat: Blessing\nTransforms one of your cards. Cooldown of 6 combats\nA rather long cooldown for a “meh” effect. Unlike Unidentified Antiques, the game saves after this is used, meaning you’re stuck with whatever you end up with.\nIn-Combat 1: Discipline\nRestore health equal to 50% of damage dealt (rounding down). Lasts 2 turns. Cooldown of 2 combats\nVery good after building up Prayers/Confessions. If you line them up just right, this works.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "In-Combat 2: Prayer\nGet an extra turn. Cooldown of 3 combats.\nThe extra turn starts after you end your current one. This is an incredible effect, whether you want to boost Confession/Justice Trial damage, activate a prayer, etc.",
+          "isNative": "true"
+        }
+      ],
+      "content3": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://m.media-amazon.com/images/M/MV5BNGYzODRlZTgtNDQyNC00Nzk3LWFmNmItZjQxNmU1YTg2MjZhXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_FMjpg_UX1000_.jpg",
+          "text": "Various deck archetypes for the Nun.\nLevel-up priorities: Equip Slots>Cards>Mana>Action>Gold=HP\nThe Nun doesn’t have nearly as many Action cards as most characters; you’ll probably only need the one point. Best cards to use that point on are either Heaven and Hell or Prophecy.\nAMEN!\nHonestly, I’ve never found Prayer decks to be particularly effective. They’re slow, like every Nun deck, which would be fine if I didn’t find simply healing myself normally or using Confessions to be faster and easier to control.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "You could probably micromanage Prayers to a well-oiled machine, but I don’t have the patience to do so.\n\nCONFESSION\nA piercing damage effect that stays on your character over time. The main method of getting it is through the card Confession: either 3 or 4 stacks per card played. There is a blessing that gives you a stack of this effect for every Spell you play, but it’s unlocked via Nun hardmode.\n\nOVERHEAL\nBanish Darkness, Blessing, Healing Potions, all ways to overheal yourself and benefit. I highly recommend the Equipment “Life Talisman” for this deck.\n\nI’ve found the best results when combining the latter two.",
+          "isNative": "true"
+        }
+      ],
+      "content4": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i1.sndcdn.com/artworks-LtBM3HlYDObYKXeU-QsL8BA-t500x500.jpg",
+          "text": "You have one advantage over every enemy in this game: the help of powerful blessings that can change your deck.\nThis list of blessings will only go over blessings that only the Nun (or a few other classes) can obtain. All-class blessings can be helpful if the Nun’s blessings aren’t as useful as the other options.\n\nNote that some blessings have to be unlocked by completing Hard mode on various characters.\nNormal blessings",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "CRYSTALLIZING\nEffect: At the start of your turn, gain 3 Mana.\nExplanation: None needed.\nUsage: Solid for most decks. Can replace Moonlight Code, Nun’s starting equipment, allowing you to fit something better in that slot.",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "MOONLIGHT ENLIGHTENS\nEffect: When you use a prayer card, the timer automatically speeds up by 1.\nExplanation: Only applies to the current card, and not to any Prayers played before.\nUsage: Makes Prayers slightly quicker to use, if you’re into those.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "MASTERY OF FIRE\nEffect: When you use a spell card with no less than 5 Mana cost, deal 3 Fire damage.\nExplanation: Greater than or equal to 5.\nUsage: Mainly for the Overheal deck, or not at all.",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "RIPPLE BREATHING\nEffect: At the end of your turn, lose all Action. Gain 2 mana per Action consumed.\nExplanation: None needed.\nUsage: Crystallizing may be strictly better, depending on the amount of Action you have.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "A SORCERER’S SNAP\nEffect: The first two spell cards you draw cost 0.\nExplanation: None needed.\nUsage: Very luck-based. Do not recommend.",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "BANISH DARKNESS\nEffect: When you overheal, deal half amount of piercing damage.\nExplanation: Rounded down.\nUsage: Necessary for the Overheal deck to properly do damage without Confession support.\n\nHOLY WATER\nEffect: For each 3 health you restore, gain 1 mana.\nExplanation: Does not apply to overhealing.\nUsage: Would probably be much better if it counted overhealing. As it stands, Crystallizing is probably better in most scenarios.\n\nRare blessings\nMAGIC TRICK\nEffect: Your spells’ costs decrease by 1.\nExplanation: None needed.\nUsage: Very good on Confession deck, reducing that card’s cost to 1.",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "5",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "RECRUITMENT OF BELIEVERS\nEffect: Copies each Prayer you use, but at double its timer.\nExplanation: The new Prayer buff will have the same power as the original.\nUsage: Makes Prayer decks slightly more tolerable.\n\nJUSTICE TRIAL\nEffect: On the end of your turn, deals 1 damage for each 5 damage you have dealt this combat.\nExplanation: Stacks with its own damage as well.\nUsage: Can make a Confession deck near-unstoppable, and doesn’t hurt on any deck.\n\nOther decent Rare Blessings: Numbness, Fast Reactions, Guard Statue.\n\nPandora’s Box\nUNIDENTIFIED ANTIQUES\nEffect: Gives a random Equipment card.\nExplanation: Only ones that the Nun can obtain, except for Moonlight Code.\nUsage: If you get a bad Equip off this, go back to the main menu. The game will reset to before you picked the blessing. However, the equip will be exactly the same.\n\nCALAMITY\nEffect: Initial Mana +12, Max Health -6\nExplanation: None needed\nUsage: The lowered maximum health can be a slight benefit to Overheal decks.\n\nVAMPIRE CODEX\nEffect: Gain 1 health for each 5 damage you deal. Max Health -5.\nExplanation: Counts as overheal.\nUsage: Absolutely perfect for the Overheal deck.\n\nMIRROR ILLUSION\nEffect: Copy a card in your deck, gain 1 Prank.\nExplanation: None needed\nUsage: I mention this only because the Nun can get rid of the Prank via her Out of Combat ability.",
+          "isNative": "true"
+        }
+      ]
+    }
+  }
