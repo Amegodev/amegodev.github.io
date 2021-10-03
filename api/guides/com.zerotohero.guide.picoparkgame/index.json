@@ -2,11 +2,11 @@
     "GuideData": {
       "AdsController": [
         {
-          "NetworkAds": "facebook",
+          "NetworkAds": "admob",
           "AdMobId": "pub-3940256099942544",
-          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "BannerAdmob": "ca-app-pub-8644958469423958/7487156240",
+          "InterstitialAdmob": "ca-app-pub-8644958469423958/6008415433",
+          "NativeAdmob": "ca-app-pub-8644958469423958/4903530329",
           "BannerFacebook": "160143516050552_160143559383881",
           "InterstitialFacebook": "160143516050552_160143562717214",
           "NativeFacebook": "160143516050552_160143569383880",
