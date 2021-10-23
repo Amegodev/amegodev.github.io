@@ -10,6 +10,11 @@
           "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
           "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
           "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+          "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+          "BannerAppLovin": "99c7bc21987ea250",
+          "InterstitialAppLovin": "3132e65ac38b767b",
+          "MRECAppLovin": "464260787cd1dbe2",
+          "RewardAppLovin": "464260787cd1dbe2",
           "IronSource": "feda1f81"
         }
       ],
