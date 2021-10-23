@@ -2,7 +2,7 @@
     "GuideData": {
       "AdsController": [
         {
-          "NetworkAds": "admob",
+          "NetworkAds": "facebook",
           "AdMobId": "pub-3940256099942544",
           "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
           "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -21,6 +21,10 @@
         {
           "title": "Dark",
           "image": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_4.jpg"
+        },
+        {
+          "title": "Others",
+          "image": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_15.jpg"
         }
       ],
       "content1": [
@@ -251,47 +255,147 @@
       ],
       "content2": [
         {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Dark Meadow : The Pact",
-          "isNative": "false"
-        },
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_1.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_1.jpg",
+            "text": "",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_2.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_2.jpg",
+            "text": "",
+            "isNative": "false"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_4.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_4.jpg",
+            "text": "",
+            "isNative": "false"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_5.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_5.jpg",
+            "text": "",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_7.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_7.jpg",
+            "text": "",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_8.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_8.jpg",
+            "text": "",
+            "isNative": "true"
+          }
+      ],
+      "content3": [
         {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-          "isNative": "true"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "25",
-          "isLink": "true",
-          "link_title": "Open The Game",
-          "setLink": "https://play.google.com/store/apps/details?id=com.hvkiw.fbclonepost",
-          "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-          "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
-          "isNative": "false"
-        }
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_3.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_3.jpg",
+            "text": "",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_6.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_6.jpg",
+            "text": "",
+            "isNative": "false"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_9.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_9.jpg",
+            "text": "",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "25",
+            "isLink": "true",
+            "link_title": "Download",
+            "setLink": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_12.jpg",
+            "image_link": "https://amegodev.github.io/api/guides/com.hdsquidwallpapers.sgame.player456wallpaper/wallpapers/wallpaper_12.jpg",
+            "text": "",
+            "isNative": "false"
+          }
       ]
     }
   }
