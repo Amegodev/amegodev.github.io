@@ -1,412 +1,286 @@
 {
-    "GuideData": {
-      "AdsController": [
-        {
-          "NetworkAds": "facebook",
-          "AdMobId": "pub-3940256099942544",
-          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-          "BannerFacebook": "#",
-          "InterstitialFacebook": "#",
-          "NativeFacebook": "#",
-          "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
-          "BannerAppLovin": "99c7bc21987ea250",
-          "InterstitialAppLovin": "3132e65ac38b767b",
-          "MRECAppLovin": "464260787cd1dbe2",
-          "RewardAppLovin": "464260787cd1dbe2",
-          "IronSource": "feda1f81"
-        }
-      ],
-      "items": [
-        {
-          "title": "Breakout",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Warface-Breakout-Promo-.jpg?q=50&fit=contain&w=960&h=500&dpr=1.5"
-        },
-        {
-          "title": "Use Your Equipment",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-equipment.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Communicate",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-teams.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Be Smart With Teams",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-team-tactics.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Tactics, Tactics, Tactics!",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-tactics.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Weapons To Go With The Tactics",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-Guns.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Use The Minimap",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-minimap.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Keep Em Guessing",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-flanking.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Pick Your Fights",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-team-play.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Explore And Experiment",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-experiment.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        },
-        {
-          "title": "Econ 101",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-gun.jpg?q=50&fit=crop&w=740&dpr=1.5"
-        }
-      ],
-      "content1": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Breakout",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Warface Breakout takes some getting used to at first, players looking to improve should take a look at these tips.",
-          "isNative": "true"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "25",
-          "isLink": "true",
-          "link_title": "Rate the guide",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Warface-Breakout-Promo-.jpg?q=50&fit=contain&w=960&h=500&dpr=1.5",
-          "text": "Warface: Breakout promises to bring the full tactical shooter experience to consoles. The spin-off from Warface is a tight, 5v5 tactical shooter, where supporting your team to accomplish your objective is far more important than your own score and kills.\n\nAs far as shooters go, it is fairly straightforward. People who have experience with tactical shooters will be right at home with this format. But it offers a pretty easy experience for players new to the genre too. Regardless of your experience, however, there are some tips about this game that will help you do better, and here are a few.",
-          "isNative": "false"
-        }
-      ],
-      "content2": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Use Your Equipment",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-equipment.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "The importance of tactical equipment in Warface cannot be understated. It can give you an advantage in every situation you may find yourself in. Faced with a good sniper? Block the sightline with a smoke grenade. Planning to rush into a site? Block an angle with smoke and throw a flash on the site to gain an advantage. Getting in a firefight with someone who has a better weapon? Flash em. Even if they aren't blinded they will be forced to take cover, and you can use it to position yourself better. Or just cover your escape. The possibilities are endless. Using your equipment well can be the difference between winning or losing a clutch round.",
-          "isNative": "true"
-        }
-      ],
-      "content3": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Communicate",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-teams.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Your chance of victory in a match depends on your team. Coordination with your team is massively important. Whether it's setting up strategies, improvising, or just letting people know where you are and where you spotted enemies, communication is key. It is very highly recommended that you use a mic and call out everything. Where you're going, what you're buying, what you're planning, where you died, your team knowing all of this is very, very important. If you prefer not to use a mic, Warface also offers a callout wheel. While it is no substitute for talking, it gives you options to communicate the bare minimum",
-          "isNative": "true"
-        }
-      ],
-      "content4": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Be Smart With Teams",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-team-tactics.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Warface is a team game, and it is best played with your own team. The game prioritizes and tactical and strategic play over gunplay, and winning a direct 1v2 or a 1v3 firefight is difficult even for the best players. Stick with a teammate, or always have someone else who has eyes on you so you're not caught out alone.\n\n\nHow you spread out your team is also important. When you're defending, there is no sense in all members sticking to one bomb site. Depending on the map, you can assign people to important angles and bomb sites to control the map better. If you're attacking, all members rushing the same entrance is a suicide mission. Play to your teammates' strengths and assign them roles accordingly.",
-          "isNative": "true"
-        }
-      ],
-      "content5": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Tactics, Tactics, Tactics!",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-tactics.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Your tactics in Warface are the most important thing. Even if your team doesn't have the best gunplay, smarter play can easily win you matches. Learning the maps, putting what team members in what roles, when to hold a site or an angle, and when to rotate are all important. They can easily flip a losing match into a winning match. The maps in Warface are also bigger and have more angles and covers than their counterparts, which lets you be creative with how you play. Play slowly and methodically, and you will win more games.",
-          "isNative": "true"
-        }
-      ],
-      "content6": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Weapons To Go With The Tactics",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-Guns.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Learning what weapons to use in what situations is paramount. Not every weapon is suited to every situation. A sniper rifle can shut down a long angle completely but is at a huge disadvantage when the enemy team is rushing you. Shotguns, on the other hand, are amazing at clearing corners and stopping rushes but faced with Assault Rifles or SMGs they completely fail.\n\nThere are some exceptions to this, though that might change with upcoming balance patches. The SMGs are very versatile. At low to medium ranges, they dominate, and with some clever burst fire, they can be very useful on longer angles too. The automatic pistol is easily the best pistol in the game and can complement a sniper rifle or win games in pistol or eco rounds.",
-          "isNative": "true"
-        }
-      ],
-      "content7": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Use The Minimap",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-minimap.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Tactical Shooters are all about information. Early parts of the round are best used in gathering information, and how you react to it can make or break strategies. The minimap in Warface is one of the best in the genre and is easily your best information gathering tool. The map shows where you and your teammates are, where your enemies are firing for, where your teammates and enemies have died and how recently. Keeping an eye on the map will help you in making better decisions in the middle of the game. You can estimate your enemies' strategies, how many people you have and where, and make snap decisions that can make or break a round. The minimap also has the name of the area you're in, which will help in learning maps and in making good callouts",
-          "isNative": "true"
-        }
-      ],
-      "content8": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Keep Em Guessing",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-flanking.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "While getting information is important, so is not giving information to your enemy. If an enemy knows where you are, and what you're planning to do, they can easily make your life harder. Remember, the same tools you have also exist for your opponent. So, be careful when peeking or shooting, and ensure you let your enemies know as little as possible.\n\nA simple way to do this is to keep changing positions after every gunfight. Regardless of the outcome of the gunfight, if you stay in the same position after an engagement the opponent can stress that position and force you into a disadvantage. However, if you keep moving and thinking on the fly, you can easily keep your opponents lost and pick off some easy kills.",
-          "isNative": "true"
-        }
-      ],
-      "content9": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Pick Your Fights",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-team-play.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "As important as winning fights is, staying alive is much more important. Sometimes, you will be forced into situations where the best option is to retreat. This is true of both individual firefights and entire rounds. You will at times find yourself in a losing round, and it is better to save yourself and your gun. Economy is very important in Warface, and it is much better to lose the battle to win the war.\n\nSimilarly, getting into a firefight should take some thought. You don't want to get caught in a 1v3 position while trying to get an early peek or kill. Rather, ensure that you have as much information possible before you do pick a fight. Remember, your health is your most valuable resource and use it judicially.",
-          "isNative": "true"
-        }
-      ],
-      "content10": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Explore And Experiment",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-experiment.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "Make use of the unranked, casual modes the game offers.  They are great for learning the game and practicing when you're new. However, once you are a bit more familiar with the game, try experimenting with new strategies in these modes. These modes are also good for experimenting with weapons and equipment you don't use a lot.\n\nSome weapons are very good in particular situations. The casual modes can help you find these situations, and experiment with them. The shotgun, for example, is surprisingly good at more ranges than you'd expect. Similarly, the smoke, at some angles, can completely block off the opponent teams and stop a rush dead in its tracks. Play around in the casual modes, and take what you learn from that to ranked.",
-          "isNative": "true"
-        }
-      ],
-      "content11": [
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "30",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Econ 101",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "5",
-          "text_size": "20",
-          "isLink": "true",
-          "link_title": "Rate Us",
-          "setLink": "https://play.google.com/store/apps/details?id=com.gunwarface.gamebattlegroundtips.latestchapitre",
-          "image_link": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/warface-breakout-gun.jpg?q=50&fit=crop&w=740&dpr=1.5",
-          "text": "The strategy of your game cannot be independent of the economy. For people new to the genre, the economy in a match is how you manage your money. Whether you go all out and buy the most expensive equipment every round you can or you save up a few rounds to get that shiny sniper rifle or a machine gun. Managing and adapting your economy across rounds and strategies is very important. Ideally, you want to be saving money for the first few rounds and ensure that you can buy an assault rifle or submachine gun every round, but that's not always possible. Depending on the team you're facing, it might be smarter to spend more to get over an early disadvantage or to extend an early lead.",
-          "isNative": "true"
-        }
-      ]
-    }
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerFacebook": "#",
+        "InterstitialFacebook": "#",
+        "NativeFacebook": "#",
+        "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+        "BannerAppLovin": "ff3ef5ce5a40e65c",
+        "InterstitialAppLovin": "9397e2e358b6ee7a",
+        "MRECAppLovin": "ad77052deceb031f",
+        "RewardAppLovin": "c4490f7c15ea5122",
+        "IronSource": "feda1f81"
+      }
+    ],
+    "items": [
+      {
+        "title": "Introduction",
+        "image": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_6.png"
+      },
+      {
+        "title": "How does it work",
+        "image": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_4.png"
+      },
+      {
+        "title": "How to get started",
+        "image": "https://miro.medium.com/max/820/0*wjTYvH_rL3XCOAYm"
+      },
+      {
+        "title": "Should you get into it?",
+        "image": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_7.png"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "BomB Crypto and BCOIN: Should you spend and play",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_6.png",
+        "text": "The library for NFT games keeps expanding from cute circular forest creatures of Chuumbi Valley, to the battle clicker game known as CryptoBlades, this time we are covering a crypto game that may tickle some retro gamer, and I am talking about BomB Crypto. So what is it, what is BCOIN, and should you get in on it? Find out more here as we cover this explosive blockchain game.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_2.png",
+        "text": "Authors Note: The article presented leans to the informative side, not a financial guide. Most information gathered comes from the developer’s official documentation and roadmaps.\nBomB Crypto is a Play-To-Earn game, where players manage a group of bomb heroes of cyborgs programmed to search for BCOIN and fight monsters. The game was developed by Senspark. Senspark is a Vietnamese indie game developing company founded in 2011 that focuses on mobile games for Android and iOS platforms. Games such as Stickman Battle 2021, Gold Miner, and Bomb Squad garnered around ten million-plus downloads.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "BomB Crypto features hero NFTs that can be collected via rescue, buy-in, and auction in the marketplace. For game modes, it covers things such as Treasure Hunt Mode; a Story mode, and a Battle mode. Elaboration for these will be covered as we go along this article.",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "3O",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "How does it work",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_4.png",
+        "text": "The library for NFT games keeps expanding from cute circular forest creatures of Chuumbi Valley, to the battle clicker game known as CryptoBlades, this time we are covering a crypto game that may tickle some retro gamer, and I am talking about BomB Crypto. So what is it, what is BCOIN, and should you get in on it? Find out more here as we cover this explosive blockchain game.Every NFT game has its own in-game currency that is used to get in-game items and purchases. In the case of BomB Crypto, it uses BCOIN and can be used to buy and sell NFT items or even the bomber heroes themselves. BCOIN is a standardized token on the Binance Smart Chain that extends ERC-20, the most common Ethereum token. BEP-20 was conceived as a technical specification for Binance Smart Chain to provide a flexible format for developers to launch a range of other tokens.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "BCOIN was audited by the Verichains Team last October 2021 and has noted that its Smart Contract was written in Solidity language and had no vulnerability whatsoever. So if you are wondering about the token’s integrity, you can rest assured that its recent audit has given it the green light.",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "3O",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "How to get started",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://miro.medium.com/max/820/0*wjTYvH_rL3XCOAYm",
+        "text": "BomB Crypto is a browser game available on PC. If you want to check it out, you can head over to their official website here. To get started, here are the following steps:\n\n1. Download the digital wallet called MetaMask.\n2. Once that is set up, one must provide their MetaMask with some BNB tokens in order to have it converted via Binance.\n3. Once BNB is available in your MetaMask, you can then convert it into BCOIN using PancakeSwap.\n4. When that is also accomplished, you can head over to the official BomB Crypto webpage and connect your MetaMask.\nNote that the initial cost to start out in BomB Crypto is 10 BCOIN, equivalent to 1 Bomber Hero. You also have to maintain 10 BCOIN to be able to claim the coins and heroes you get as rewards.\n\nAt the time of writing, a single BCOIN is priced at PHP 184.65 (Back in September 2021, a single BCOIN was priced at only PHP 17.56).",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "How to play and earn",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/11/bomb-crypto-game.png",
+        "text": "As mentioned previously, the game has modes such as Treasure, Story, and Battle mode. BomB Crypto has recently launched in the third quarter of this year and only has Treasure Hunt mode, a play-to-earn feature where players can buy and collect heroes to hunt for BCOIN tokens. If you are familiar with the iconic Bomberman mechanics, then this game will resonate easily with you.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_3.png",
+        "text": "In Treasure Hunt Mode, players can send bomber heroes to the mining areas and have them plant bombs to destroy blocks to find BCOIN. These heroes can work automatically without players having to monitor them constantly, which allows time to be saved. Note that the hero also consumes energy each time a bomb is placed. When they run out of energy, they will enter a resting state to recharge. If a house is bought, the energy charging speed will be increased. In a way, it’s semi-passive as the bombers roam on their own but you have to manually activate them once they’ve recharged their stamina.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Other modes include a Story Mode that will allow players to participate in a level structured mode that will involve killing monsters that can drop BCOINs. The other mode is Battle Mode, where players can engage in a bomb battle against other players. To join, not only do players need a specific type of energy, but they also need to pay a certain amount of tokens as an entrance fee. The final winners take the majority of the losers’ tokens.",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "3O",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Should you get into it?",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://www.yugatech.com/wp-content/uploads/2021/10/BomB-Crypto_7.png",
+        "text": "If you want to experience the nostalgic format of Bomberman while earning some moolah, then you might want to check BomB Crypto out. In my opinion, the game’s simplicity is charming and has more to offer when its other modes come online.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Do keep in mind that money is required to get started in this blockchain game, and if you are ready to lose it in hopes to double it or triple it, take that risk. But before you get into it, make sure to do your research and keep yourself updated with the developer’s posts on their official website and social media pages.\n\nAnd there you guys have it, a quick rundown of this explosive blockchain game. So what are your thoughts and opinions of BomB Crypto? Feel free to share them in the comments below.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "15",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Source: BomB Crypto official documentation",
+        "isNative": "false"
+      }
+    ]
   }
+}
