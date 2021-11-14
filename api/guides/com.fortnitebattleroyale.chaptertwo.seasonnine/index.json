@@ -26,6 +26,26 @@
       {
         "title": "Latest News",
         "image": "https://twitter.com/FortniteBR?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458836230741839873%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.gfinityesports.com%2Ffortnite%2Ffortnite-chapter-2-season-9-leaks-release-date-map-trailer-battle-pass-theme-skins-and-more%2F"
+      },
+      {
+        "title": "Fortnite Chapter 2, Season 9 Release Date",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png"
+      },
+      {
+        "title": "Fortnite Chapter 2, Season 9 Map",
+        "image": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/2caa10265ab65f2a0fdd8d1263050f306f072687-1200x674.jpg?w=700&h=393&auto=format"
+      },
+      {
+        "title": "Fortnite Chapter 2, Season 9 Theme",
+        "image": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/6b5aa059de863f6567dadf42b3880b131e159ed8-1246x608.jpg?rect=83,0,1080,608&w=700&h=394"
+      },
+      {
+        "title": "Fortnite Chapter 2, Season 8 Skins",
+        "image": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/d61f733f3b5729b794eb15438f9e359646eda647-1600x800.jpg?w=700&h=350&auto=format"
+      },
+      {
+        "title": "Fortnite Chapter 2, Season 8 Events",
+        "image": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/222993b548182ff1d160d046d3dddc1888739dad-1920x1080.jpg?rect=0,1,1920,1078&w=700&h=393&auto=format"
       }
     ],
     "content1": [
@@ -84,8 +104,22 @@
         "link_title": "",
         "setLink": "",
         "image_link": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
-        "text": "Fortnite Season 9: Leaks, Release Date, Map, Trailer, Battle Pass, Theme, Skins and More",
+        "text": "Latest News",
         "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "November 11, 2021",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -93,12 +127,68 @@
         "style": "blood",
         "gravity": "left",
         "left": "10",
-        "text_size": "27",
+        "text_size": "25",
         "isLink": "false",
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "What's Next for the Apollo Island?",
+        "text": "It is looking more and more like Spider-Man will be added to Fortnite next season. It is still unsure if next Season will be Season 9, or if a whole new Chapter will start. Anyway, Fortnite News claims a \"very reliable\" source has comfirmed the web slinger is on his way to the game soon!",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "November 8, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Keen-eyed Fortnite fans have noticed that in some Fortnite Crew advertisements it is mentioned that members will get a Battle Pass for Fortnite Chapter 2, Season 9. While this could just be smoke and mirrors, it is fuel for those who think Fortnite Chapter 3, Season 1 will not be next in line for the game.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "November 3, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/36fb84169fa5890bcf9db70e956a05fbc6bd636e-1500x500.jpg?rect=0,0,1500,499&w=700&h=233&auto=format",
+        "text": "",
         "isNative": "false"
       },
       {
@@ -112,8 +202,176 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Fortnitemares 2021 is over",
+        "text": "@DonaldMustard's location on Twitter was recently updated to \"Reality Zero.\" Not only that but his banner has been updated to the a picture of Agent Jones in the Zero Point chamber (see title picture.)\n\nMustard has been known to drop hints via his Twitter profile from time to time, so what is he hinting at here?",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "October 29, 2021",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "There may not be a Fortnite Chapter 2, Season 9 after all. New information leaked suggests that Fortnite Chapter 2, Season 8 may be the last Season of Chapter 2!",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "October 25, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "More rumors are circulating stating Season 9 will feature a cold, magical, dark ages theme. Possible skins rumored are Doctor Strange and The Grinch.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "October 22, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "There are some new leaks out there that may or may not be super credible, but at least some of them make sense. These revolve around the possibility of a desert wasteland returning to the island, complete with a Mad Max-style theme.\n\nTina Turner, anyone?",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "October 18, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "With Fortnitemares 2021 happening, and a new mini-patch coming this week, it seems most peoples' attention is focused elsewhere. Hopefully, more information about Season 9 will arrive after these events, with a bit more about the Season 8 Live Event as well.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#E62932",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "October 15, 2021",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Could Spider-Man be coming to Fortnite Chapter 2, Season 9? It is certainly a possibility. Marvel's latest Spider-Man movie comes out in December, shortly after the release of Season 9, and there have been leaks concerning a new Mythic item in the files with the codename \"WestSausage.\"\n\nThe text accompanying this asset is:",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFCA28",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\"Swing Attach Location, Swing Detach Time, Swinging, Swing Accelerate, Swing Jump\"",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Could \"WestSausage\" be code for Web Slinger? This is most certainly a possibility.",
+        "isNative": "false"
       }
     ],
     "content3": [
@@ -127,22 +385,8 @@
         "isLink": "false",
         "link_title": "",
         "setLink": "",
-        "image_link": "https://cdn.png",
-        "text": "Fortnite Season 9: Leaks, Release Date, Map, Trailer, Battle Pass, Theme, Skins and More",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "27",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "What's Next for the Apollo Island?",
+        "image_link": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
+        "text": "Fortnite Chapter 2, Season 9 Release Date",
         "isNative": "false"
       },
       {
@@ -156,7 +400,21 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Fortnitemares 2021 is over",
+        "text": "Fortnite Chapter 2, Season 9 is expected to drop on December 6, 2021, according to when the current Season 8 Battle Pass ends. This falls in line with Season 7 ending on a Sunday and Season 8 starting on the following Monday.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If the launch time remains the same as Season 8, players can expect Season 9 at the following times:\n\nUK - 6AM (BST)\nEurope - 7AM (CET)\nEast Coast US - 1AM (EST)\nWest Coast US - 10PM (PST)\n\nOf course, there is always a chance that Epic could delay Season 9, but at this time there is no reason to think this will be the case.",
         "isNative": "true"
       }
     ],
@@ -171,22 +429,8 @@
         "isLink": "false",
         "link_title": "",
         "setLink": "",
-        "image_link": "https://cdn.png",
-        "text": "Fortnite Season 9: Leaks, Release Date, Map, Trailer, Battle Pass, Theme, Skins and More",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "27",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "What's Next for the Apollo Island?",
+        "image_link": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/2caa10265ab65f2a0fdd8d1263050f306f072687-1200x674.jpg?w=700&h=393&auto=format",
+        "text": "Fortnite Chapter 2, Season 9 Map",
         "isNative": "false"
       },
       {
@@ -200,8 +444,64 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Fortnitemares 2021 is over",
-        "isNative": "true"
+        "text": "Apollo Island has undergone many changes over the course of Chapter 2. Season 5 saw the entire center of the island turn into a huge desert, while The Wilds took over a good portion of Season 6. Season 7 saw the destruction of The Spire and abduction of several POIs on the map, and Season 8 has Cubes running amok, corrupting large swaths of land before forming The Convergence in place of The Aftermath.\n\nThe Queen is on step closer to taking over Apollo Island.\n\nThere are rumors that The Convergence will eventually turn into a giant pyramid, spreading corruption over the entire island and turning it into a wasteland for Chapter 2, Season 9. Whether or not this is true is yet to be seen, but a pyramid fits with some of HYPEX's leaks, and there have been hints of Mad Max-style cars in the past.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Fortnite Chapter 2, Season 9 Trailer",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "It is still too early in Chapter 2, Season 8 for a Season 9 trailer to have dropped, but this section will be updated as soon as it does.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Fortnite Chapter 2, Season 9 Battle Pass",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "There is currently no known information leaked or officially released by Epic concerning the Chapter 2, Season 8 Battle Pass. It is expected that Season 9 will still feature the use of Battle Stars, with players unlocking page by page of rewards, but it is unknown what will be featured.\n\nMore information to come as it becomes available.",
+        "isNative": "false"
       }
     ],
     "content5": [
@@ -215,22 +515,8 @@
         "isLink": "false",
         "link_title": "",
         "setLink": "",
-        "image_link": "https://cdn.png",
-        "text": "Fortnite Season 9: Leaks, Release Date, Map, Trailer, Battle Pass, Theme, Skins and More",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "27",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
         "image_link": "",
-        "text": "What's Next for the Apollo Island?",
+        "text": "Fortnite Chapter 2, Season 9 Theme",
         "isNative": "false"
       },
       {
@@ -244,8 +530,36 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Fortnitemares 2021 is over",
-        "isNative": "true"
+        "text": "Fortnite Chapter 2, Season 8 brought The Sideways to the island, a major force that threatens IO and their grip on the Zero Point. During the opening cinematic of Season 8, we saw the awakening of The Foundation, who was blown into the ocean following the destruction of The Spire at the beginning of Season 7.\n\nWill fans finally get to see The Foundation and Agent Jones back in the spotlight again? It is possible this will be the case, which means other members of The Seven may get involved. It is also possible that Midas may make a reappearance since Epic has focused three months of The Crew around his Shadow operatives.\n\nThere is also a new Batman/Fortnite crossover comic, one that features the Foundation and answers many questions about the Zero Point, the Seven, and Geno. The comic ends in way that it perfectly sets up the Foundation's return to Apollo Island, and he will hopefully play a bigger part in what comes next.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "27",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "A Post Apocalyptic Wasteland",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "There are several rumors floating about, but one thing seems to mesh between them. Apollo Island is going to turn into some sort of wasteland. Whether this is a dry desert similar to the Mad Max movies or a frozen tundra with a magical dark ages theme is yet to be seen.",
+        "isNative": "false"
       }
     ],
     "content6": [
@@ -259,22 +573,8 @@
         "isLink": "false",
         "link_title": "",
         "setLink": "",
-        "image_link": "https://cdn.png",
-        "text": "Fortnite Season 9: Leaks, Release Date, Map, Trailer, Battle Pass, Theme, Skins and More",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "27",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "What's Next for the Apollo Island?",
+        "image_link": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/d61f733f3b5729b794eb15438f9e359646eda647-1600x800.jpg?w=700&h=350&auto=format",
+        "text": "Fortnite Chapter 2, Season 9 Theme",
         "isNative": "false"
       },
       {
@@ -288,8 +588,38 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Fortnitemares 2021 is over",
-        "isNative": "true"
+        "text": "While there are sure to be some exciting skin and other new cosmetic items in the Chapter 2, Season 9 Battle Pass, players can be sure that Epic will release a slew of new skins, both original and licensed over the course of the Season. While there has been no news of this as of yet, it is possible several skins from the recent survey sent out to certain individuals may show up in the game.\n\nIf Season 9 really does end up with a Road Warrior theme, could fans see an actual Mad Max set of skins? If the Island goes cold and dark, might we see Doctor Strange and The Grinch, like other leaks are saying?",
+        "isNative": "false"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "30",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/222993b548182ff1d160d046d3dddc1888739dad-1920x1080.jpg?rect=0,1,1920,1078&w=700&h=393&auto=format",
+        "text": "Fortnite Chapter 2, Season 8 Events",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "With Fortnite Season 9 launching in December, players can be sure there will be some sort of Holiday events taking place on Apollo Island and in Creative Mode. It is possible past Holiday Events will return, though with the way things have been going in Season 8 there may even be some NEW Events arriving for fans to enjoy.",
+        "isNative": "false"
       }
     ]
   }
