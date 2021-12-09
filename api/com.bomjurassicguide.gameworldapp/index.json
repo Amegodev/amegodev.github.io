@@ -1,0 +1,119 @@
+{
+    "GuideData": {
+      "AdsController": [
+        {
+          "NetworkAds": "admob",
+          "AdMobId": "pub-3940256099942544",
+          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "BannerFacebook": "#",
+          "InterstitialFacebook": "#",
+          "NativeFacebook": "#",
+          "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+          "BannerAppLovin": "b04abe94402cf22c",
+          "InterstitialAppLovin": "cde52591fc6b7e58",
+          "MRECAppLovin": "8c4b51d8d7240373",
+          "RewardAppLovin": "4fe70ee0e625c0cd"
+        }
+      ],
+      "items": [
+        {
+          "title": "A VERY DIFFERENT WORLD",
+          "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c19tb3NhMl8xOTIweDEwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19"
+        },
+        {
+          "title": "A Hidden Path",
+          "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
+        }
+      ],
+      "content1": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "35",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "A VERY DIFFERENT WORLD",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "30",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c19tb3NhMl8xOTIweDEwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19",
+          "text": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution, building upon the ground-breaking and immersive 2018 management simulation. It introduces a compelling new narrative campaign, incredible new features, a range of new locations, and awe-inspiring new dinosaurs brought to life with captivating authenticity. Together with expanded construction and more customisation options, the result is an even bigger, better Jurassic World game, created with captivating authenticity.",
+          "isNative": "true"
+        }
+      ],
+      "content2": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "A Hidden Path",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Head to the Abandoned Mine in the southwestern part of the area then go inside. Avoid the bats as they damage you and speak with your grandpa at the dead end. Next, stand on the guardian symbol and use your Guardian’s Horn. You’ll receive A Hidden Path trophy!",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "The Farmer and the Old Shovel",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Speak with the man hoeing outside of grandpa’s house to obtain this quest. Next, travel southeast of him following the signs for Calo Cabbage Patch to find Zirra in her water fields. Look for the strip of tan along the bank to enter the water then speak with Zirra. She’ll need you to return to the farmer near grandpa’s house and ask him for the shovel. Do so and this will earn you The farmer and the old shovel trophy!",
+          "isNative": "false"
+        }
+      ]
+    }
+  }
