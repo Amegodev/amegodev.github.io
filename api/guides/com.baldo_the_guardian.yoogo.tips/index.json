@@ -23,8 +23,24 @@
         "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
       },
       {
-        "title": "A Hidden Path",
+        "title": "The Guardian Owls Review",
         "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
+      },
+      {
+        "title": "Reviewing this game",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list3.jpg"
+      },
+      {
+        "title": "Dungeon design",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list4.jpg"
+      },
+      {
+        "title": "The combat feels very much a microcosm⋯",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list4.jpg"
+      },
+      {
+        "title": "A Hidden Path",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list6.jpg"
       }
     ],
     "content1": [
@@ -142,6 +158,182 @@
       }
     ],
     "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Guardian Owls Review",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Imagine working on something for 15 years. Consider the life events that could take place during a 15-year window. What about the advances in that respective field during that time? Think about just thinking about the same project for 180 months. That’s 782 weeks. It’s 5475 days. In minutes? 131,400.\n\nNow imagine submitting the project for approval. Elation? Relief? Probably a bit of both. In the case of the staff at NAPS team, the indie development house behind Baldo, I can only begin to imagine how they felt when the game was finally released to the world. Years of work all signed off and shipped out in one fell swoop.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://switchplayer.net/wp-content/uploads/2021/10/Baldo-The-Guardian-Owls-3-700x393.jpeg",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "What’s even harder to fathom is how the team will have responded to the lukewarm reception upon its release late last month. While 250,000 players had reportedly bought the game three weeks after its bow on the Nintendo Switch, the launch continues to be plagued by glitches, scepticism, and game-breaking bugs. Be it the poor distribution of review codes or the social media minefield in the days after its release, to say that Baldo’s launch could have been better would be an understatement.\n\nIt’s a real shame. Ever since its announcement in an earlier Indie Direct, this Studio Ghibli-esque game with The Legend of Zelda-like gameplay has had players talking. The delay in 2020 didn’t seem to deter fans, with Baldo becoming a highly anticipated title within the gaming community. How times change eh?",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Reviewing this game",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Reviewing this game at launch would have declared Baldo a buggy mess to stay clear of. Invisible walls, missing items, failed power-ups. There was a plethora of issues that meant players would fall out of love very quickly. That being said, there were many who loved it in spite of these issues — myself included. Be it the artistic direction, the lack of handholding, or the devilish dungeons, something clicked.\n\nFortunately, in the months that have followed, the two-man team have been working hard to deliver on their promise of a ‘captivating open-world’ that is ‘full of challenging puzzles to solve and intricate dungeons to explore.’ For the most part, NAPS Team have managed to develop an extensive open-world RPG that is presented rather beautifully. It’s still very rough around the edges, and any recommendation to play comes with more than a few caveats; however, it’s a game that has the potential to get its claws in if you let it.\n\nWhat I like most about Baldo is the sense of freedom. There’s little direction, with quests being opened and accessed in any order. There are some that require items you may not have, but you are left to work that out for yourself. This, coupled with a map that doesn’t pinpoint your exact location and only serves as a guide, makes for a proper adventure.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://switchplayer.net/wp-content/uploads/2021/10/Baldo-The-Guardian-Owls-2-700x393.jpeg",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Dungeon design",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://switchplayer.net/wp-content/uploads/2021/10/Baldo-The-Guardian-Owls-700x393.jpeg",
+        "text": "Reviewing this game at launch would have declared Baldo a buggy mess to stay clear of. Invisible walls, missing items, failed power-ups. There was a plethora of issues that meant players would fall out of love very quickly. That being said, there were many who loved it in spite of these issues — myself included. Be it the artistic direction, the lack of handholding, or the devilish dungeons, something clicked.\n\nFortunately, in the months that have followed, the two-man team have been working hard to deliver on their promise of a ‘captivating open-world’ that is ‘full of challenging puzzles to solve and intricate dungeons to explore.’ For the most part, NAPS Team have managed to develop an extensive open-world RPG that is presented rather beautifully. It’s still very rough around the edges, and any recommendation to play comes with more than a few caveats; however, it’s a game that has the potential to get its claws in if you let it.\n\nWhat I like most about Baldo is the sense of freedom. There’s little direction, with quests being opened and accessed in any order. There are some that require items you may not have, but you are left to work that out for yourself. This, coupled with a map that doesn’t pinpoint your exact location and only serves as a guide, makes for a proper adventure.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "https://switchplayer.net/wp-content/uploads/2021/10/Baldo-The-Guardian-Owls-4-700x393.jpeg",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The combat feels very much a microcosm⋯",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The combat feels very much a microcosm for the game as a whole. It lacks finesse and fine tuning, culminating in an RPG that requires a level of patience and understanding that some players won’t be willing to give it.  You only need look as far as the recently released Eastward to see how much polish is lacking here, but that isn’t to say that Baldo isn’t deserving of your time.\n\nBaldo’s biggest challenge right now is gaining the confidence of the gaming community. Two hot fixes were applied within its first month, directly addressing all manner of bugs that make it much more playable. The larger concern though is that a game of this size has so many variables to contend with, it’s likely that not all bugs have been encountered yet, let alone fixed. I have every faith that NAPS Team will continue to work to address any issues that do appear — after all, there is 15 years’ worth of work invested in this.\n\nMy time with Baldo has been, for the most part, entertaining. I’ve loved exploring the sprawling map, wandering where I please and tackling the puzzles found within. Although some issues have been fixed, a few things let it down but none of it is significant enough to deter potential players.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
       {
         "ordered": "image_text",
         "color": "#f56342",
