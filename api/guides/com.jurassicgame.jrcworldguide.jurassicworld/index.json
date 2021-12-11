@@ -24,8 +24,20 @@
           "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c19tb3NhMl8xOTIweDEwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19"
         },
         {
-          "title": "A Hidden Path",
-          "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
+          "title": "AN ORIGINAL JURASSIC WORLD STORY",
+          "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA1L2ZlYXR1cmUtMDEtd2lsZC10cmlrZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE2MDB9fX0="
+        },
+        {
+          "title": "CREATE YOUR OWN JURASSIC WORLD",
+          "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c18xOTIweDEwODBfdGFpZ2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19"
+        },
+        {
+          "title": "PLAY WITH CHAOS THEORY",
+          "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2dsX3ByZS1vcmRlcl9tYXJrZXRpbmdfc2NyZWVuc2hvdHNfMTkyMHgxMDgwXzEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMH19fQ=="
+        },
+        {
+          "title": "REALISTIC DINOSAURS",
+          "image": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c18xOTIweDEwODBfdmVsb2MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19"
         }
       ],
       "content1": [
@@ -65,12 +77,12 @@
           "style": "blood",
           "gravity": "left",
           "left": "10",
-          "text_size": "25",
+          "text_size": "35",
           "isLink": "false",
           "link_title": "",
           "setLink": "",
           "image_link": "",
-          "text": "A Hidden Path",
+          "text": "AN ORIGINAL JURASSIC WORLD STORY",
           "isNative": "false"
         },
         {
@@ -79,26 +91,28 @@
           "style": "blood",
           "gravity": "left",
           "left": "10",
-          "text_size": "25",
+          "text_size": "30",
           "isLink": "false",
           "link_title": "",
           "setLink": "",
-          "image_link": "",
-          "text": "Head to the Abandoned Mine in the southwestern part of the area then go inside. Avoid the bats as they damage you and speak with your grandpa at the dead end. Next, stand on the guardian symbol and use your Guardian’s Horn. You’ll receive A Hidden Path trophy!",
+          "image_link": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA1L2ZlYXR1cmUtMDEtd2lsZC10cmlrZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE2MDB9fX0=",
+          "text": "Immerse yourself in a compelling and original Jurassic World narrative set after the earth-shattering events of Jurassic World: Fallen Kingdom. Work alongside iconic characters from the films, including Dr. Ian Malcolm (voiced by Jeff Goldblum) and Claire Dearing (voiced by Bryce Dallas Howard), and lead the efforts of the DFW (Department of Fish and Wildlife) to control, conserve, and contain wild dinosaurs now rampaging across the USA. Build all-new facilities to house various species.",
           "isNative": "true"
-        },
+        }
+      ],
+      "content3": [
         {
           "ordered": "image_text",
           "color": "#f56342",
           "style": "blood",
           "gravity": "left",
           "left": "10",
-          "text_size": "25",
+          "text_size": "35",
           "isLink": "false",
           "link_title": "",
           "setLink": "",
           "image_link": "",
-          "text": "The Farmer and the Old Shovel",
+          "text": "CREATE YOUR OWN JURASSIC WORLD",
           "isNative": "false"
         },
         {
@@ -107,13 +121,73 @@
           "style": "blood",
           "gravity": "left",
           "left": "10",
-          "text_size": "25",
+          "text_size": "30",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c18xOTIweDEwODBfdGFpZ2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19",
+          "text": "Take control with deeper management tools and creative options. Construct a range of new and customisable buildings, shape your park to meet the demands and needs of your guests and your dinosaurs,  manage your new Veterinary Units and Scientists, and test your skills across never-before-seen locations, ranging from dense forests to rocky deserts and more, as you deal with new environmental challenges. You can unleash your creativity in Sandbox mode, or truly test your managing skills in Challenge mode.",
+          "isNative": "true"
+        }
+      ],
+      "content4": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "35",
           "isLink": "false",
           "link_title": "",
           "setLink": "",
           "image_link": "",
-          "text": "Speak with the man hoeing outside of grandpa’s house to obtain this quest. Next, travel southeast of him following the signs for Calo Cabbage Patch to find Zirra in her water fields. Look for the strip of tan along the bank to enter the water then speak with Zirra. She’ll need you to return to the farmer near grandpa’s house and ask him for the shovel. Do so and this will earn you The farmer and the old shovel trophy!",
+          "text": "PLAY WITH CHAOS THEORY",
           "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "30",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2dsX3ByZS1vcmRlcl9tYXJrZXRpbmdfc2NyZWVuc2hvdHNfMTkyMHgxMDgwXzEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMH19fQ==",
+          "text": "Chaos Theory mode lets you play through key moments of your favourite films - with a twist. Experience ‘what-if’ scenarios from iconic Jurassic World and Jurassic Park films, with each level set across eras and locations from all five movies. Immerse yourself in the Jurassic World franchise and see how things turn out when you are put at the helm of managing new challenges with unpredictable outcomes.",
+          "isNative": "true"
+        }
+      ],
+      "content5": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "35",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "REALISTIC DINOSAURS",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "30",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L2p3ZTJfcHJlLW9yZGVyX21hcmtldGluZ19zY3JlZW5zaG90c18xOTIweDEwODBfdmVsb2MuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwfX19",
+          "text": "More than 75 different prehistoric species come to life in Jurassic World Evolution 2, including highly requested flying and marine reptiles, and returning community-favourite dinosaurs. These majestic creatures feel more alive than ever as they preside over territory, and display brand-new behaviours when interacting with each other, fighting for dominance, and reacting intelligently to the world around them. Players can use bioengineering to customise their dinosaurs with bold new colours and pattern colours, and alter their genomes to unlock different traits.",
+          "isNative": "true"
         }
       ]
     }
