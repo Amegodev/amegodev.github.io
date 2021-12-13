@@ -16,16 +16,16 @@
       ],
       "items": [
         {
-          "title": "Introduction Main Quests Online",
+          "title": "مباريات",
+          "image": "https://i0.wp.com/www.eg24.news/eg/wp-content/uploads/2021/04/608860d14c59b761a62930b8.JPG?fit=980%2C551&ssl=1"
+        },
+        {
+          "title": "اخبار متنوعة",
           "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
         },
         {
-          "title": "A Hidden Path",
+          "title": "جدول المباريات",
           "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
-        },
-        {
-          "title": "A Hidden Path",
-          "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list3.jpg"
         }
       ],
       "content1": [
@@ -70,137 +70,9 @@
           "image_link": "",
           "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
           "isNative": "true"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#f56342",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Talk to Mrs. Iaddina",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Exit grandpa’s house and head northeast. Just before the starting area, take the stairs down and follow the path on the right. Walk across the small bridge then enter the house. Proceed through the house and exit out the back to reach Iaddina. Speaking with her will trigger the Talk to Chickwoman trophy! She will also give you a side quest to find her missing chickens!",
-          "isNative": "true"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#f56342",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "The Abandoned Owl Tower",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Head northwest from Iaddina to come to the store. Speak with the boy to the left of the store to learn that he spotted a chicken in the area. Afterwards, a brief scene will trigger showing the chicken heading into Owl Tower. Make your way there and head inside to trigger The Abandoned Owl Tower trophy. To get out of the tower, you’ll need to push the 2 stone owls onto the golden squares on the floor. Next, head to the decorated tile on the floor in front of one of the eyes and tell Yuna to wait. Head to the other decorated tile on the floor in front of the other eyes and stand there to trigger a cutscene. Once it’s done, head to the guardian symbol in the middle of the floor and play the Guardian’s Horn, revealing a ladder. Climb up it. Again, play the Guardian’s Horn on the guardian symbol when prompted by the owl to reveal a door.",
-          "isNative": "true"
         }
       ],
       "content2": [
-        {
-          "ordered": "image_text",
-          "color": "#f56342",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "A Hidden Path",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Head to the Abandoned Mine in the southwestern part of the area then go inside. Avoid the bats as they damage you and speak with your grandpa at the dead end. Next, stand on the guardian symbol and use your Guardian’s Horn. You’ll receive A Hidden Path trophy!",
-          "isNative": "true"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#f56342",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "The Farmer and the Old Shovel",
-          "isNative": "false"
-        },
-        {
-          "ordered": "image_text",
-          "color": "#FFFFFF",
-          "style": "blood",
-          "gravity": "left",
-          "left": "10",
-          "text_size": "25",
-          "isLink": "false",
-          "link_title": "",
-          "setLink": "",
-          "image_link": "",
-          "text": "Speak with the man hoeing outside of grandpa’s house to obtain this quest. Next, travel southeast of him following the signs for Calo Cabbage Patch to find Zirra in her water fields. Look for the strip of tan along the bank to enter the water then speak with Zirra. She’ll need you to return to the farmer near grandpa’s house and ask him for the shovel. Do so and this will earn you The farmer and the old shovel trophy!",
-          "isNative": "false"
-        }
-      ],
-      "content3": [
         {
           "ordered": "image_text",
           "color": "#f56342",
