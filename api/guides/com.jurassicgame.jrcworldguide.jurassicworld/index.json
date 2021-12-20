@@ -2,7 +2,7 @@
     "GuideData": {
       "AdsController": [
         {
-          "NetworkAds": "admob",
+          "NetworkAds": "applovin",
           "AdMobId": "pub-7200723121807417",
           "BannerAdmob": "ca-app-pub-7200723121807417/6709007916",
           "InterstitialAdmob": "ca-app-pub-7200723121807417/8193464064",
