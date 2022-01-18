@@ -1,0 +1,134 @@
+{
+    "GuideData": {
+      "AdsController": [
+        {
+          "NetworkAds": "admob",
+          "AdMobId": "pub-3940256099942544",
+          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+          "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+          "BannerAppLovin": "2d8429f8631bb434",
+          "InterstitialAppLovin": "cf735f3d1bcf62bf",
+          "MRECAppLovin": "#",
+          "RewardAppLovin": "#"
+        }
+      ],
+      "items": [
+        {
+          "title": "مباريات",
+          "image": "https://i0.wp.com/www.eg24.news/eg/wp-content/uploads/2021/04/608860d14c59b761a62930b8.JPG?fit=980%2C551&ssl=1"
+        },
+        {
+          "title": "اخبار متنوعة",
+          "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
+        },
+        {
+          "title": "جدول المباريات",
+          "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
+        }
+      ],
+      "content1": [
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Below is a walkthrough on the main quests in Baldo The Guardian Owls! Please note that it's also in the order that we did them in!",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Meet Baldo’s Grandpa",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
+          "isNative": "true"
+        }
+      ],
+      "content2": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "A Hidden Path",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Head to the Abandoned Mine in the southwestern part of the area then go inside. Avoid the bats as they damage you and speak with your grandpa at the dead end. Next, stand on the guardian symbol and use your Guardian’s Horn. You’ll receive A Hidden Path trophy!",
+          "isNative": "true"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "The Farmer and the Old Shovel",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Speak with the man hoeing outside of grandpa’s house to obtain this quest. Next, travel southeast of him following the signs for Calo Cabbage Patch to find Zirra in her water fields. Look for the strip of tan along the bank to enter the water then speak with Zirra. She’ll need you to return to the farmer near grandpa’s house and ask him for the shovel. Do so and this will earn you The farmer and the old shovel trophy!",
+          "isNative": "false"
+        }
+      ]
+    }
+  }
