@@ -17,6 +17,6 @@
     "networkAd" : "ironsource",
     "appkey_is": "feda1f81",
     "banner_is": "DefaultBanner",
-    "inter_is": "DefaultInterstitial",
+    "inter_is": "DefaultInterstitial"
   }
 }
