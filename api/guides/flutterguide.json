@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Title 1",
-      "coverUrl": "https://www.ingeniovirtual.com/descubrezapatillas/tags/1486?p=5.6.3013296.6.20.31.placeholder+picture",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
       "content": [
         {
           "isLink": "false",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Title 2 long one that can be tall more than device width",
-      "coverUrl": "https://www.ingeniovirtual.com/descubrezapatillas/tags/1486?p=5.6.3013296.6.20.31.placeholder+picture",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
       "content": [
         {
           "subTitle": "",
