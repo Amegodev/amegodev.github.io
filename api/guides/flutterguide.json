@@ -31,9 +31,9 @@
     }
   ],
   "config": {
-    "currentAppVersion": "1.0.0",
+    "currentAppVersion": "2.0.0",
     "forceUpdate": "false",
-    "title": "update_available",
+    "title": "update available",
     "body": "update_message",
     "updateLink": "https://play.google.com/store/apps/details?id=com.happyplay.tips.guide_tips_app",
     "approved": "true"
