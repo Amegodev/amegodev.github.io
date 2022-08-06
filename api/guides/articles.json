@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "title": "Title 1",
+      "coverUrl": "https://www.ingeniovirtual.com/descubrezapatillas/tags/1486?p=5.6.3013296.6.20.31.placeholder+picture",
+      "content": [
+        {
+          "isLink": "false",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": "true"
+        }
+      ]
+    },
+    {
+      "title": "Title 2 long one that can be tall more than device width",
+      "coverUrl": "https://www.ingeniovirtual.com/descubrezapatillas/tags/1486?p=5.6.3013296.6.20.31.placeholder+picture",
+      "content": [
+        {
+          "subTitle": "",
+          "isLink": "false",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": "true"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": "false",
+    "title": "update_available",
+    "body": "update_message",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.happyplay.tips.guide_tips_app",
+    "approved": "true"
+  },
+  "ads": {
+    "adNetwork": "applovin",
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banners": [
+        "/6499/example/banner",
+        "ca-app-pub-5345037485983429/5704363995"
+      ],
+      "inters": [
+        "/6499/example/interstitial",
+        "ca-app-pub-5345037485983429/9466433461"
+      ],
+      "rewards": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "natives": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "mRecs": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ]
+    }
+  }
+}
