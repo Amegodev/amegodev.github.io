@@ -5,12 +5,12 @@
       "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
       "content": [
         {
-          "isLink": "false",
+          "isLink": false,
           "linkTitle": "",
           "Link": "",
           "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
           "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-          "isNative": "true"
+          "isNative": true
         }
       ]
     },
@@ -20,23 +20,23 @@
       "content": [
         {
           "subTitle": "",
-          "isLink": "false",
+          "isLink": false,
           "linkTitle": "",
           "Link": "",
           "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
           "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-          "isNative": "true"
+          "isNative": true
         }
       ]
     }
   ],
   "config": {
     "currentAppVersion": "2.0.0",
-    "forceUpdate": "false",
+    "forceUpdate": false,
     "title": "update available",
     "body": "update_message",
     "updateLink": "https://play.google.com/store/apps/details?id=com.happyplay.tips.guide_tips_app",
-    "approved": "true"
+    "approved": true
   },
   "ads": {
     "adNetwork": "applovin",
