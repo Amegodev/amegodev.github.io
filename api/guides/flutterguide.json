@@ -30,8 +30,10 @@
       ]
     }
   ],
+  "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg",
+  "backgroundColor" : "424242",
   "config": {
-    "currentAppVersion": "1.0.0",
+    "currentAppVersion": "2.0.0",
     "forceUpdate": false,
     "title": "update available",
     "body": "update_message",
