@@ -20,7 +20,7 @@
     "backgroundColor": "424242",
     "config": {
         "currentAppVersion": "2.0.0",
-        "forceUpdate": false,
+        "forceUpdate": true,
         "title": "update available",
         "body": "update_message var",
         "updateLink": "https://play.google.com/store/apps/details?id=com.pro.soft.likenastyafakecall",
