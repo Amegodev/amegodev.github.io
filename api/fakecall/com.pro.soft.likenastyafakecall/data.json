@@ -5,7 +5,7 @@
     "messages": [
         "Hi! 👋",
         "What's your name?",
-        "Nice to meet you 🥰, I am Me contro Te, do you know me?",
+        "Nice to meet you 🥰, I am Like Nastya, do you know me?",
         "How old are you?",
         "Where do you live?",
         "Good, How do you find your city?",
@@ -22,7 +22,7 @@
         "currentAppVersion": "2.0.0",
         "forceUpdate": true,
         "title": "update available",
-        "body": "update_message var",
+        "body": "Update var available 🎉, download now and get latest features.",
         "updateLink": "https://play.google.com/store/apps/details?id=com.pro.soft.likenastyafakecall",
         "approved": true
     },
