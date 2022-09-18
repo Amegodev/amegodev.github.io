@@ -19,7 +19,7 @@
     ],
     "backgroundColor": "424242",
     "config": {
-        "currentAppVersion": "1.0.0",
+        "currentAppVersion": "2.0.0",
         "forceUpdate": false,
         "title": "update available",
         "body": "update_message var",
