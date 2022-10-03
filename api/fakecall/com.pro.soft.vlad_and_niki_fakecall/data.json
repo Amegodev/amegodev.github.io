@@ -31,12 +31,12 @@
         "ids": {
             "appId": "ca-app-pub-3940256099942544~3347511713",
             "banners": [
-                "/6499/example/banner",
-                "ca-app-pub-5345037485983429/5704363995"
+                "8ef20b3210453f43",
+                "8ef20b3210453f43"
             ],
             "inters": [
-                "/6499/example/interstitial",
-                "ca-app-pub-5345037485983429/9466433461"
+                "4ba05bf8e2180cd8",
+                "4ba05bf8e2180cd8"
             ],
             "rewards": [
                 "/6499/example/rewarded",
