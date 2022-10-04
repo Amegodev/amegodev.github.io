@@ -1,0 +1,59 @@
+{
+    "title": "Kids Diana Fake Call",
+    "icon": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/com.pro.soft.rainbow_friends_fakecall/icon.png",
+    "backgroundImg": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/com.pro.soft.rainbow_friends_fakecall/bg.jpg",
+    "messages": [
+        "Hi! 👋",
+        "What's your name?",
+        "Nice to meet you 🥰, I am Rainbow friends, do you know me?",
+        "How old are you?",
+        "Where do you live?",
+        "Good, How do you find your city?",
+        "You will advise me to live in your city 🤔?",
+        "Okay! There are many parks for playing?",
+        "That sounds nice 😍! You prefer playing with friends or siblings?",
+        "Ah! Why?",
+        "Okay! I will be your playing friend then.",
+        "Do you Like this Application 🤗🤗🤗?..",
+        "Plz rate this application ⭐⭐⭐⭐⭐, and leave a comment ✍️?"
+    ],
+    "backgroundColor": "424242",
+    "config": {
+        "currentAppVersion": "1.0.0",
+        "forceUpdate": false,
+        "title": "update available",
+        "body": "Version var available 🎉, download now and get latest features.",
+        "updateLink": "https://play.google.com/store/apps/details?id=com.pro.soft.rainbow_friends_fakecall",
+        "approved": true
+    },
+    "ads": {
+        "adNetwork": "applovin",
+        "ids": {
+            "appId": "ca-app-pub-3940256099942544~3347511713",
+            "banners": [
+                "c94b1c110b767eba",
+                "c94b1c110b767eba"
+            ],
+            "inters": [
+                "3fce2247475ce6b9",
+                "3fce2247475ce6b9"
+            ],
+            "rewards": [
+                "/6499/example/rewarded",
+                "ca-app-pub-5345037485983429/4729397518"
+            ],
+            "natives": [
+                "/6499/example/rewarded",
+                "ca-app-pub-5345037485983429/4729397518"
+            ],
+            "mRecs": [
+                "/6499/example/rewarded",
+                "ca-app-pub-5345037485983429/4729397518"
+            ],
+            "appOpen": [
+                "ca-app-pub-5320310844464753/6936276268",
+                "ca-app-pub-5320310844464753/6936276268"
+            ]
+        }
+    }
+}
