@@ -1,6 +1,6 @@
 {
   "ads": {
-    "adNetwork": "applovin",
+    "adNetwork": "admob",
     "ids": {
       "appId": "ca-app-pub-5320310844464753~9424904854",
       "banners": [
