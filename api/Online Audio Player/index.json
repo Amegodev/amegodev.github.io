@@ -1,0 +1,68 @@
+{
+
+  "files": [
+    {
+      "title": "هاي هاي هاي هاي.. تا اي حاجة تديها؟",
+      "url": "https://srv7.onlymp3.to/download?file=0fc68e0bf9e98dc30f53d96301ea7cd7140003&token=o8cYrJzFhJSRr_tU7c2Z8A&expires=1655573174057&s=EkhNIScYSnSuNqf22Vbq3g",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v1fWLkFnb1BgXIVsRDBBpccgerwIwkac8HbAXiyq82FHfIXi8uP_MJRI_Gm46O16XRg&usqp=CAU"
+    },
+    {
+      "title": "Title 2",
+      "url": "https://example.com",
+      "cover": ""
+    },
+    {
+      "title": "Title 3",
+      "url": "https://example.com",
+      "cover": ""
+    },
+    {
+      "title": "Title 4",
+      "url": "https://example.com",
+      "cover": "Title "
+    },
+    {
+      "title": "Title 5",
+      "url": "https://example.com",
+      "cover": ""
+    }
+  ],
+  "ads": {
+    "adNetwork": "applovin",
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banners": [
+        "32bfc20b7ebee2c3",
+        "ca-app-pub-5345037485983429/5704363995"
+      ],
+      "inters": [
+        "59af0f55eaa90e09",
+        "ca-app-pub-5345037485983429/9466433461"
+      ],
+      "rewards": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "natives": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "mRecs": [
+        "/6499/example/rewarded",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "appOpen": [
+        "ca-app-pub-5320310844464753/6936276268",
+        "ca-app-pub-5320310844464753/6936276268"
+      ]
+    }
+  },
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": false,
+    "title": "update_available",
+    "body": "update_message",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.prosoft.fake_post_for_fb",
+    "approved": true
+  }
+}
