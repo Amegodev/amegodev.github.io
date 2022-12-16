@@ -1,0 +1,61 @@
+{
+    "currentAppVersion": "2.0.0",
+    "forceUpdate": true,
+    "title": "update_available",
+    "body": "update_message",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.prosoft.fake_post_for_fb",
+    "approved": true,
+    "ads": {
+        "adNetwork": "admob",
+        "ids": {
+            "appId": "2215451331176801",
+            "banner": "98095d8b4ef0b64c",
+            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-5345037485983429/4729397518",
+            "mRec": "/6499/example/rewarded",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        }
+    },
+    "apps": {
+        "defaultApp": "sounds",
+        "sounds": {
+            "categories": [
+                {
+                    "title": "MEMES Sounds",
+                    "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+                    "audios": [
+                        {
+                            "title": "You look like a 'hhh'",
+                            "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "PRANK Sounds",
+                    "cover": "https://cdn-icons-png.flaticon.com/512/1384/1384688.png",
+                    "audios": [
+                        {
+                            "title": "You look like a 'hhh'",
+                            "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
+                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+                        },
+                        {
+                            "title": "Fuck This Shit I' Ou'",
+                            "url": "https://example.com",
+                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/d6696188-c3bd-4c1e-aa7f-495c06932d30-small.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "OTHER SOUND",
+                    "cover": "http://cdn.onlinewebfonts.com/svg/img_228274.png",
+                    "audios": []
+                }
+            ]
+        },
+        "guide": {},
+        "pdf": {}
+    }
+}
