@@ -1,6 +1,6 @@
 {
     "currentAppVersion": "2.0.0",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "title": "update_available",
     "body": "update_message",
     "updateLink": "https://play.google.com/store/apps/details?id=com.prosoft.fake_post_for_fb",
