@@ -3,7 +3,7 @@
     "forceUpdate": false,
     "title": "update_available",
     "body": "update_message",
-    "updateLink": "https://play.google.com/store/apps/details?id=com.prosoft.fake_post_for_fb",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
     "approved": true,
     "ads": {
         "adNetwork": "admob",
@@ -79,8 +79,8 @@
                         {
                             "subTitle": "Hello Hello 1",
                             "isLink": true,
-                            "linkTitle": "Download",
-                            "Link": "",
+                            "linkTitle": "Download App",
+                            "Link": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
                             "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
                             "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
                             "isNative": false
@@ -98,7 +98,7 @@
                             "subTitle": "Hello Hello 3",
                             "isLink": true,
                             "linkTitle": "Download",
-                            "Link": "",
+                            "Link": "https://github.com/Amegodev/amegodev.github.io/blob/master/api/personal_package/data.json",
                             "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
                             "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
                             "isNative": false
