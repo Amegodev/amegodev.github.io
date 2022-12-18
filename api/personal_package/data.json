@@ -63,11 +63,19 @@
           "content": [
             {
               "subTitle": "Introduction",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+              "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\n",
+              "isNative": true
+            },
+            {
+              "subTitle": "",
               "linkTitle": "GitHub",
               "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
-              "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
-              "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\nSource code of the guide's one-lane-tap-only rhythm game engine can be found on",
-              "isNative": true
+              "img_url": "",
+              "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+              "isNative": false
             }
           ]
         },
