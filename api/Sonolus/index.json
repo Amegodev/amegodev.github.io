@@ -6,8 +6,8 @@
   "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
   "approved": true,
   "ads": {
-    "adNetwork": "admob",
-    "ids": {
+    "adNetwork": "applovin",
+    "idsadùob": {
       "appId": "2215451331176801",
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "inter": "ca-app-pub-3940256099942544/1033173712",
@@ -16,11 +16,11 @@
       "mRec": "/6499/example/rewarded",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "idsTest": {
-      "appId": "2215451331176801",
-      "banner": "98095d8b4ef0b64c",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "reward": "ca-app-pub-3940256099942544/5224354917",
+    "ids": {
+      "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+      "banner": "0e1801f0d2d177c0",
+      "inter": "712bae85337cd969",
+      "reward": "e3e2458663e289e7",
       "native": "ca-app-pub-5345037485983429/4729397518",
       "mRec": "/6499/example/rewarded",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
