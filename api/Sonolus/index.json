@@ -161,7 +161,7 @@
               "linkTitle": "",
               "Link": "",
               "img_url": "",
-              "text": "\t\t1. Enable Sideloading",
+              "text": "\t\tI. Enable Sideloading",
               "isNative": false
             },
             {
@@ -185,7 +185,7 @@
               "linkTitle": "",
               "Link": "",
               "img_url": "",
-              "text": " 1. \nSettings 2.\nApps & Notifications 3. \nAdvanced 4. \nSpecial App Access 5. \nInstall Unknown Apps 6. \nSelect a source 7. \nAllow From This Source",
+              "text": "\t\t\t1. Settings \n\t\t\t2.Apps & Notifications \n\t\t\t3. Advanced \n\t\t\t4. Special App Access \n\t\t\t5. Install Unknown Apps \n\t\t\t6. Select a source \n\t\t\t7. Allow From This Source",
               "isNative": false
             },
             {
@@ -193,7 +193,7 @@
               "linkTitle": "",
               "Link": "",
               "img_url": "",
-              "text": "\t\t2. Install",
+              "text": "\t\tII. Install",
               "isNative": false
             },
             {
