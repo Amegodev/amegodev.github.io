@@ -170,7 +170,7 @@
               "Link": "",
               "img_url": "",
               "text": "This step differs depending on your device and Android version, please consult relevant resources.",
-              "isNative": false
+              "isNative": true
             },
             {
               "subTitle": "",
@@ -202,6 +202,21 @@
               "Link": "https://wiki.sonolus.com/getting-started/installing/android.html#sideload",
               "img_url": "",
               "text": "Download and install",
+              "isNative": false
+            }
+          ]
+        }
+        ,
+        {
+          "title": "Introduction",
+          "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+          "content": [
+            {
+              "subTitle": "Sonolus",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
               "isNative": false
             }
           ]
