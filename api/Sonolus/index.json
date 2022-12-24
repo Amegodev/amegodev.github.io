@@ -8,9 +8,9 @@
   "ads": {
     "adNetwork": "applovin",
     "idsadùob": {
-      "appId": "2215451331176801",
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "appId": "ca-app-pub-4485881784602150~1761099848",
+      "banner": "ca-app-pub-4485881784602150/6450846406",
+      "inter": "ca-app-pub-4485881784602150/5269626674",
       "reward": "ca-app-pub-3940256099942544/5224354917",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "mRec": "/6499/example/rewarded",
@@ -22,7 +22,7 @@
       "inter": "712bae85337cd969",
       "reward": "e3e2458663e289e7",
       "native": "ca-app-pub-5345037485983429/4729397518",
-      "mRec": "/6499/example/rewarded",
+      "mRec": "e3e2458663e289e7",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     }
   },
@@ -208,16 +208,16 @@
         }
         ,
         {
-          "title": "Introduction",
-          "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+          "title": "Sonolus wiki on github",
+          "coverUrl": "https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg",
           "content": [
             {
-              "subTitle": "Sonolus",
-              "linkTitle": "",
-              "Link": "",
+              "subTitle": "",
+              "linkTitle": "Sonolus Wiki",
+              "Link": "https://github.com/NonSpicyBurrito/sonolus-wiki/wiki",
               "img_url": "",
               "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
-              "isNative": false
+              "isNative": true
             }
           ]
         }
