@@ -137,39 +137,71 @@
           ]
         },
         {
-          "title": "Title 2",
-          "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+          "title": "Installing on Android",
+          "coverUrl": "https://i0.wp.com/img.talkandroid.com/uploads/2017/04/android_figurine_dark_lights.jpeg?resize=960%2C505&ssl=1",
           "content": [
             {
-              "subTitle": "Hello Hello 1",
-              "linkTitle": "Download App",
-              "Link": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
-              "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-              "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+              "subTitle": "Android",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "Sonolus is currently under development, thus it is not yet available in Android stores.\nTo install Sonolus on Android device, use any of the methods below.",
               "isNative": false
             },
             {
-              "subTitle": "Hello word 2",
+              "subTitle": "Sideload",
               "linkTitle": "",
               "Link": "",
-              "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-              "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
-              "isNative": true
-            },
-            {
-              "subTitle": "Hello Hello 3",
-              "linkTitle": "Download",
-              "Link": "https://github.com/Amegodev/amegodev.github.io/blob/master/api/personal_package/data.json",
-              "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-              "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+              "img_url": "",
+              "text": "",
               "isNative": false
             },
             {
-              "subTitle": "Hello word 1",
+              "subTitle": "",
               "linkTitle": "",
               "Link": "",
-              "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
-              "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+              "img_url": "",
+              "text": "\t\t1. Enable Sideloading",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "This step differs depending on your device and Android version, please consult relevant resources.",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "For example, for vanilla Android Oreo and newer, you can find it in:",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": " 1. \nSettings 2.\nApps & Notifications 3. \nAdvanced 4. \nSpecial App Access 5. \nInstall Unknown Apps 6. \nSelect a source 7. \nAllow From This Source",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "\t\t2. Install",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "Sonolus 0.6.4.apk",
+              "Link": "https://wiki.sonolus.com/getting-started/installing/android.html#sideload",
+              "img_url": "",
+              "text": "Download and install",
               "isNative": false
             }
           ]
