@@ -205,8 +205,7 @@
               "isNative": false
             }
           ]
-        }
-        ,
+        },
         {
           "title": "Sonolus wiki on github",
           "coverUrl": "https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg",
@@ -218,6 +217,98 @@
               "img_url": "",
               "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
               "isNative": true
+            }
+          ]
+        },
+        {
+          "title": "What you need",
+          "coverUrl": "https://lh3.googleusercontent.com/fW2HKWJsgmTaVLUvsS_3sE5BNTEgSlE4TlMyJEmw9cZrSQGk_IT7yCDwLTddm0SHOOb28duRudmirVx1jC5_J8qEjuHgkz5mHxaS8MGVwKDRYcYp9Jr5m19jN3zmtwrN51yTEqw5bWjH9KfGAiZeVDxW0h59blgOV6tHZlnHJR2h6Crtgs-WNg=w1280",
+          "content": [
+            {
+              "subTitle": "Android terminal",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh3.googleusercontent.com/fW2HKWJsgmTaVLUvsS_3sE5BNTEgSlE4TlMyJEmw9cZrSQGk_IT7yCDwLTddm0SHOOb28duRudmirVx1jC5_J8qEjuHgkz5mHxaS8MGVwKDRYcYp9Jr5m19jN3zmtwrN51yTEqw5bWjH9KfGAiZeVDxW0h59blgOV6tHZlnHJR2h6Crtgs-WNg=w1280",
+              "text": "Because it is designed to be lightweight, you can play the game without any problems even on slightly older models!",
+              "isNative": false
+            },
+            {
+              "subTitle": "the internet",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh5.googleusercontent.com/mc2zTnqFyCUUMpoeb6X3O1_hpNFwcBzDMiIgRoN51W7G2UKuUDmdMxdIbU-zBAopk1K8fjN8QGagBX-yv8CqD2eQrNRRuDzNJnX7LTJkUMK2yq3V-WALMuilD2RpVlflO-W4HJ0rQlLIihSDeXG_eC2leSc6UoO_2DPGL1AQQ1Y2iYC49-odzA=w1280",
+              "text": "Sonolus does not include the score or the game itself when the app is installed, and the files necessary for the score are downloaded the moment you press play.\n\nOnce you've played it, you can save it to your collection, which will be explained later, so you can play it even without an internet connection !",
+              "isNative": true
+            },
+            {
+              "subTitle": "free space (if needed)",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh4.googleusercontent.com/IQ8KcQPr1WaCfZnpoeTbTHwgbLUGqWs_ylw0nwE2CASLfr3em85eVjVQyLwcxZAfLWOpRgB0vjqST341N-JTpCMszqXnpY4AHspv-h5-8yJ2az86Y0tOzYVaWlSLXHYdJyLEx7h5iMhpoCUU9qRb3jlMrC9kI0DmnT7lvKwTnEK0NPAuLadYDA=w1280",
+              "text": "As mentioned above, Sonolus saves one song each time you play a score. Therefore, if you want to play only one song, you will need at least 40MB of free space (30MB for the app + 10MB for score data = at least 40MB ) . recommended.",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "",
+              "isNative": false
+            }
+          ]
+        },
+        {
+          "title": "Adjust-timing",
+          "coverUrl": "https://lh6.googleusercontent.com/uuQk9u8CxSBC7ptK9Zb_PY-A1Rer4oYPrsMnadxaOVV3aaWxlbHJKffpWqlupeWZAJTovYn4-j7WdCb5I5oYlZ329ORH9FwylMZ_bgs4AEUxk-sXsAKK7hHrvh0Fyk7z6rZ3UFWG4glqXMCxhJlU6ldf4XOc3BXGPaKR5KrVRxpJ0qadHwl35g=w1280",
+          "content": [
+            {
+              "subTitle": "Tap screen to continue",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh5.googleusercontent.com/3fEFUjZy4szq9mIS6gRfdEKQRbcuHLphng5CwjyCH14snFQYxgNKfg1kXclbPbE6ALNMYwy1m0Ozn8iYU1aLr_JDLQM61kPPLlDdgU7K1CH07oEu5yYzozaIxlsfmRthgcAQbwQZRF9qxk3ySmSZj7EaDOYLcKOq-ZchapnBPT0GL_tv8grFJw=w1280",
+              "text": "Tap to proceed. '0.5.8 Alpha' on this screen is the app version, so if you have any problems, please check this version first.",
+              "isNative": false
+            },
+            {
+              "subTitle": "Select language",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh5.googleusercontent.com/0uYqhrFfSZjgqqCvF68e5ShQYWtuHwb3AKH5zzuPXp1FIIcj3diU0y8fDC7RgqgXEHYjUDgCH6FJdMD4IdC4S6wRjbq6ItI7tsT1Qsp6jW8-9zaC0hXGSqhScuE08de9GoabRNx7UQS_UsttLbgRhkonvU7zqpE2N5G7mW-2WqekoC_XfoVn0w=w1280",
+              "text": "Let's select English or Japanese on this screen . Please be assured that the translation is not a machine translation.",
+              "isNative": true
+            },
+            {
+              "subTitle": "Select theme",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh4.googleusercontent.com/nsqDTr67DCpQ-Jh-JeoT9WAZ-xRVk5K-YTPrPcZ4q_Kk0e5bjVPfC2HjvOi4I_K4qYQocoM4zsSAP2nF_BmZ4DBJzJCpG5C6yK2k2VWCc-OOuDZxW1LpzwAAhsMQoZoukqXOJmJHppn5XbpfjD2_kCOS9xIVQmL1lebDC4vRlEOAPJTiJxn3pg=w1280",
+              "text": "On this screen, select the theme color for the entire app. Choose Dark if you like darker colors, and Light if you like brighter colors. The theme color will be used in every selection screen in sonolus (ex. play result screen)",
+              "isNative": false
+            },
+            {
+              "subTitle": "Adjust sound offset",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh6.googleusercontent.com/uuQk9u8CxSBC7ptK9Zb_PY-A1Rer4oYPrsMnadxaOVV3aaWxlbHJKffpWqlupeWZAJTovYn4-j7WdCb5I5oYlZ329ORH9FwylMZ_bgs4AEUxk-sXsAKK7hHrvh0Fyk7z6rZ3UFWG4glqXMCxhJlU6ldf4XOc3BXGPaKR5KrVRxpJ0qadHwl35g=w1280",
+              "text": "n this screen, you set global offset used in every game at sonolus. If this offset is wrong, you feel sounds are not match to notes.\n\n Don't just copy number from any other game or someone's recommendation. It depends on your device and not same.",
+              "isNative": false
+            },
+            {
+              "subTitle": "Adjust input offset",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://lh3.googleusercontent.com/HR0awHPY1Gu9G2qPs_cr0Hsdh8jI1kQjf22Ve_QMoj8zfEMQkuyeM2KTvCM8pLf65rvwldnR5gbbHZ-Ai-X2oiogFJDgiZVzo2yL4RIyIhAOJIekjVg6nPDa3wPeHEudui8uIKq22wV4VdzFlvH4xQVist78JoSsdB5EbOzWuujGJ_uEMINvcg=w1280",
+              "text": "You will come to this screen next. You should set 0 in this screen.  You can set it arbitrarily if the touch sensor is not working properly. (I haven't seen anyone setting it up, so please let me know if you need it.)",
+              "isNative": false
+            },
+            {
+              "subTitle": "",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "",
+              "isNative": false
             }
           ]
         }
