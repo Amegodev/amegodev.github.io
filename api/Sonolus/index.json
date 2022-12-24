@@ -305,31 +305,39 @@
           ]
         },
         {
-          "title": "Adjust-timing",
-          "coverUrl": "https://lh6.googleusercontent.com/uuQk9u8CxSBC7ptK9Zb_PY-A1Rer4oYPrsMnadxaOVV3aaWxlbHJKffpWqlupeWZAJTovYn4-j7WdCb5I5oYlZ329ORH9FwylMZ_bgs4AEUxk-sXsAKK7hHrvh0Fyk7z6rZ3UFWG4glqXMCxhJlU6ldf4XOc3BXGPaKR5KrVRxpJ0qadHwl35g=w1280",
+          "title": "Add a server",
+          "coverUrl": "https://lh5.googleusercontent.com/ObVIUCP1lLm6GlZ5RMQ41-psR-yRPGm45drkJC74lhf3SfOlOqIIKlMnpiJlIqIN2PxFn95LOuKHU2bYitbm8MJfZPUHNouz55nFKz9m1xOU5UWesopD_AMc0fBqHq_ypAlh5E3qFDfYzkdKNryEQMe80ntnvrOuIHsmZuTo09HpcU6wzIWzrw=w1280",
           "content": [
             {
-              "subTitle": "",
+              "subTitle": "Open server add screen",
               "linkTitle": "",
               "Link": "",
-              "img_url": "",
-              "text": "",
+              "img_url": "https://lh5.googleusercontent.com/ObVIUCP1lLm6GlZ5RMQ41-psR-yRPGm45drkJC74lhf3SfOlOqIIKlMnpiJlIqIN2PxFn95LOuKHU2bYitbm8MJfZPUHNouz55nFKz9m1xOU5UWesopD_AMc0fBqHq_ypAlh5E3qFDfYzkdKNryEQMe80ntnvrOuIHsmZuTo09HpcU6wzIWzrw=w1280",
+              "text": "After open a app and tap, you'll see this screen.\nSelect Start button at this screen.\n\nThen you see server selection screen.\nSonolus is a platform and you can't anything without add a server first.\n(Like smartphones needs to download app)\nPlease select Add button under the custom server title.",
               "isNative": false
             },
             {
               "subTitle": "",
               "linkTitle": "",
               "Link": "",
-              "img_url": "",
-              "text": "",
+              "img_url": "https://lh6.googleusercontent.com/mifGYRclCl5A6WmVdLKucZzeV7BBVBbqgPuoRhrKEJalrf76QefsgLb3wS85xSLpFkNlvvJ0CBmDfPjerlVP8-4mnOsIsaNKIQ_PFoXF7C9bW2_NM-DU3QhSwZO2oOMO82DPKCpOwV1317j6mdNvev0FoyjB4ADuCuqQnU1IovkODuhOBnOSqw=w1280",
+              "text": "FYI: The collection feature is for offline play and you need to download or import from server or scp file before use.",
+              "isNative": true
+            },
+            {
+              "subTitle": "Add server",
+              "linkTitle": "SweetPotato",
+              "Link": "https://servers.purplepalette.net",
+              "img_url": "https://lh5.googleusercontent.com/ObVIUCP1lLm6GlZ5RMQ41-psR-yRPGm45drkJC74lhf3SfOlOqIIKlMnpiJlIqIN2PxFn95LOuKHU2bYitbm8MJfZPUHNouz55nFKz9m1xOU5UWesopD_AMc0fBqHq_ypAlh5E3qFDfYzkdKNryEQMe80ntnvrOuIHsmZuTo09HpcU6wzIWzrw=w1280",
+              "text": "You get server info input screen. Server name is your choice. (It is nickname. You can input fanmade pjsekai or potato or anyhing you like\n\nServer address input is for a address of server.  You can copy our server address with tapping button below. Plz tap the button first. (We made this since everyone input wrong address. Please check the address is same before ask us.) After you paste server address, tap confirm button.",
               "isNative": false
             },
             {
-              "subTitle": "",
+              "subTitle": "Done!",
               "linkTitle": "",
               "Link": "",
-              "img_url": "",
-              "text": "",
+              "img_url": "https://lh3.googleusercontent.com/Ha91v3nQIKdODjNhteXtw1aVl3hQLCfdB_ji6Q6zkSxagWPbWYrK9xn96I_zhv1pPz9fHkdxVh9z0mAvDaL8utJ2QU90xlCcgN6WCdXHro-drOUCNcKOS8vhFiSrSir69dwljkBU5_Lex9U--qbjRwvBFMtQwZlu_hUpjngZtC-wuOfkq-RXPA=w1280",
+              "text": "After you add, you'll back to server selection screen.\nHere you'll see the server you added.",
               "isNative": false
             }
           ]
