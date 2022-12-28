@@ -26,7 +26,7 @@
         "approved": true
     },
     "ads": {
-        "adNetwork": "admob",
+        "adNetwork": "applovin",
         "frequency": 3,
         "ids": {
             "appId": "ca-app-pub-3940256099942544~3347511713",
