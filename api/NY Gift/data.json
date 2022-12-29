@@ -7,6 +7,7 @@
     "approved": true,
     "ads": {
       "adNetwork": "admob",
+        "frequency": 3,
       "ids": {
         "appId": "ca-app-pub-4485881784602150~1761099848",
         "banner": "ca-app-pub-4485881784602150/6450846406",
