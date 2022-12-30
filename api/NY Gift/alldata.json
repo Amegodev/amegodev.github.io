@@ -31,31 +31,40 @@
     "sounds": {
       "categories": [
         {
-          "title": "MEMES Sounds",
-          "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+          "title": "New Year Sounds",
+          "cover": "https://assets.market-storefront.envato-static.com/storefront/assets/home/audiojungle/search-header-520083eef162361022b48a960fd592bee10961885dde01c3755032bcdc4e07bd.png",
           "audios": [
             {
-              "title": "You look like a 'hhh'",
-              "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
-              "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
-            }
-          ]
-        },
-        {
-          "title": "PRANK Sounds",
-          "cover": "https://cdn-icons-png.flaticon.com/512/1384/1384688.png",
-          "audios": [
+              "title": "Wind Chimes Bells",
+              "url": "https://cdn.pixabay.com/download/audio/2022/07/28/audio_24a9969ffa.mp3?filename=wind-chimes-bells-115747.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+            },
             {
-              "title": "You look like a 'hhh'",
-              "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
-              "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+              "title": "SantaClaus HoHoHo",
+              "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_109f0e0f84.mp3?filename=santaclaus_hohoho-73051.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+            },
+            {
+              "title": "Christmas Ident",
+              "url": "https://cdn.pixabay.com/download/audio/2022/02/17/audio_cf8d710c53.mp3?filename=christmas-ident-21090.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+            },
+            {
+              "title": "Deck the Halls",
+              "url": "https://cdn.pixabay.com/download/audio/2022/12/21/audio_cef8b8868e.mp3?filename=deck-the-halls-130365.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+            },
+            {
+              "title": "Elf singing",
+              "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_8df732f7bd.mp3?filename=elf-singing-89296.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+            },
+            {
+              "title": "audience merry xmas",
+              "url": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_4a68c8ab44.mp3?filename=audience-merry-xmas-46708.mp3",
+              "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
             }
           ]
-        },
-        {
-          "title": "OTHER SOUND",
-          "cover": "http://cdn.onlinewebfonts.com/svg/img_228274.png",
-          "audios": []
         }
       ]
     },
