@@ -1,0 +1,49 @@
+{
+    "title": "Cho-Cho video Call",
+    "icon": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/icon.png",
+    "backgroundImg": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/bg.jpg",
+    "messages": [
+        "Hi! 👋",
+        "What's your name?",
+        "Nice to meet you 🥰, I am Choo Choo, do you know me?",
+        "How old are you?",
+        "Where do you live?",
+        "Good, How do you find your city?",
+        "You will advise me to live in your city 🤔?",
+        "Okay! There are many parks for playing?",
+        "That sounds nice 😍! You prefer playing with friends or siblings?",
+        "Ah! Why?",
+        "Okay! I will be your playing friend then.",
+        "Do you Like this Application 🤗🤗🤗?..",
+        "Plz rate this application ⭐⭐⭐⭐⭐, and leave a comment ✍️?"
+    ],
+    "config": {
+        "currentAppVersion": "1.0.0",
+        "forceUpdate": false,
+        "title": "update available",
+        "body": "Version var available 🎉, download now and get latest features.",
+        "updateLink": "https://www.google.com",
+        "approved": true
+    },
+    "ads": {
+        "adNetwork": "applovin",
+        "frequency": 3,
+        "idsadmob": {
+            "appId": "ca-app-pub-3940256099942544~3347511713",
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        },
+        "ids": {
+            "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+            "banner": "0e1801f0d2d177c0",
+            "inter": "712bae85337cd969",
+            "reward": "e3e2458663e289e7",
+            "native": "e3e2458663e289e7",
+            "mRec": "e3e2458663e289e7",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        }
+    }
+}
