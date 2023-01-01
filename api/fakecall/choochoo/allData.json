@@ -1,0 +1,171 @@
+{
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
+    "approved": true,
+    "ads": {
+      "adNetwork": "applovin",
+      "idsapplovin": {
+        "appId": "ca-app-pub-4485881784602150~1761099848",
+        "banner": "ca-app-pub-4485881784602150/6450846406",
+        "inter": "ca-app-pub-4485881784602150/5269626674",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "mRec": "/6499/example/rewarded",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      },
+      "ids": {
+        "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+        "banner": "0e1801f0d2d177c0",
+        "inter": "712bae85337cd969",
+        "reward": "e3e2458663e289e7",
+        "native": "e3e2458663e289e7",
+        "mRec": "e3e2458663e289e7",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
+    },
+    "apps": {
+      "defaultApp": "app",
+      "sounds": {
+        "categories": [
+          {
+            "title": "New Year Sounds",
+            "cover": "https://assets.market-storefront.envato-static.com/storefront/assets/home/audiojungle/search-header-520083eef162361022b48a960fd592bee10961885dde01c3755032bcdc4e07bd.png",
+            "audios": [
+              {
+                "title": "Wind Chimes Bells",
+                "url": "https://cdn.pixabay.com/download/audio/2022/07/28/audio_24a9969ffa.mp3?filename=wind-chimes-bells-115747.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              },
+              {
+                "title": "SantaClaus HoHoHo",
+                "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_109f0e0f84.mp3?filename=santaclaus_hohoho-73051.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              },
+              {
+                "title": "Christmas Ident",
+                "url": "https://cdn.pixabay.com/download/audio/2022/02/17/audio_cf8d710c53.mp3?filename=christmas-ident-21090.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              },
+              {
+                "title": "Deck the Halls",
+                "url": "https://cdn.pixabay.com/download/audio/2022/12/21/audio_cef8b8868e.mp3?filename=deck-the-halls-130365.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              },
+              {
+                "title": "Elf singing",
+                "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_8df732f7bd.mp3?filename=elf-singing-89296.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              },
+              {
+                "title": "audience merry xmas",
+                "url": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_4a68c8ab44.mp3?filename=audience-merry-xmas-46708.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christmas_bells.png"
+              }
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "articles": [
+          {
+            "title": "Introduction",
+            "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+            "content": [
+              {
+                "subTitle": "Sonolus",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
+                "isNative": false
+              },
+              {
+                "subTitle": "Script Powered",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "With powerful and performant scripting system, you can create any rhythm game engine imaginable.\nWhether it's to replicate an existing game or to create an entirely different engine, you can do it all.",
+                "isNative": false
+              },
+              {
+                "subTitle": "Servers",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "A wide variety of servers available for different game modes!\nJoin our community for more.",
+                "isNative": false
+              },
+              {
+                "subTitle": "Community",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Join our community for latest development news and information!",
+                "isNative": false
+              },
+              {
+                "subTitle": "",
+                "linkTitle": "Discord",
+                "Link": "https://discord.gg/zStqbJahH7",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+              },
+              {
+                "subTitle": "",
+                "linkTitle": "QQ",
+                "Link": "https://jq.qq.com/?_wv=1027&k=3iNyJgRv",
+                "img_url": "",
+                "text": "",
+                "isNative": false
+              },
+              {
+                "subTitle": "Introduction",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+                "text": "This guide includes:\n\nEngine development concepts.\nSetting up development environment.\nCreating a complete one-lane-tap-only rhythm game engine from scratch.\n",
+                "isNative": true
+              },
+              {
+                "subTitle": "",
+                "linkTitle": "GitHub",
+                "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
+                "img_url": "",
+                "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+                "isNative": false
+              }
+            ]
+          },
+          {
+            "title": "Introduction",
+            "coverUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4679648/3004146656be4fd3a69e364086f787f7/eyJ3Ijo5NjAsIndlIjoxfQ==/2.png?token-time=1672790400&token-hash=OmHWGjNE4jYInWsn6337Evc3ClG5rQuPau2z-CwQE8o%3D",
+            "content": [
+              {
+                "subTitle": "Sonolus",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
+                "isNative": false
+              },
+              {
+                "subTitle": "Sonolus",
+                "linkTitle": "",
+                "Link": "",
+                "img_url": "",
+                "text": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.",
+                "isNative": false
+              }
+            ]
+          }
+        ],
+        "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg"
+      },
+      "pdf": {}
+    }
+  }
+  
