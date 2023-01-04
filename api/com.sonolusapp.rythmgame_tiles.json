@@ -110,6 +110,29 @@
                         }
                     ],
                     "articles": []
+                },
+                {
+                    "title": "Sonolus Server Settings",
+                    "coverUrl": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163901233461-w4q575.jpg",
+                    "content": [
+                        {
+                            "subTitle": "Sonolus Server Settings",
+                            "linkTitle": "",
+                            "Link": "",
+                            "img_url": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163901233461-w4q575.jpg",
+                            "text": "The second point of the server setting for smooth play of Sonolus is to add a server and complete the server setup. Add a server and you are done. Add a server and you are done, so you can now play the rhythm game.",
+                            "isNative": true
+                        },
+                        {
+                            "subTitle": "Conclusion",
+                            "linkTitle": "",
+                            "Link": "",
+                            "img_url": "",
+                            "text": "We have introduced some frequently asked questions about Sonolus, so please check them out before downloading and playing the game.",
+                            "isNative": false
+                        }
+                    ],
+                    "articles": []
                 }
             ],
             "backgroundImg": "https://external-preview.redd.it/wzdazu6DoRc0orlgwNIgAMNuSUNVopI8cQZ0Rm_by_k.png?format=pjpg&auto=webp&s=7b573b0993a8e3f9f4db65b7865701e583138540"
