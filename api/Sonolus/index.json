@@ -3,11 +3,11 @@
   "forceUpdate": true,
   "title": "Update available",
   "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
-  "updateLink": "https://play.google.com/store/apps/details?id=com.uiux.colorfullistview",
+  "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
   "approved": true,
   "ads": {
     "adNetwork": "admob",
-    "ids": {
+    "idsadmob": {
       "appId": "ca-app-pub-4485881784602150~1761099848",
       "banner": "ca-app-pub-4485881784602150/6450846406",
       "inter": "ca-app-pub-4485881784602150/5269626674",
@@ -16,7 +16,7 @@
       "mRec": "/6499/example/rewarded",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "idspld": {
+    "ids": {
       "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
       "banner": "0e1801f0d2d177c0",
       "inter": "712bae85337cd969",
@@ -132,6 +132,28 @@
               "Link": "https://github.com/Sonolus/wiki-sonolus.js-guide-code",
               "img_url": "",
               "text": "Source code of the guide's one-lane-tap-only rhythm game engine can be found on Github in the following link 👇",
+              "isNative": false
+            }
+          ]
+        },
+        {
+          "title": "Rush E Server",
+          "coverUrl": "https://i.ytimg.com/vi/_me9cUdKAxA/maxresdefault.jpg",
+          "content": [
+            {
+              "subTitle": "Rush E",
+              "linkTitle": "Go to Reush E Server",
+              "Link": "https://www.youtube.com/watch?v=zSNI5BuN-uU",
+              "img_url": "https://i.ytimg.com/vi/_me9cUdKAxA/maxresdefault.jpg",
+              "text": "A piano based song, which centers around Markiplier saying “E”, a meme that became popular and is still used today.",
+              "isNative": false
+            },
+            {
+              "subTitle": "What is Rush E",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://i.ytimg.com/vi/kviK0s8Jv54/maxresdefault.jpg",
+              "text": "Rush E issynthesized piano music . The beginning of the piece is easy (or at least playable) for a pianist , but the harmonic and rhythmic complexity gradually increases until it exceeds the technical possibilities of any pianist, even the most virtuoso (one can then find rapid successions of chords of several dozen notes at a time). The principle itself is not new, since it was already found with mechanical pianos.\nIt was created on Synthesia (a piano music creation software where the piano keys that produce sound are colored with a precise duration) on June 1, 2018 and published the same day on YouTube by Sheet Music Boss, an English creator .\nThe music has notably been taken up by players of instruments other than the piano, such as the guitar by RichaadEB or the clarinet by HD Tang.",
               "isNative": false
             }
           ]
