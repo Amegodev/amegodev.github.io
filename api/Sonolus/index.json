@@ -7,6 +7,7 @@
   "approved": true,
   "ads": {
     "adNetwork": "admob",
+    "frequency": 3,
     "idsadmob": {
       "appId": "ca-app-pub-4485881784602150~1761099848",
       "banner": "ca-app-pub-4485881784602150/6450846406",
@@ -363,6 +364,74 @@
               "isNative": false
             }
           ]
+        },
+        {
+          "title": "What is Sonolus?",
+          "coverUrl": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163883609221-17k4lq.jpg",
+          "content": [],
+          "articles": [
+            {
+              "title": "What is Sonolus?",
+              "coverUrl": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163883609221-17k4lq.jpg",
+              "content": [
+                {
+                  "subTitle": "Introduction",
+                  "linkTitle": "",
+                  "Link": "",
+                  "img_url": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163883609221-17k4lq.jpg",
+                  "text": "Sonolus is an application that allows multiple music games to be played on one platform, and also allows anyone to freely reproduce and distribute music games.\nAlso, it seems that the popular music game 'Proseka' can be played on Sonolus, but what is it really like?\nIn this article, we would like to explain how to install Sonolus and the servers of music games you can play.",
+                  "isNative": true
+                }
+              ],
+              "articles": []
+            }
+          ]
+        },
+        {
+          "title": "How to install Sonolus?",
+          "coverUrl": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163894444039-q1sjkf.jpg",
+          "content": [
+            {
+              "subTitle": "For iOS",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163883609221-17k4lq.jpg",
+              "text": "First, we will show you how to download the app on devices called iOS, such as the iPhone and iPad.\n\n1. Download the Sonolus app itself\n\n2. Sign (sideload) the app\nIn the case of Windows\n\n1．Search for 'AltStore' on the website\n\n2. Tap 'Windows' at the bottom of the official AltStore website to download the application.\n\n3. Extract the downloaded folder, and double-click one of the extracted files.\n\n4. Launch 'Altserver' from the Windows button.\n\n5. Connect your iOS (iPhone or iPad) to the PC (tap 'Trust' when prompted 'Do you trust this computer?)\n\n6. Select your device in the 'install Altstore' from the '∧' icon in the lower right corner of the PC.\n\n7. Enter your AppleID and password.\n\n8. A message will appear, press 'OK' and wait for a while to complete the installation.\n\n  For Mac】 【For Mac】, click 'Install'.\n\nIn case of Mac\n\n1. Search for 'AltStore' on the website.\n\n2. Tap 'Mac OS' at the bottom of the official AltStore website to download the file.\n\n3. Double-click the downloaded file and move the file to the 'Applications' folder.\n\n4. Launch 'Altserver' from the Applications folder and select 'install mail plugin' from the top of the PC.\n\n5. Enter your Mac password.\n\n6. Open 'Preferences' from 'File' of your mail software in your PC, check 'Altplugin.mailbundle' in 'Manage Plug-ins' and press 'Allow Access', then restart your mail\n\n7. Connect your iOS device (iPhone or iPad) to the PC (tap 'Trust' when prompted 'Do you trust this computer?') 8. Tap 'install' from the icon at the top of the PC screen and select your device\n\n9. Enter your AppleID and password.\n\n10. When asked to install, press the blue button and enter your Mac password to complete the installation.\n\nSonolus Settings for Windows and Mac (iPhone/iPad operation)\n\n1. After installation is complete, go to 'General' in 'Settings' and select 'VPN and Device Management'.\n\n2. Select the gear marked 'Settings' and choose 'Trust' from the message.\n\n3. Open the first downloaded Sonolus and you will be able to click on 'Open in AltStore' to launch Sonolus.",
+              "isNative": true
+            },
+            {
+              "subTitle": "For Android",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "To download Sonolus on Android, you will need to follow a different procedure than on iOS.\n\n1. access the official Sonolus website\nClick the link below to enter the official website.\n\n>> Official Sonolus website\n\n2. Download the file from the official site.\nTap the word 'Android' at the top of the site to download the file.\n\n3. Allow installation of unknown apps\nWhen you open the file, a message from Chrome will appear saying, ' For security reasons, we are unable to install unknown apps. and from there open the settings.\n\nOpen the settings and toggle the switch next to the text ' Allow apps from this source' to on to complete the installation.\n\n4. Install the app.\nAfter the permission is complete, return to the previous screen and you will be able to tap Install.\n\nAfter installation, press 'Open' to launch the application and complete the download.",
+              "isNative": false
+            }
+          ],
+          "articles": []
+        },
+        {
+          "title": "Sonolus Server Settings",
+          "coverUrl": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163901233461-w4q575.jpg",
+          "content": [
+            {
+              "subTitle": "Sonolus Server Settings",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "https://backend.sothinkmedia.com/sothinkmedia.com/uploads/images/16703163901233461-w4q575.jpg",
+              "text": "The second point of the server setting for smooth play of Sonolus is to add a server and complete the server setup. Add a server and you are done. Add a server and you are done, so you can now play the rhythm game.",
+              "isNative": true
+            },
+            {
+              "subTitle": "Conclusion",
+              "linkTitle": "",
+              "Link": "",
+              "img_url": "",
+              "text": "We have introduced some frequently asked questions about Sonolus, so please check them out before downloading and playing the game.",
+              "isNative": false
+            }
+          ],
+          "articles": []
         }
       ],
       "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg"
