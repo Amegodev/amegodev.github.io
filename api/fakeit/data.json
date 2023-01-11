@@ -1,7 +1,7 @@
 {
   
   "ads": {
-    "adNetwork": "--",
+    "adNetwork": "admob",
     "frequency": 2,
     "ids": {
         "appId": "ca-app-pub-3940256099942544~3347511713",
@@ -14,7 +14,7 @@
     }
   },
   "config": {
-    "currentAppVersion": "5.0.0",
+    "currentAppVersion": "1.0.0",
     "forceUpdate": false,
     "title": "update_available",
     "body": "update_message",
