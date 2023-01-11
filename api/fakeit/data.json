@@ -1,32 +1,16 @@
 {
+  
   "ads": {
-    "adNetwork": "admob",
+    "adNetwork": "--",
+    "frequency": 2,
     "ids": {
-      "appId": "ca-app-pub-5320310844464753~9424904854",
-      "banners": [
-        "ca-app-pub-/",
-        "ca-app-pub-/"
-      ],
-      "inters": [
-        "ca-app-pub-/",
-        "ca-app-pub-/"
-      ],
-      "rewards": [
-        "/6499/example/rewarded",
-        "ca-app-pub-/"
-      ],
-      "natives": [
-        "/6499/example/rewarded",
-        "ca-app-pub-/"
-      ],
-      "mRecs": [
-        "/6499/example/rewarded",
-        "ca-app-pub-/"
-      ],
-      "appOpen": [
-        "ca-app-pub-/",
-        "ca-app-pub-/"
-      ]
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "mRec": "/6499/example/rewarded",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
     }
   },
   "config": {
