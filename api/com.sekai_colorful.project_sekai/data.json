@@ -9,9 +9,9 @@
         "adNetwork": "admob",
         "frequency": 3,
         "ids": {
-            "appId": "ca-app-pub-3940256099942544~3347511713",
-            "banner": "ca-app-pub-3940256099942544/6300978111",
-            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "appId": "ca-app-pub-8560433910153198~4537182245",
+            "banner": "ca-app-pub-8560433910153198/7277211444",
+            "inter": "ca-app-pub-8560433910153198/5822343755",
             "reward": "ca-app-pub-3940256099942544/5224354917",
             "native": "ca-app-pub-3940256099942544/2247696110",
             "mRec": "/6499/example/rewarded",
