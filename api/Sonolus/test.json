@@ -6,7 +6,7 @@
     "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
     "approved": true,
     "ads": {
-      "adNetwork": "admob",
+      "adNetwork": "unity",
       "frequency": 3,
       "idsadmob": {
         "appId": "ca-app-pub-4485881784602150~1761099848",
