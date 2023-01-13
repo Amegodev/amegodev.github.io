@@ -28,40 +28,164 @@
         }
     },
     "apps": {
-        "defaultApp": "guide",
+        "defaultApp": "sounds",
         "sounds": {
             "categories": [
                 {
-                    "title": "MEMES Sounds",
-                    "cover": "https://archive.org/download/FamousCharactersTrollFaceOkayMemeFace139927/Famous-characters-Troll-face-Okay-meme-face-139927.png",
+                    "title": "Cats Sounds",
+                    "cover": "https://www.pngmart.com/files/1/Cat-PNG-Clipart.png",
                     "audios": [
                         {
-                            "title": "You look like a 'hhh'",
-                            "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
-                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
-                        }
-                    ]
-                },
-                {
-                    "title": "PRANK Sounds",
-                    "cover": "https://cdn-icons-png.flaticon.com/512/1384/1384688.png",
-                    "audios": [
-                        {
-                            "title": "You look like a 'hhh'",
-                            "url": "https://github.com/Amegodev/amegodev.github.io/raw/master/api/Online%20Audio%20Player/You%20look%20like%20a%20uhhhh.mp3",
-                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/4280ed3f-ecbf-4654-b967-32fee28da673-small.png"
+                            "title": "Two Cats Meowing",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
                         },
                         {
-                            "title": "Fuck This Shit I' Ou'",
-                            "url": "https://example.com",
-                            "cover": "https://files.voicy.network/cdn-cgi/image/height=100,quality=85,format=auto/public/Content/Clips/Images/d6696188-c3bd-4c1e-aa7f-495c06932d30-small.jpg"
+                            "title": "Purring Cat",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Kittens",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Kitten Purr",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Kitten Purr Sequence",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Kitten Meows",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Kitten Hiss",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Small Purr",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring and Meowing 2",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring and Meowing 1",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring and Licking",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring 3",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring 2",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purring 1",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Purr",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meows",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meowing",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow Sad 3",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow Sad 2",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow Sad 1",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow Angry 2",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow Angry 1",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 6",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 5",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 4",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 3",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 2",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Meow 1",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Loud Meows",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
+                        },
+                        {
+                            "title": "Cat Lonely Meows",
+                            "url": "",
+                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
                         }
                     ]
-                },
-                {
-                    "title": "OTHER SOUND",
-                    "cover": "http://cdn.onlinewebfonts.com/svg/img_228274.png",
-                    "audios": []
                 }
             ]
         },
@@ -95,9 +219,7 @@
                             ]
                         }
                     ],
-                    "content": [
-
-                    ]
+                    "content": []
                 },
                 {
                     "title": "Installing on Android",
@@ -257,7 +379,7 @@
                         }
                     ]
                 }
-            ]            
+            ]
         },
         "pdf": {}
     }
