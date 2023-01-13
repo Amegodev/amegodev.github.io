@@ -35,156 +35,36 @@
                     "title": "Cats Sounds",
                     "cover": "https://www.pngmart.com/files/1/Cat-PNG-Clipart.png",
                     "audios": [
-                        {
-                            "title": "Two Cats Meowing",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Purring Cat",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Kittens",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Kitten Purr",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Kitten Purr Sequence",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Kitten Meows",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Kitten Hiss",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Small Purr",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring and Meowing 2",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring and Meowing 1",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring and Licking",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring 3",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring 2",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purring 1",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Purr",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meows",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meowing",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow Sad 3",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow Sad 2",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow Sad 1",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow Angry 2",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow Angry 1",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 6",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 5",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 4",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 3",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 2",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Meow 1",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Loud Meows",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        },
-                        {
-                            "title": "Cat Lonely Meows",
-                            "url": "",
-                            "cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"
-                        }
+                        {"title": "Two Cats Meowing","url": "https://quicksounds.com/uploads/tracks/1248255507_1254938024_1448995541.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Purring Cat","url": "https://quicksounds.com/uploads/tracks/1569825719_751759964_456530007.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Kittens","url": "https://quicksounds.com/uploads/tracks/1516477833_1889782474_1119121143.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Kitten Purr","url": "https://quicksounds.com/uploads/tracks/1719681055_1636844077_1310160330.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Kitten Purr Sequence","url": "https://quicksounds.com/uploads/tracks/1222072714_570848221_390988529.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Kitten Meows","url": "https://quicksounds.com/uploads/tracks/483259277_2028691066_2092473373.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Kitten Hiss","url": "https://quicksounds.com/uploads/tracks/776431154_2081888561_1843450112.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Small Purr","url": "https://quicksounds.com/uploads/tracks/1509602167_12847162_1703809237.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring and Meowing 2","url": "https://quicksounds.com/uploads/tracks/2143916825_304343108_1212284651.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring and Meowing 1","url": "https://quicksounds.com/uploads/tracks/1550187476_363644767_1943482863.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring and Licking","url": "https://quicksounds.com/uploads/tracks/306951363_122512218_1774717123.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring 3","url": "https://quicksounds.com/uploads/tracks/587943027_1528364056_1552873230.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring 2","url": "https://quicksounds.com/uploads/tracks/1902883318_296585594_1001211168.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purring 1","url": "https://quicksounds.com/uploads/tracks/1199038856_960368876_2035818387.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Purr","url": "https://quicksounds.com/uploads/tracks/1906175089_1811880143_604690778.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meows","url": "https://quicksounds.com/uploads/tracks/1606688885_1630552129_1868255851.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meowing","url": "https://quicksounds.com/uploads/tracks/1788693476_1962230586_1177687684.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow Sad 3","url": "https://quicksounds.com/uploads/tracks/707158906_1739637058_369004173.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow Sad 2","url": "https://quicksounds.com/uploads/tracks/1333186962_1169409852_711243859.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow Sad 1","url": "https://quicksounds.com/uploads/tracks/2019031939_146304062_894924781.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow Angry 2","url": "https://quicksounds.com/uploads/tracks/889603959_521423489_548223406.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow Angry 1","url": "https://quicksounds.com/uploads/tracks/325590323_477971949_1598116484.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 6","url": "https://quicksounds.com/uploads/tracks/381768183_1013036123_205817870.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 5","url": "https://quicksounds.com/uploads/tracks/162549765_1329049748_1115498905.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 4","url": "https://quicksounds.com/uploads/tracks/377413383_844386555_1608622177.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 3","url": "https://quicksounds.com/uploads/tracks/1604711408_428346958_1367606306.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 2","url": "https://quicksounds.com/uploads/tracks/1591201034_552990698_1002962572.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Meow 1","url": "https://quicksounds.com/uploads/tracks/1433487386_881417039_1516486212.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Loud Meows","url": "https://quicksounds.com/uploads/tracks/254110452_410632519_1914613911.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"},
+                        {"title": "Cat Lonely Meows","url": "https://quicksounds.com/uploads/tracks/1815912447_454718899_376264702.mp3","cover": "https://i.pinimg.com/originals/f9/25/e1/f925e13343ffc8726316f519b3619424.png"}
                     ]
                 }
             ]
