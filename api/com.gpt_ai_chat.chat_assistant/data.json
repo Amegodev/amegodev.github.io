@@ -28,7 +28,7 @@
         }
     },
     "apps": {
-        "defaultApp": "sounds",
+        "defaultApp": "guide",
         "sounds": {
             "categories": [
                 {
