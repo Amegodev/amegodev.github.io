@@ -32,7 +32,7 @@
         "sounds": {
             "categories": [
                 {
-                    "title": "VOL 1","cover": "","audios": [
+                    "title": "VOL 1","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-mega39-s-10th-anniversary-collection/thumbs/Cover.jpg","audios": [
                         {"title": "Let's Sing Together!","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/01.%2520Let%2527s%2520Sing%2520Together%2521.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-mega39-s-10th-anniversary-collection/thumbs/Cover.jpg"},
                         {"title": "In Between Worlds","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/02.%2520In%2520Between%2520Worlds.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-mega39-s-10th-anniversary-collection/thumbs/Cover.jpg"},
                         {"title": "Our Town, Our Life","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/03.%2520Our%2520Town%252C%2520Our%2520Life.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-mega39-s-10th-anniversary-collection/thumbs/Cover.jpg"},
@@ -45,7 +45,7 @@
                         {"title": "Breath of Echoes","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/10.%2520Breath%2520of%2520Echoes.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-mega39-s-10th-anniversary-collection/thumbs/Cover.jpg"}
                     ]
                 },
-                {"title": "VOL 2","cover": "","audios": [
+                {"title": "VOL 2","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png","audios": [
                     {"title": "Hand in Hand","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/11.%2520Hand%2520in%2520Hand.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png"},
                     {"title": "Trajectory","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/12.%2520Trajectory.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png"},
                     {"title": "Many Times With You","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/13.%2520Many%2520Times%2520With%2520You.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png"},
@@ -57,7 +57,7 @@
                     {"title": "Tears, Through My Heart","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/19.%2520Tears%252C%2520Through%2520My%2520Heart.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png"},
                     {"title": "I'm Sure Your Thoughts Are...","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/20.%2520I%2527m%2520Sure%2520Your%2520Thoughts%2520Are....mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-x-complete-collection/thumbs/cover.png"}
                     ]},
-                {"title": "VOL 3","cover": "","audios": [
+                {"title": "VOL 3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg","audios": [
                     {"title": "Now, Here's Daily Life","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/21.%2520Now%252C%2520Here%2527s%2520Daily%2520Life.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg"},
                     {"title": "Season of Excitement","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/22.%2520Season%2520of%2520Excitement.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg"},
                     {"title": "Twilight Parade","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/23.%2520Twilight%2520Parade.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg"},
@@ -69,7 +69,7 @@
                     {"title": "Burn Blue, Your Heart","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/29.%2520Burn%2520Blue%252C%2520Your%2520Heart.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg"},
                     {"title": "Not Bad Afternoon","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/30.%2520Not%2520Bad%2520Afternoon.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-mirai-dx/thumbs/GEKKAN%20MIKUDAYO_02.jpg"}
                     ]},
-                {"title": "VOL 3","cover": "","audios": [
+                {"title": "VOL 4","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-extend-complete-collection/thumbs/coverart.jpg","audios": [
                     {"title": "Deep Gaze","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/31.%2520Deep%2520Gaze.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-extend-complete-collection/thumbs/coverart.jpg"},
                     {"title": "Rainbow Garland","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/32.%2520Rainbow%2520Garland.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-extend-complete-collection/thumbs/coverart.jpg"},
                     {"title": "A Glittery Opening","url": "https://downloads.khinsider.com/game-soundtracks/album/project-sekai-colorful-stage-feat.-hatsune-miku-original-soundtrack-vol.1/33.%2520A%2520Glittery%2520Opening.mp3","cover": "https://vgmsite.com/soundtracks/hatsune-miku-project-diva-extend-complete-collection/thumbs/coverart.jpg"},
