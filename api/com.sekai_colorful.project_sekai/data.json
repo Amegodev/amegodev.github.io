@@ -145,6 +145,9 @@
             ],
             "backgroundImg": "https://external-preview.redd.it/wzdazu6DoRc0orlgwNIgAMNuSUNVopI8cQZ0Rm_by_k.png?format=pjpg&auto=webp&s=7b573b0993a8e3f9f4db65b7865701e583138540"
         },
+        "webview": {
+            "url" : "https://gshiftlabs.com/chat-gpt-a-beginners-guide"
+        },
         "pdf": {}
     }
 }
