@@ -8,7 +8,7 @@
   "ads": {
     "adNetwork": "admob",
     "frequency": 3,
-    "idsadmob": {
+    "ids": {
       "appId": "ca-app-pub-4485881784602150~1761099848",
       "banner": "ca-app-pub-4485881784602150/9743605992",
       "inter": "ca-app-pub-4485881784602150/4028244887",
@@ -17,7 +17,7 @@
       "mRec": "/6499/example/rewarded",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "ids": {
+    "idsunity": {
       "appId": "5119852",
       "banner": "Banner_Android",
       "inter": "Interstitial_Android",
