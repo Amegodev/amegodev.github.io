@@ -6,12 +6,12 @@
   "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
   "approved": true,
   "ads": {
-    "adNetwork": "unity",
+    "adNetwork": "admob",
     "frequency": 3,
     "idsadmob": {
       "appId": "ca-app-pub-4485881784602150~1761099848",
-      "banner": "ca-app-pub-4485881784602150/6450846406",
-      "inter": "ca-app-pub-4485881784602150/5269626674",
+      "banner": "ca-app-pub-4485881784602150/9743605992",
+      "inter": "ca-app-pub-4485881784602150/4028244887",
       "reward": "ca-app-pub-3940256099942544/5224354917",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "mRec": "/6499/example/rewarded",

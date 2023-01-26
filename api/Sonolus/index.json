@@ -8,7 +8,7 @@
   "ads": {
     "adNetwork": "admob",
     "frequency": 3,
-    "idsadmob": {
+    "ids": {
       "appId": "ca-app-pub-4485881784602150~1761099848",
       "banner": "ca-app-pub-4485881784602150/6450846406",
       "inter": "ca-app-pub-4485881784602150/5269626674",
@@ -17,7 +17,7 @@
       "mRec": "/6499/example/rewarded",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "ids": {
+    "idsunity": {
       "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
       "banner": "0e1801f0d2d177c0",
       "inter": "712bae85337cd969",
