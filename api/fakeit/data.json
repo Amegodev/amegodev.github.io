@@ -1,9 +1,9 @@
 {
   
   "ads": {
-    "adNetwork": "unity",
+    "adNetwork": "admob",
     "frequency": 2,
-    "idsadmob": {
+    "ids": {
         "appId": "ca-app-pub-3940256099942544~3347511713",
         "banner": "ca-app-pub-3940256099942544/6300978111",
         "inter": "ca-app-pub-3940256099942544/1033173712",
@@ -21,7 +21,7 @@
         "mRec": "/6499/example/rewarded",
         "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "ids": {
+    "idsunity": {
         "appId": "4761831",
         "banner": "Banner_Android",
         "inter": "Interstitial_Android",
@@ -32,7 +32,7 @@
     }
   },
   "config": {
-    "currentAppVersion": "1.0.0",
+    "currentAppVersion": "3.0.0",
     "forceUpdate": false,
     "title": "update_available",
     "body": "update_message",
