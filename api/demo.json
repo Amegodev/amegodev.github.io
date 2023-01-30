@@ -381,36 +381,33 @@
             "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg",
             "links": [
                 {
-                    "title": "Games 1",
+                    "title": "Play game",
                     "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
                     "url": "https://www.google.com",
                     "links": [
                         {
-                            "title": "Knif Direct Play",
+                            "title": "Start",
                             "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-                            "url": "https://www.y8.com/games/knife_hit_/mobile"
-                        },
-                        {
-                            "title": "Coffe Stack",
-                            "coverImg": "",
-                            "url": "https://www.y8.com/games/coffee_stack/mobile"
-                        },
-                        {
-                            "title": "Coffe Stack 2",
-                            "coverImg": "",
-                            "url": "https://www.y8.com/games/coffee_stack/games/coffee_stack/mobile"
+                            "url": "https://www.google.com",
+                            "links": [
+                                {
+                                    "title": "Level 1",
+                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                },
+                                {
+                                    "title": "Level 2",
+                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                },
+                                {
+                                    "title": "Level 3",
+                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                }
+                            ]
                         }
                     ]
-                },
-                {
-                    "title": "WebSite2",
-                    "coverImg": "",
-                    "url": "https://gshiftlabs.com/chat-gpt-a-beginners-guide"
-                },
-                {
-                    "title": "WebSite3 Y8",
-                    "coverImg": "",
-                    "url": "https://y8.com"
                 }
             ]
         },
