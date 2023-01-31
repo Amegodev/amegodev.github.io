@@ -6,7 +6,7 @@
     "updateLink": "https://play.google.com/store/apps/details?id=com.tag_after_school.mod_tips",
     "approved": true,
     "ads": {
-        "adNetwork": "admob",
+        "adNetwork": "applovin",
         "frequency": 3,
         "ids": {
             "appId": "2215451331176801",
