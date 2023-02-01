@@ -7,7 +7,7 @@
     "approved": true,
     "ads": {
         "adNetwork": "applovin",
-        "frequency": 3,
+        "frequency": 1,
         "ids": {
             "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
             "banner": "befd9060cab5a9d1",
