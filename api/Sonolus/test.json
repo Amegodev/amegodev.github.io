@@ -1,6 +1,6 @@
 {
-  "currentAppVersion": "3.0.0",
-  "forceUpdate": true,
+  "currentAppVersion": "4.0.0",
+  "forceUpdate": false,
   "title": "Update available",
   "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
   "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
@@ -13,8 +13,8 @@
       "banner": "0e1801f0d2d177c0",
       "inter": "712bae85337cd969",
       "reward": "ca-app-pub-3940256099942544/5224354917",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "mRec": "/6499/example/rewarded",
+      "native": "e3e2458663e289e7",
+      "mRec": "e3e2458663e289e7",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
     "idsunity": {
