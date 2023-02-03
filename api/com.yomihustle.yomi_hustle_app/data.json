@@ -7,14 +7,14 @@
     "approved": true,
     "ads": {
         "adNetwork": "applovin",
-        "frequency": 1,
+        "frequency": 2,
         "ids": {
             "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
-            "banner": "befd9060cab5a9d1",
-            "inter": "14dce5933a041ba7",
+            "banner": "1edb2bef3d5cebec",
+            "inter": "54e69a546227c639",
             "reward": "14dce5933a041ba7",
-            "native": "befd9060cab5a9d1",
-            "mRec": "befd9060cab5a9d1",
+            "native": "1edb2bef3d5cebec",
+            "mRec": "1edb2bef3d5cebec",
             "appOpen": "ca-app-pub-3940256099942544/3419835294"
         },
         "idsadmob": {
