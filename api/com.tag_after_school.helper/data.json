@@ -6,10 +6,10 @@
     "updateLink": "https://play.google.com/store/apps/details?id=com.tag_after_school.helper",
     "approved": true,
     "ads": {
-        "adNetwork": "admob",
-        "frequency": 3,
+        "adNetwork": "applovin",
+        "frequency": 2,
         "ids": {
-            "appId": "2215451331176801",
+            "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
             "banner": "ca-app-pub-3940256099942544/6300978111",
             "inter": "ca-app-pub-3940256099942544/1033173712",
             "reward": "ca-app-pub-3940256099942544/5224354917",
