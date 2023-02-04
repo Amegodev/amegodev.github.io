@@ -382,28 +382,33 @@
             "links": [
                 {
                     "title": "Play game",
-                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                    "coverImg": "",
                     "url": "https://www.google.com",
                     "links": [
                         {
                             "title": "Start",
-                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                            "coverImg": "",
                             "url": "https://www.google.com",
                             "links": [
                                 {
                                     "title": "Level 1",
-                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                    "coverImg": "",
+                                    "url": ""
                                 },
                                 {
-                                    "title": "Level 2",
-                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                    "title": "Level 1",
+                                    "coverImg": "",
+                                    "url": ""
                                 },
                                 {
-                                    "title": "Level 3",
-                                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-                                    "url": "https://www.y8.com/games/knife_hit_/mobile"
+                                    "title": "Level 1",
+                                    "coverImg": "",
+                                    "url": ""
+                                },
+                                {
+                                    "title": "Level 1",
+                                    "coverImg": "",
+                                    "url": ""
                                 }
                             ]
                         }
