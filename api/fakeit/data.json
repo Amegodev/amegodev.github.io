@@ -2,7 +2,7 @@
   
   "ads": {
     "adNetwork": "applovin",
-    "frequency": 2,
+    "frequency": 4,
     "idsreal": {
         "appId": "ca-app-pub-4485881784602150~7868676729",
         "banner": "ca-app-pub-4485881784602150/5413903770",
