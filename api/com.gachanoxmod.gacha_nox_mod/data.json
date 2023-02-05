@@ -19,7 +19,7 @@
         }
     },
     "apps": {
-        "defaultApp": "webview",
+        "defaultApp": "guide",
         "webview": {
             "backgroundImg": "https://resource.playmods.net/prd/image/e816b788-86b1-9f09-2151-0d21e28e7ddb.png-articleDetailwebp",
             "links": [
