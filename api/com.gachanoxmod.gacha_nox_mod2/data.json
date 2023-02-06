@@ -21,32 +21,22 @@
     "apps": {
         "defaultApp": "webview",
         "webview": {
-            "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg",
+            "backgroundImg": "https://resource.playmods.net/prd/image/e816b788-86b1-9f09-2151-0d21e28e7ddb.png-articleDetailwebp",
             "links": [
                 {
                     "title": "Play game",
-                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                    "coverImg": "https://resource.playmods.net/prd/image/f26ac56e-ef30-16d1-bbdf-865d1f22074e.png-articleDetailwebp",
                     "url": "https://www.google.com",
                     "links": [
                         {
-                            "title": "Over Cursed",
-                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/132872/small.gif",
-                            "url": "https://www.y8.com/games/overcursed/mobile"
+                            "title": "Description",
+                            "coverImg": "https://resource.playmods.net/prd/image/c9e14e31-26c3-6d2b-6359-72fd674fdbb0.png-articleDetailwebp",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/description.html"
                         },
                         {
-                            "title": "DarkWeb",
-                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/136723/small.gif",
-                            "url": "https://www.y8.com/games/dreader/mobile"
-                        },
-                        {
-                            "title": "Steveman Horror",
-                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/150528/small.gif",
-                            "url": "https://www.y8.com/games/steveman_horror/mobile"
-                        },
-                        {
-                            "title": "Color Horror",
-                            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/121667/small.gif",
-                            "url": "https://www.y8.com/games/color_horror/mobile"
+                            "title": "Mobile games",
+                            "coverImg": "https://resource.playmods.net/prd/image/c9e14e31-26c3-6d2b-6359-72fd674fdbb0.png-articleDetailwebp",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/description.html"
                         }
                     ]
                 }
