@@ -7,7 +7,7 @@
     "approved": true,
     "ads": {
         "adNetwork": "applovin",
-        "frequency": 3,
+        "frequency": 2,
         "ids": {
             "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
             "banner": "befd9060cab5a9d1",
@@ -17,17 +17,8 @@
             "mRec": "befd9060cab5a9d1",
             "appOpen": "ca-app-pub-3940256099942544/3419835294"
         },
-        "idsadmob": {
-            "appId": "2215451331176801",
-            "banner": "ca-app-pub-3940256099942544/6300978111",
-            "inter": "ca-app-pub-3940256099942544/1033173712",
-            "reward": "ca-app-pub-3940256099942544/5224354917",
-            "native": "ca-app-pub-3940256099942544/2247696110",
-            "mRec": "/6499/example/rewarded",
-            "appOpen": "ca-app-pub-3940256099942544/3419835294"
-        },
         "idsunity": {
-            "appId": "5119852",
+            "appId": "5151909",
             "banner": "Banner_Android",
             "inter": "Interstitial_Android",
             "reward": "e3e2458663e289e7",
