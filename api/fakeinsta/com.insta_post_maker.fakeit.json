@@ -2,7 +2,7 @@
   
     "ads": {
       "adNetwork": "admob",
-      "frequency": 3,
+      "frequency": 2,
       "ids": {
           "appId": "ca-app-pub-4485881784602150~8580242724",
           "banner": "---",
@@ -10,7 +10,7 @@
           "reward": "ca-app-pub-3940256099942544/5224354917",
           "native": "ca-app-pub-3940256099942544/2247696110",
           "mRec": "/6499/example/rewarded",
-          "appOpen": "ca-app-pub-3940256099942544/3419835294"
+          "appOpen": "ca-app-pub-4485881784602150/5137741025"
       },
       "idsunity": {
           "appId": "5124486",
@@ -23,7 +23,7 @@
       }
     },
     "config": {
-      "currentAppVersion": "1.0.0",
+      "currentAppVersion": "2.0.0",
       "forceUpdate": false,
       "title": "update_available",
       "body": "update_message",
