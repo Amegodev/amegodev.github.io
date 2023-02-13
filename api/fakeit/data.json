@@ -1,9 +1,9 @@
 {
   
   "ads": {
-    "adNetwork": "applovin",
-    "frequency": 6,
-    "idsreal": {
+    "adNetwork": "admob",
+    "frequency": 2,
+    "ids": {
         "appId": "ca-app-pub-4485881784602150~7868676729",
         "banner": "ca-app-pub-4485881784602150/5413903770",
         "inter": "ca-app-pub-4485881784602150/2616350043",
@@ -21,7 +21,7 @@
         "mRec": "/6499/example/rewarded",
         "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "ids": {
+    "idsapplovin": {
         "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
         "banner": "e8fdb7cddd5f878e",
         "inter": "bc13531cfa81c1e2",

@@ -1,0 +1,54 @@
+{
+    "config": {
+        "currentAppVersion": "1.0.0",
+        "forceUpdate": true,
+        "title": "Update available",
+        "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+        "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki"
+    },
+    "ads": {
+        "adNetwork": "admob",
+        "frequency": 2,
+        "ids": {
+            "appId": "ca-app-pub-3940256099942544~3347511713",
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "appOpen": "ca-app-pub-3940256099942544/3419835294"
+        }
+    },
+    "data_model": [
+        {
+            "type": "guide",
+            "title": "Guide app",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+            "guide_model": [
+                {
+                    "subTitle": "Card title",
+                    "linkTitle": "https://example.com/",
+                    "Link": "Example.com",
+                    "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+                    "text": "Lorem ipsum dolor sit amet",
+                    "isNative": false
+                }
+            ],
+            "webview_model": [
+                {
+                    "title": "Level 1",
+                    "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+                    "url": "https://www.y8.com/games/knife_hit_/mobile",
+                    "external": false
+                }
+            ],
+            "sounds_model": [
+                {
+                    "title": "Audio 1",
+                    "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
+                    "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+                }
+            ],
+            "data_model": []
+        }
+    ]
+}
