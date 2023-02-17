@@ -6,12 +6,21 @@
     "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki",
     "approved": true,
     "ads": {
-        "adNetwork": "admob",
-        "frequency": 3,
-        "ids": {
+        "adNetwork": "unity",
+        "frequency": 2,
+        "idsadmob": {
             "appId": "ca-app-pub-3940256099942544~3347511713",
             "banner": "ca-app-pub-5345037485983429/5704363995",
             "inter": "ca-app-pub-5345037485983429/9466433461",
+            "reward": "ca-app-pub-3940256099942544/5224354917",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "mRec": "/6499/example/rewarded",
+            "appOpen": "ca-app-pub-5320310844464753/6936276268"
+        },
+        "ids": {
+            "appId": "5119852",
+            "banner": "Banner_Android",
+            "inter": "Interstitial_Android",
             "reward": "ca-app-pub-3940256099942544/5224354917",
             "native": "ca-app-pub-3940256099942544/2247696110",
             "mRec": "/6499/example/rewarded",
