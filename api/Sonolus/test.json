@@ -7,8 +7,8 @@
   "approved": true,
   "ads": {
     "adNetwork": "applovin",
-    "frequency": 3,
-    "ids": {
+    "frequency": 2,
+    "idsapplovin": {
       "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
       "banner": "0e1801f0d2d177c0",
       "inter": "712bae85337cd969",
@@ -17,7 +17,7 @@
       "mRec": "e3e2458663e289e7",
       "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "idsunity": {
+    "ids": {
       "appId": "5119852",
       "banner": "Banner_Android",
       "inter": "Interstitial_Android",
@@ -32,7 +32,7 @@
     "guide": {
       "articles": [
         {
-            "title": "Introduction",
+            "title": ".Introduction.",
             "coverUrl": "https://sonolus.com/res/icon.png",
             "content": [
                 {
