@@ -33,7 +33,7 @@
     }
   },
   "config": {
-    "currentAppVersion": "2.0.0",
+    "currentAppVersion": "4.0.0",
     "forceUpdate": false,
     "title": "update_available",
     "body": "update_message",
