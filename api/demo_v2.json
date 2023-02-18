@@ -94,12 +94,12 @@
       "wallpapers_model" : [
         {
           "title": "Wallpaper 1",
-          "category" :["Nature"],
+          "category" :["a","Nature", "b", "c", "d", "e", "f"],
           "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
         },
         {
           "title": "Wallpaper 2",
-          "category" :["Xp", "background"],
+          "category" :["Xp", "background", "Nature"],
           "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
         },
         {
