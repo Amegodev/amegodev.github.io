@@ -74,29 +74,29 @@
           "guide_model": [
             {
               "subTitle": "Card title 1",
-              "linkTitle": "Example.com",
+              "linkTitle": "In App link",
               "Link": "https://example.com/",
               "in_app_webview": true,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-              "text": "Lorem ipsum dolor sit amet",
+              "text": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet\nLorem ipsum dolor sit amet",
               "isNative": false
             },
             {
               "subTitle": "Card title 2",
-              "linkTitle": "Example.com",
+              "linkTitle": "External link",
               "Link": "https://example.com/",
               "in_app_webview": false,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-              "text": "Lorem ipsum dolor sit amet",
+              "text": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet\nLorem ipsum dolor sit amet",
               "isNative": true
             },
             {
               "subTitle": "Card title 3",
-              "linkTitle": "Example.com",
+              "linkTitle": "In App link",
               "Link": "https://example.com/",
               "in_app_webview": true,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-              "text": "Lorem ipsum dolor sit amet",
+              "text": "Lorem ipsum dolor sit ame, Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet\nLorem ipsum dolor sit amett, Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet\nLorem ipsum dolor sit amet",
               "isNative": false
             }
           ]
