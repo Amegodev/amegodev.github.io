@@ -23,53 +23,70 @@
       "type": "guide",
       "title": "Guide app",
       "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
-      "guide_model": [
+      "data_model": [
         {
-          "subTitle": "Card title",
-          "linkTitle": "https://example.com/",
-          "Link": "Example.com",
-          "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-          "text": "Lorem ipsum dolor sit amet",
-          "isNative": false
-        }
-      ],
-      "webview_model": [
-        {
-          "title": "Level 1",
-          "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-          "url": "https://www.y8.com/games/knife_hit_/mobile",
-          "external": false
-        }
-      ],
-      "sounds_model": [
-        {
-          "title": "Audio 1",
-          "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
-          "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-        }
-      ],
-      "wallpapers_model": [
-        {
-          "title": "Wallpaper 1",
-          "category": [
-            "Nature"
+          "type": "guide",
+          "title": "Guide app",
+          "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+          "guide_model": [
+            {
+              "subTitle": "Card title",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Lorem ipsum dolor sit amet",
+              "isNative": false
+            },
+            {
+              "subTitle": "Card title",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Lorem ipsum dolor sit amet",
+              "isNative": false
+            }
           ],
-          "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-        },
-        {
-          "title": "Wallpaper 2",
-          "category": [
-            "Xp",
-            "background"
+          "webview_model": [
+            {
+              "title": "Level 1",
+              "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+              "url": "https://www.y8.com/games/knife_hit_/mobile",
+              "external": false
+            }
           ],
-          "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+          "sounds_model": [
+            {
+              "title": "Audio 1",
+              "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
+              "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+            }
+          ],
+          "wallpapers_model": [
+            {
+              "title": "Wallpaper 1",
+              "category": [
+                "Nature"
+              ],
+              "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+            },
+            {
+              "title": "Wallpaper 2",
+              "category": [
+                "Xp",
+                "background"
+              ],
+              "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+            }
+          ],
+          "data_model": [
+            
+          ]
         }
-      ],
-      "data_model": []
+      ]
     },
     {
       "type": "wallpapers",
-      "title": "HD",
+      "title": "HD Wallpapers",
       "img_url": "https://wallpapers.com/images/file/chinese-flat-lay-to81jwkeadhebcas.jpg",
       "wallpapers_model": [
         {"title": "Flat Marble","category": ["All","Flat1"],"img_url": "https://wallpapers.com/images/thumb/flat-marble-ug83nbq6x7rd7dkf.jpg"},
