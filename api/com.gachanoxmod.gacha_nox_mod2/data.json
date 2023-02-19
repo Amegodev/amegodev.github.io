@@ -19,24 +19,174 @@
         }
     },
     "apps": {
-        "defaultApp": "webview",
+         "defaultApp": "guide",
         "webview": {
             "backgroundImg": "https://resource.playmods.net/prd/image/e816b788-86b1-9f09-2151-0d21e28e7ddb.png-articleDetailwebp",
             "links": [
                 {
                     "title": "Play game",
-                    "coverImg": "https://resource.playmods.net/prd/image/f26ac56e-ef30-16d1-bbdf-865d1f22074e.png-articleDetailwebp",
+                    "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
                     "url": "https://www.google.com",
                     "links": [
                         {
                             "title": "Description",
-                            "coverImg": "https://resource.playmods.net/prd/image/c9e14e31-26c3-6d2b-6359-72fd674fdbb0.png-articleDetailwebp",
+                            "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
                             "url": "https://sahdev4apps.blogspot.com/2023/02/description.html"
                         },
                         {
-                            "title": "Mobile games",
-                            "coverImg": "https://resource.playmods.net/prd/image/c9e14e31-26c3-6d2b-6359-72fd674fdbb0.png-articleDetailwebp",
-                            "url": "https://sahdev4apps.blogspot.com/2023/02/description.html"
+                            "title": "Gacha Mod Apk Features",
+                            "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/gacha-nox-mod-apk-features.html"
+                        },
+                        {
+                            "title": "How to Download Gacha Rose Mod",
+                            "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/how-to-download-gacha-nox-mod-apk.html"
+                        },
+                        {
+                            "title": "Gacha NEW MOD",
+                            "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/gacha-rose-is-latest-mod-game-from-gacha.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "How to play",
+                    "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "url": "https://sahdev4apps.blogspot.com/2023/02/description.html",
+                    "links": [
+                        {
+                            "title": "Gacha NEW MOD",
+                            "coverImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "url": "https://sahdev4apps.blogspot.com/2023/02/gacha-rose-is-latest-mod-game-from-gacha.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gacha NEW MOD",
+                    "coverImg": "https://resource.playmods.net/prd/image/8434a22f-13b2-061c-0be8-a1302520b944.jpg-articleDetailwebp",
+                    "url": "https://sahdev4apps.blogspot.com/2023/02/gacha-rose-is-latest-mod-game-from-gacha.html"
+                }
+            ]
+        },
+        "guide": {
+            "backgroundImg": "https://wallpapercave.com/dwp1x/wp3757981.png",
+            "articles": [
+                {
+                    "title": "Gacha Rose Mod",
+                    "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "content": [],
+                    "articles": [
+                        {
+                            "title": "The description of Gacha Rose",
+                            "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "content": [
+                                {
+                                    "subTitle": "Gacha Rose",
+                                    "linkTitle": "",
+                                    "Link": "",
+                                    "img_url": "",
+                                    "text": "Gacha Rose is finally out! It's a Christmas gift from the developers to all their fans, and it offers a mod that allows players to create amazing characters that are as beautiful as they are original. Gacha Rose is a Gacha Club Mod Apk based game with the same main goal. However, the difference between Gacha Club and Gacha Rose is that Gacha Rose is a new mod from Gacha Club. The main purpose of Gacha Rose is to add new features to better enrich game characters. In Gacha Rose we can find many new elements, such as new outfits, incredible hairstyles and accessories, and more.",
+                                    "isNative": true
+                                }
+                            ],
+                            "articles": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Gacha  Rose Mod ",
+                    "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "content": [],
+                    "articles": [
+                        {
+                            "title": "The description of Gacha Rose",
+                            "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "content": [
+                                {
+                                    "subTitle": "Gacha Rose Mod Apk Features",
+                                    "linkTitle": "",
+                                    "Link": "",
+                                    "img_url": "",
+                                    "text": "This is a new mod with a spectacular look, where every element is beautifully detailed. It is one of the most beautiful mods released so far. The game offers customization opportunities for several anime characters, with a host of accessories in the form of clothes, shoes, skins, hair color, height, and more. Let's take a look at the features of this new mod.",
+                                    "isNative": true
+                                }
+                            ],
+                            "articles": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Gacha  Rose Mod 3",
+                    "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "content": [],
+                    "articles": [
+                        {
+                            "title": "Gacha Rose",
+                            "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "content": [
+                                {
+                                    "subTitle": "Gacha Rose",
+                                    "linkTitle": "",
+                                    "Link": "",
+                                    "img_url": "",
+                                    "text": " Gacha Rose is the latest mod game from Gacha. This game has classic Gacha elements, and you can try more exciting and interesting gameplays freely. This new game can bring players more surprises and joys, and many exquisite costumes of different styles can be freely matched. PlayMods has prepared the download method of this game for players, hurry to download and experience it!",
+                                    "isNative": true
+                                }
+                            ],
+                            "articles": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Gacha Mod 4",
+                    "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "content": [],
+                    "articles": [
+                        {
+                            "title": "Features",
+                            "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "content": [
+                                {
+                                    "subTitle": "Features",
+                                    "linkTitle": "",
+                                    "Link": "",
+                                    "img_url": "",
+                                    "text": "1. Over 300 new fully customizable items\n2. New background\n3. New foregrounds (some with unique effects)\n4. UI redesign in pastel pink\n5. New pose page\n6. New kawaii props\n7. Clothing Logo",
+                                    "isNative": true
+                                }
+                            ],
+                            "articles": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Gacha Rose Mod 5",
+                    "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                    "content": [],
+                    "articles": [
+                        {
+                            "title": "How to Download",
+                            "coverUrl": "https://wallpapercave.com/dwp1x/wp3757981.png",
+                            "content": [
+                                {
+                                    "subTitle": "Download",
+                                    "linkTitle": "",
+                                    "Link": "",
+                                    "img_url": "",
+                                    "text": "PlayMods provides players with a download of this game, click on the link to download it for free: Gacha Rose Mod Apk (New Mod)\nIf you want to try other games in the Gacha series, you can download some of the popular Gacha games I recommend below.",
+                                    "isNative": true
+                                },
+                                {
+                                    "subTitle": "",
+                                    "linkTitle": "Download",
+                                    "Link": "https://play.google.com/store/apps/details?id=com.gachanoxmod.gacha_nox_mod2",
+                                    "img_url": "",
+                                    "text": "",
+                                    "isNative": true
+                                }
+                            ],
+                            "articles": []
                         }
                     ]
                 }
