@@ -26,8 +26,9 @@
       "guide_model": [
         {
           "subTitle": "Card title",
-          "linkTitle": "https://example.com/",
-          "Link": "Example.com",
+          "linkTitle": "Example.com",
+          "Link": "https://example.com/",
+          "in_app_webview": true,
           "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
           "text": "Lorem ipsum dolor sit amet",
           "isNative": false
@@ -75,6 +76,7 @@
               "subTitle": "Card title 1",
               "linkTitle": "Example.com",
               "Link": "https://example.com/",
+              "in_app_webview": true,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
               "text": "Lorem ipsum dolor sit amet",
               "isNative": false
@@ -83,6 +85,7 @@
               "subTitle": "Card title 2",
               "linkTitle": "Example.com",
               "Link": "https://example.com/",
+              "in_app_webview": false,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
               "text": "Lorem ipsum dolor sit amet",
               "isNative": true
@@ -91,6 +94,7 @@
               "subTitle": "Card title 3",
               "linkTitle": "Example.com",
               "Link": "https://example.com/",
+              "in_app_webview": true,
               "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
               "text": "Lorem ipsum dolor sit amet",
               "isNative": false
