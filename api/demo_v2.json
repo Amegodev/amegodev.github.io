@@ -20,57 +20,9 @@
   },
   "data_model": [
     {
-      "type": "guide",
-      "title": "Guide app",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
-      "guide_model": [
-        {
-          "subTitle": "Card title",
-          "linkTitle": "https://example.com/",
-          "Link": "Example.com",
-          "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-          "text": "Lorem ipsum dolor sit amet",
-          "isNative": false
-        }
-      ],
-      "webview_model": [
-        {
-          "title": "Level 1",
-          "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-          "url": "https://www.y8.com/games/knife_hit_/mobile",
-          "external": false
-        }
-      ],
-      "sounds_model": [
-        {
-          "title": "Audio 1",
-          "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
-          "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-        }
-      ],
-      "wallpapers_model": [
-        {
-          "title": "Wallpaper 1",
-          "category": [
-            "Nature"
-          ],
-          "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-        },
-        {
-          "title": "Wallpaper 2",
-          "category": [
-            "Xp",
-            "background"
-          ],
-          "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-        }
-      ],
-      "data_model": []
-    },
-    {
       "type": "wallpapers",
-      "title": "Wallpapers App",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+      "title": "HD Wallpapers",
+      "img_url": "https://wallpapers.com/images/file/chinese-flat-lay-to81jwkeadhebcas.jpg",
       "guide_model": [
         {
           "subTitle": "Card title",
@@ -97,26 +49,29 @@
         }
       ],
       "wallpapers_model": [
-        {"title": "leopards","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/b4/b4998cef88539ca8075898078e52ece0.jpeg"},
-        {"title": "pictures","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d3/d3d2226f52b64f3850a9ab926334d897.jpeg"},
-        {"title": "horses","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/49/49ab8a5e7a9ef14d93f47c52a7f778c0.jpeg"},
-        {"title": "cats","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/fc/fc13571b3a332105b55ca9d43fe9400d.jpeg"},
-        {"title": "lion","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/3c/3c4bb5fbf4511d5b1561e06fa9e3f9c3.jpeg"},
-        {"title": "snow","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/e0/e06fc0870cb55e4c5184add74d2b89b3.jpeg"},
-        {"title": "brilliant koting","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/9b/9b7fc04f66f6a369a524f619a2072b0d.jpeg"},
-        {"title": "tiger","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/74/741de06c17575d7455aa3001f8e4432b.jpeg"},
-        {"title": "squirrel","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/5b/5b8ccc348635d16ac7dcf39987301811.jpeg"},
-        {"title": "animals","category": ["All","wolf"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/9d/9db2d4683d92f5f2045e9142fbd82633.jpeg"},
-        {"title": "animals","category": ["All","horses"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/6c/6cd8f6e2914a9ea63d8246ad69c8de1c.jpeg"},
-        {"title": "owl","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/88/88b0a9010ba27f7c8d5219985640bbab.jpeg"},
-        {"title": "panther","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/87/87cd91804154c33a07a1ad4ca1e9b506.jpeg"},
-        {"title": "muzzle","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/cf/cf9cd1bb82f7cc94c8572585eed6fa08.jpeg"},
-        {"title": "tigers","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/f9/f9567c7c24333528401a6e5e837561f3.jpeg"},
-        {"title": "lions","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d5/d578a5dc448366b89ad867ba6e5f45a3.jpeg"},
-        {"title": "small fish","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/b8/b82d9320e6ff6d6e6e3fc94b6757360b.jpeg"},
-        {"title": "water","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/2f/2f621e70d0bcd17a2724b808719e90cf.jpeg"},
-        {"title": "eagle","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/1e/1ec840acee56dfd663d022e6e791387a.jpeg"},
-        {"title": "dove","category": ["All","animals"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/2a/2ab0df2e28b6ea58a0d762d820231839.jpeg"}
+        {"title": "Flat Marble","category": ["All","Flat1"],"img_url": "https://wallpapers.com/images/thumb/flat-marble-ug83nbq6x7rd7dkf.jpg"},
+        {"title": "Volubilis Flat Scenery","category": ["All","Flat1"],"img_url": "https://wallpapers.com/images/thumb/volubilis-flat-scenery-elgggz3nufzs7af5.jpg"},
+        {"title": "Flat Lay Chayote","category": ["All","Flat1"],"img_url": "https://wallpapers.com/images/thumb/flat-lay-chayote-cjye513zzwjwe95d.jpg"},
+        {"title": "Newspaper Flat Lay","category": ["All","Flat1"],"img_url": "https://wallpapers.com/images/thumb/newspaper-flat-lay-7u8tczoqlei3l3om.jpg"},
+        {"title": "Sailing On Flat Horizon","category": ["All","Flat2"],"img_url": "https://wallpapers.com/images/thumb/sailing-on-flat-horizon-s83bxqh4oa5oit86.jpg"},
+        {"title": "Diwali Flat Lay","category": ["All","Flat2"],"img_url": "https://wallpapers.com/images/thumb/diwali-flat-lay-p973y01k4adol11r.jpg"},
+        {"title": "Tasty Flat Lay","category": ["All","Flat2"],"img_url": "https://wallpapers.com/images/thumb/tasty-flat-lay-p98heqn841yo6c44.jpg"},
+        {"title": "Imvu Guy Flat","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/imvu-guy-flat-h2o49f0sqm77mhw1.jpg"},
+        {"title": "Flat Galaxy Background","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/flat-galaxy-background-v9my28nr8lpvxql2.jpg"},
+        {"title": "Dslr Camera Flat Lay","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/dslr-camera-flat-lay-n2ijb84bmds6gkbn.jpg"},
+        {"title": "Eucalyptus Flat Leaves","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/eucalyptus-flat-leaves-t92ardmuf447z5k4.jpg"},
+        {"title": "Leaf Flat Lay","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/leaf-flat-lay-947gahplr6xdcuvk.jpg"},
+        {"title": "Flat Agaric Mushroom","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/flat-agaric-mushroom-82sb2bbhkw67k11d.jpg"},
+        {"title": "Gmail Flat Stones","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/gmail-flat-stones-i9dwdvp05xa2zzcu.jpg"},
+        {"title": "Chinese Flat Lay","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/chinese-flat-lay-to81jwkeadhebcas.jpg"},
+        {"title": "Flat Lay Tuna","category": ["All","Flat3"],"img_url": "https://wallpapers.com/images/thumb/flat-lay-tuna-6im3qtls5029rqg4.jpg"},
+        {"title": "Wine Flat Lay","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/wine-flat-lay-3rqau2amill4skii.jpg"},
+        {"title": "Honeycomb Empty And Flat","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/honeycomb-empty-and-flat-qcbbisll67cbbvah.jpg"},
+        {"title": "Centipede Flat On Tree Roots","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/centipede-flat-on-tree-roots-qsco4jlffrhla96r.jpg"},
+        {"title": "Flat Chips On Wooden Table","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/flat-chips-on-wooden-table-00pv4tqdefd39fox.jpg"},
+        {"title": "Arsenal Fc Jersey Flat Lay","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/arsenal-fc-jersey-flat-lay-9x0crgkkqkus76zs.jpg"},
+        {"title": "Database & Cloud Flat Illustration","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/database-cloud-flat-illustration-n2r3j1una39jrj85.jpg"},
+        {"title": "Flat-topped Hd Mountain","category": ["All","Flat4"],"img_url": "https://wallpapers.com/images/thumb/flat-topped-hd-mountain-hkxgkzdxoc7v519i.jpg"}
       ],
       "data_model": []
     }
