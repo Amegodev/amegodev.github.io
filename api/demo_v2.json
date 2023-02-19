@@ -65,7 +65,39 @@
           "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
         }
       ],
-      "data_model": []
+      "data_model": [
+        {
+          "type": "guide",
+          "title": "Guide app",
+          "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+          "guide_model": [
+            {
+              "subTitle": "Card title 1",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Lorem ipsum dolor sit amet",
+              "isNative": false
+            },
+            {
+              "subTitle": "Card title 2",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Lorem ipsum dolor sit amet",
+              "isNative": true
+            },
+            {
+              "subTitle": "Card title 3",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Lorem ipsum dolor sit amet",
+              "isNative": false
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "wallpapers",
