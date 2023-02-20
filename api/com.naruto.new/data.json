@@ -47,7 +47,19 @@
               "text": "Sasuke Retsuden takes place after the events of Naruto Shippuden and before Boruto, right at a time where Naruto is infected by a deadly sickness that prevents him from using his chakra. When they find out it might be the work of the so-called Shadow Kage, Sasuke and Sakura depart on a mission in search of the villain, as well as a cure for their friend, on a journey far from the Fire Nation that’ll test their marriage.Sasuke Retsuden develops Sasuke and Sakura’s relationship deeply, explaining a romance that when Boruto began was incomprehensible for many due to the cold and distant they were with each other. The original novel was written by Jun Esaka with illustrations by Masashi Kishimoto, but its manga adaptation has been under the watchful eye of Shingo Kimura. The series is already one of the most read titles in Manga Plus and Shueisha channels, and if the anime adaptation gets close to its origins, we might have one of the biggest events of 2023 in our hands.",
               "isNative": false
             }
-          ],
+          ]
+        }
+      ]
+    },
+    {
+      "type": "webview",
+      "title": "Naruto Mangas",
+      "img_url": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/com.naruto.new/Sasuke.jpg",
+      "data_model": [
+        {
+          "type": "guide",
+          "title": "New Naruto Manga",
+          "img_url": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/com.naruto.new/Sasuke.jpg",
           "webview_model": [
             {
               "title": "Naruto Manga",
