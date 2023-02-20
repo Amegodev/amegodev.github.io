@@ -1,0 +1,61 @@
+{
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki"
+  },
+  "ads": {
+    "adNetwork": "admob",
+    "frequency": 2,
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    }
+  },
+  "data_model": [
+    {
+      "type": "guide",
+      "title": "Naruto Manga",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+      "data_model": [
+        {
+          "type": "guide",
+          "title": "Guide app",
+          "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+          "guide_model": [
+            {
+              "subTitle": "Naruto new anime: this is Sasuke Retsuden",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "It’s not a Naruto remake and it’s not the Boruto reset that a lot of people have been waiting for, but it’s still amazing news. Naruto’s big announcement during Jump Festa 2023 was the confirmation that Sasuke Retsuden, one of the manga’s spin-offs, will get its own anime at the start of the coming year. It’ll be an arc inside of Boruto: Naruto Next Generation, and it will begin on January 8, 2023. Sasuke Retsuden is a Naruto short novel that was released in 2019 and, due to its success, was transformed into a manga this past october. Since then five chapters have been published for free, and it’s become known as Naruto: Sasuke’s Story - The Uchiha and the Heavenly Stardust. The anime will become a part of Boruto, which will stop its filler, center on the new story, and once finished will begin airing the long awaited Code arc.",
+              "isNative": false
+            },
+            {
+              "subTitle": "What is Sasuke Retsuden about?",
+              "linkTitle": "https://example.com/",
+              "Link": "Example.com",
+              "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+              "text": "Sasuke Retsuden takes place after the events of Naruto Shippuden and before Boruto, right at a time where Naruto is infected by a deadly sickness that prevents him from using his chakra. When they find out it might be the work of the so-called Shadow Kage, Sasuke and Sakura depart on a mission in search of the villain, as well as a cure for their friend, on a journey far from the Fire Nation that’ll test their marriage.Sasuke Retsuden develops Sasuke and Sakura’s relationship deeply, explaining a romance that when Boruto began was incomprehensible for many due to the cold and distant they were with each other. The original novel was written by Jun Esaka with illustrations by Masashi Kishimoto, but its manga adaptation has been under the watchful eye of Shingo Kimura. The series is already one of the most read titles in Manga Plus and Shueisha channels, and if the anime adaptation gets close to its origins, we might have one of the biggest events of 2023 in our hands.",
+              "isNative": false
+            }
+          ],
+          "webview_model": [
+            {
+              "title": "Naruto Manga",
+              "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+              "url": "https://mangaplus.shueisha.co.jp/viewer/1003637",
+              "external": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
