@@ -12,7 +12,7 @@
           "mRec": "/6499/example/rewarded",
           "appOpen": "ca-app-pub-4485881784602150/5137741025"
       },
-      "unity": {
+      "ids": {
           "appId": "5124486",
           "banner": "Banner_Android",
           "inter": "Interstitial_Android",
