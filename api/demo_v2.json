@@ -20,9 +20,9 @@
   },
   "data_model": [
     {
-      "type": "guide",
-      "title": "Guide app",
-      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+      "type": "webview",
+      "title": "WebView app",
+      "img_url": "",
       "guide_model": [
         {
           "subTitle": "Card title",

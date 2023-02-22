@@ -1,0 +1,141 @@
+{
+    "config": {
+      "currentAppVersion": "1.0.0",
+      "forceUpdate": true,
+      "title": "Update available",
+      "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+      "updateLink": "https://play.google.com/store/apps/details?id=com.softapp.rythm.sonolus_wiki"
+    },
+    "ads": {
+      "adNetwork": "admob",
+      "frequency": 2,
+      "ids": {
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
+    },
+    "data_model": [
+      {
+        "type": "webview",
+        "title": "WebView app",
+        "img_url": "",
+        "guide_model": [
+          {
+            "subTitle": "Card title",
+            "linkTitle": "Example.com",
+            "Link": "https://example.com/",
+            "in_app_webview": true,
+            "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+            "text": "Lorem ipsum dolor sit amet",
+            "isNative": false
+          }
+        ],
+        "webview_model": [
+          {
+            "title": "Level 1",
+            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+            "url": "https://www.y8.com/games/knife_hit_/mobile",
+            "external": false
+          }
+        ],
+        "sounds_model": [
+          {
+            "title": "Audio 1",
+            "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
+            "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+          }
+        ],
+        "wallpapers_model": [
+          {
+            "title": "Wallpaper 1",
+            "category": [
+              "Nature"
+            ],
+            "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+          },
+          {
+            "title": "Wallpaper 2",
+            "category": [
+              "Xp",
+              "background"
+            ],
+            "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+          }
+        ],
+        "data_model": []
+      },
+      {
+        "type": "webview",
+        "title": "WebView app",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+        "guide_model": [
+          {
+            "subTitle": "Card title",
+            "linkTitle": "Example.com",
+            "Link": "https://example.com/",
+            "in_app_webview": true,
+            "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+            "text": "Lorem ipsum dolor sit amet",
+            "isNative": false
+          }
+        ],
+        "webview_model": [
+          {
+            "title": "Level 1",
+            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+            "url": "https://www.y8.com/games/knife_hit_/mobile",
+            "external": false
+          }
+        ],
+        "data_model": []
+      },
+      {
+        "type": "wallpapers",
+        "title": "Wallpapers App",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
+        "guide_model": [
+          {
+            "subTitle": "Card title",
+            "linkTitle": "https://example.com/",
+            "Link": "Example.com",
+            "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
+            "text": "Lorem ipsum dolor sit amet",
+            "isNative": false
+          }
+        ],
+        "webview_model": [
+          {
+            "title": "Level 1",
+            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
+            "url": "https://www.y8.com/games/knife_hit_/mobile",
+            "external": false
+          }
+        ],
+        "sounds_model": [
+          {
+            "title": "Audio 1",
+            "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
+            "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
+          }
+        ],
+        "wallpapers_model": [
+          {"title": "new york","category": ["manhattan", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/42/42ea555c19d4b85a2353b0c4fed8a9a6.jpeg"},
+          {"title": "city","category": ["road", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/a2/a2517c612d33ca455b5447149eceff81.jpeg"},
+          {"title": "germany","category": ["evening", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/40/4080ae7ec8edfd7405b21e76aa7cc4a4.jpeg"},
+          {"title": "view from above","category": ["night city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/6c/6c0cf748db116fabaa70199a35327258.jpeg"},
+          {"title": "cities","category": ["architecture", "palms"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/0c/0cd8779f379ee0fb096eb67e1607b285.jpeg"},
+          {"title": "kuala lumpur","category": ["building", "man made"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95bb0aeff6f11b7bd47136c144ad4169.jpeg"},
+          {"title": "night city","category": ["view from above", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/c6/c6d2ca7bcaddded72d989a39bb987fa7.jpeg"},
+          {"title": "lights","category": ["city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/5f/5f5510722572991a42d348263247be0d.jpeg"},
+          {"title": "bridge","category": ["united states", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d2/d22375c749e82db6bb812655af15e8d0.jpeg"},
+          {"title": "cities","category": ["lanterns", "hdr"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95fb473e7d9461c09dd4f3252c84224c.jpeg"},
+          {"title": "street","category": ["architecture", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/ff/ffd525492aefd64bfbbbec95e4c0acdc.jpeg"}
+        ],
+        "data_model": []
+      }
+    ]
+  }
