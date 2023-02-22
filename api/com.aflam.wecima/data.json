@@ -70,31 +70,6 @@
         "data_model": []
       },
       {
-        "type": "webview",
-        "title": "WebView app",
-        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
-        "guide_model": [
-          {
-            "subTitle": "Card title",
-            "linkTitle": "Example.com",
-            "Link": "https://example.com/",
-            "in_app_webview": true,
-            "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-            "text": "Lorem ipsum dolor sit amet",
-            "isNative": false
-          }
-        ],
-        "webview_model": [
-          {
-            "title": "Level 1",
-            "coverImg": "https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/122206/small.gif",
-            "url": "https://www.y8.com/games/knife_hit_/mobile",
-            "external": false
-          }
-        ],
-        "data_model": []
-      },
-      {
         "type": "wallpapers",
         "title": "Wallpapers App",
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
