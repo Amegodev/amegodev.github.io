@@ -19,29 +19,109 @@
       }
     },
     "data_model": [
-        {
-          "type": "wallpapers",
-          "title": "Gacha rose wallpapers",
-          "img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935701",
-          "wallpapers_model": [
-            {"title": "Gacha Rose Wallpaper 1","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935701"},
-            {"title": "Gacha Rose Wallpaper 2","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935697"},
-            {"title": "Gacha Rose Wallpaper 3","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757981"},
-            {"title": "Gacha Rose Wallpaper 4","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757985"},
-            {"title": "Gacha Rose Wallpaper 5","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935647"},
-            {"title": "Gacha Rose Wallpaper 6","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935649"},
-            {"title": "Gacha Rose Wallpaper 7","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3758044"},
-            {"title": "Gacha Rose Wallpaper 8","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757998"},
-            {"title": "Gacha Rose Wallpaper 9","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935652"},
-            {"title": "Gacha Rose Wallpaper 10","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3758009"},
-            {"title": "Gacha Rose Wallpaper 11","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935653"},
-            {"title": "Gacha Rose Wallpaper 12","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935660"},
-            {"title": "Gacha Rose Wallpaper 13","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935672"},
-            {"title": "Gacha Rose Wallpaper 14","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935677"},
-            {"title": "Gacha Rose Wallpaper 15","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935687"},
-            {"title": "Gacha Rose Wallpaper 16","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935690"}
-          ],
-          "data_model": []
-        }
-      ]
+      {
+        "type": "wallpapers",
+        "title": "Gacha rose wallpapers",
+        "img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935701",
+        "wallpapers_model": [
+          {"title": "Gacha Rose Wallpaper 1","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935701"},
+          {"title": "Gacha Rose Wallpaper 2","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935697"},
+          {"title": "Gacha Rose Wallpaper 3","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757981"},
+          {"title": "Gacha Rose Wallpaper 4","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757985"},
+          {"title": "Gacha Rose Wallpaper 5","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935647"},
+          {"title": "Gacha Rose Wallpaper 6","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935649"},
+          {"title": "Gacha Rose Wallpaper 7","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3758044"},
+          {"title": "Gacha Rose Wallpaper 8","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3757998"},
+          {"title": "Gacha Rose Wallpaper 9","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935652"},
+          {"title": "Gacha Rose Wallpaper 10","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-rpg-anime-dress-up-wallpapers-wp3758009"},
+          {"title": "Gacha Rose Wallpaper 11","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935653"},
+          {"title": "Gacha Rose Wallpaper 12","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935660"},
+          {"title": "Gacha Rose Wallpaper 13","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935672"},
+          {"title": "Gacha Rose Wallpaper 14","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935677"},
+          {"title": "Gacha Rose Wallpaper 15","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935687"},
+          {"title": "Gacha Rose Wallpaper 16","category": ["All"],"img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935690"}
+        ],
+        "data_model": []
+      },
+      {
+        "type": "guide",
+        "title": "Gacha walkthrough",
+        "img_url": "https://wallpapercave.com/download/gachaverse-wallpapers-wp3935697",
+        "data_model": [
+          {
+            "type": "guide",
+            "title": "Gacha Rose Mod",
+            "img_url": "https://media.pocketgamer.com/artwork/ra-87039-1639486354/pgcom-highlight-top25-gacha-games-android-1010x505_jpg_820.jpg",
+            "guide_model": [
+              {
+                "subTitle": "Gacha Rose",
+                "linkTitle": "",
+                "Link": "",
+                "in_app_webview": true,
+                "img_url": "",
+                "text": "Gacha Rose is finally out! It's a Christmas gift from the developers to all their fans, and it offers a mod that allows players to create amazing characters that are as beautiful as they are original. Gacha Rose is a Gacha Club Mod Apk based game with the same main goal. However, the difference between Gacha Club and Gacha Rose is that Gacha Rose is a new mod from Gacha Club. The main purpose of Gacha Rose is to add new features to better enrich game characters. In Gacha Rose we can find many new elements, such as new outfits, incredible hairstyles and accessories, and more.",
+                "isNative": true
+              }
+            ]          
+          },
+          {
+            "type": "guide",
+            "title": "Gacha Rose Mod 2",
+            "img_url": "https://media.pocketgamer.com/artwork/ra-87039-1639486354/pgcom-highlight-top25-gacha-games-android-1010x505_jpg_820.jpg",
+            "guide_model": [
+              {
+                "subTitle": "Gacha Rose",
+                "linkTitle": "",
+                "Link": "",
+                "in_app_webview": true,
+                "img_url": "",
+                "text": " Gacha Rose is the latest mod game from Gacha. This game has classic Gacha elements, and you can try more exciting and interesting gameplays freely. This new game can bring players more surprises and joys, and many exquisite costumes of different styles can be freely matched. PlayMods has prepared the download method of this game for players, hurry to download and experience it!",
+                "isNative": true
+            }
+            ]          
+          },
+          {
+            "type": "guide",
+            "title": "Gacha Rose Mod 3",
+            "img_url": "https://media.pocketgamer.com/artwork/ra-87039-1639486354/pgcom-highlight-top25-gacha-games-android-1010x505_jpg_820.jpg",
+            "guide_model": [
+              {
+                "subTitle": "Features",
+                "linkTitle": "",
+                "Link": "",
+                "in_app_webview": true,
+                "img_url": "",
+                "text": "1. Over 300 new fully customizable items\n2. New background\n3. New foregrounds (some with unique effects)\n4. UI redesign in pastel pink\n5. New pose page\n6. New kawaii props\n7. Clothing Logo",
+                "isNative": true
+            }
+            ]          
+          },
+          {
+            "type": "guide",
+            "title": "Gacha Rose Mod 4",
+            "img_url": "https://media.pocketgamer.com/artwork/ra-87039-1639486354/pgcom-highlight-top25-gacha-games-android-1010x505_jpg_820.jpg",
+            "guide_model": [
+              {
+                "subTitle": "Download",
+                "linkTitle": "",
+                "Link": "",
+                "in_app_webview": true,
+                "img_url": "",
+                "text": "PlayMods provides players with a download of this game, click on the link to download it for free: Gacha Rose Mod Apk (New Mod)\nIf you want to try other games in the Gacha series, you can download some of the popular Gacha games I recommend below.",
+                "isNative": true
+            },
+            {
+                "subTitle": "",
+                "linkTitle": "Download",
+                "Link": "https://play.google.com/store/apps/details?id=com.gacha_rose.gacha_game_nox",
+                "in_app_webview": true,
+                "img_url": "",
+                "text": "",
+                "isNative": true
+            }
+            ]          
+          }
+        ]
+      }
+    ]
   }
