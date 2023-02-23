@@ -7,12 +7,12 @@
       "updateLink": "https://play.google.com/store/apps/details?id=com.gacha_rose.gacha_game_nox"
     },
     "ads": {
-      "adNetwork": "applovin",
-      "frequency": 2,
+      "adNetwork": "facebook",
+      "frequency": 1,
       "ids": {
-        "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
-        "banner": "321a1c4174ba96f9",
-        "inter": "2c903311c32206d4",
+        "appId": "527055242842654",
+        "banner": "527055242842654_527064869508358",
+        "inter": "527055242842654_527064929508352",
         "reward": "ca-app-pub-3940256099942544/5224354917",
         "native": "ca-app-pub-3940256099942544/2247696110",
         "appOpen": "ca-app-pub-3940256099942544/3419835294"
