@@ -102,7 +102,7 @@
             "img_url": "https://media.pocketgamer.com/artwork/ra-87039-1639486354/pgcom-highlight-top25-gacha-games-android-1010x505_jpg_820.jpg",
             "guide_model": [
               {
-                "subTitle": "Download",
+                "subTitle": "Download Tips",
                 "linkTitle": "",
                 "Link": "",
                 "in_app_webview": true,
@@ -114,7 +114,7 @@
                 "subTitle": "",
                 "linkTitle": "Download",
                 "Link": "https://play.google.com/store/apps/details?id=com.gacha_rose.gacha_game_nox",
-                "in_app_webview": true,
+                "in_app_webview": false,
                 "img_url": "",
                 "text": "",
                 "isNative": true
