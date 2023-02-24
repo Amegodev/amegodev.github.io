@@ -21,19 +21,8 @@
     "data_model": [
       {
         "type": "webview",
-        "title": "WebView app",
+        "title": "WebView Gallery",
         "img_url": "",
-        "guide_model": [
-          {
-            "subTitle": "Card title",
-            "linkTitle": "Example.com",
-            "Link": "https://example.com/",
-            "in_app_webview": true,
-            "img_url": "https://img.gurugamer.com/resize/740x-/2021/01/26/play-pubg-mobile-on-tv-7fee.jpg",
-            "text": "Lorem ipsum dolor sit amet",
-            "isNative": false
-          }
-        ],
         "webview_model": [
           {
             "title": "WeCima",
@@ -41,30 +30,6 @@
             "url": "https://weciima.makeup/",
             "external": false,
             "in_app_webview": true
-          }
-        ],
-        "sounds_model": [
-          {
-            "title": "Audio 1",
-            "url": "https://quicksounds.com/uploads/tracks/1935579566_1507815204_1880832073.mp3",
-            "cover": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-          }
-        ],
-        "wallpapers_model": [
-          {
-            "title": "Wallpaper 1",
-            "category": [
-              "Nature"
-            ],
-            "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
-          },
-          {
-            "title": "Wallpaper 2",
-            "category": [
-              "Xp",
-              "background"
-            ],
-            "img_url": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg"
           }
         ],
         "data_model": []
