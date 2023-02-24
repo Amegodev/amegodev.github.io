@@ -1,0 +1,184 @@
+{
+  "articles": [
+    {
+      "title": "Title 1",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
+      "content": [
+        {
+          "subTitle": "Hello word 1",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        },
+        {
+          "subTitle": "Hello word 122",
+          "isLink": true,
+          "linkTitle": "Show image",
+          "Link": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Hello word 333",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    },
+    {
+      "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+      "content": [
+        {
+          "subTitle": "Hello Hello 2",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    },
+    {
+      "title": "Title 1",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
+      "content": [
+        {
+          "subTitle": "Hello word 1",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        },
+        {
+          "subTitle": "Hello word 122",
+          "isLink": true,
+          "linkTitle": "Show image",
+          "Link": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Hello word 333",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    },
+    {
+      "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+      "content": [
+        {
+          "subTitle": "Hello Hello 2",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    },
+    {
+      "title": "Title 1",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image1.png",
+      "content": [
+        {
+          "subTitle": "Hello word 1",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        },
+        {
+          "subTitle": "Hello word 122",
+          "isLink": true,
+          "linkTitle": "Show image",
+          "Link": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": false
+        },
+        {
+          "subTitle": "Hello word 333",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    },
+    {
+      "title": "Title 2 long one that can be tall more than device width, but this wasn't enaugh so I have to write this nonsense words, someone stop me please",
+      "coverUrl": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/com.fortnitebattleroyale.chaptertwo.seasonnine/wallpapers/image2.png",
+      "content": [
+        {
+          "subTitle": "Hello Hello 2",
+          "isLink": false,
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://usercontent1.hubstatic.com/8037694.jpg",
+          "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+          "isNative": true
+        }
+      ]
+    }
+  ],
+  "backgroundImg": "https://usercontent1.hubstatic.com/8037694.jpg",
+  "backgroundColor" : "424242",
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": false,
+    "title": "update available",
+    "body": "update_message",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.happyplay.tips.guide_tips_app",
+    "approved": true
+  },
+  "ads": {
+    "adNetwork": "applovin",
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banners": [
+        "3ab4a7b0ea75f2c6",
+        "ca-app-pub-5345037485983429/5704363995"
+      ],
+      "inters": [
+        "63e8dc21cb4767ed",
+        "ca-app-pub-5345037485983429/9466433461"
+      ],
+      "rewards": [
+        "cd214da37b993abd",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "natives": [
+        "4968d68ceed969e6",
+        "ca-app-pub-5345037485983429/4729397518"
+      ],
+      "mRecs": [
+        "68146d3929f43660",
+        "ca-app-pub-5345037485983429/4729397518"
+      ]
+    }
+  }
+}
