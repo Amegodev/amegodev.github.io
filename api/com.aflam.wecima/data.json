@@ -20,21 +20,6 @@
     },
     "data_model": [
       {
-        "type": "webview",
-        "title": "WebView Gallery",
-        "img_url": "",
-        "webview_model": [
-          {
-            "title": "WeCima",
-            "coverImg": "https://play-lh.googleusercontent.com/iaJ9hcvrwe5wdZDFA0KvqV5qOhzRbDOsRDcfmg0wzSVkyBrkDmT8eikqjBeJqYoTIQ",
-            "url": "https://wecima.tube",
-            "external": false,
-            "in_app_webview": true
-          }
-        ],
-        "data_model": []
-      },
-      {
         "type": "wallpapers",
         "title": "Wallpapers App",
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
@@ -75,6 +60,23 @@
           {"title": "bridge","category": ["united states", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d2/d22375c749e82db6bb812655af15e8d0.jpeg"},
           {"title": "cities","category": ["lanterns", "hdr"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95fb473e7d9461c09dd4f3252c84224c.jpeg"},
           {"title": "street","category": ["architecture", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/ff/ffd525492aefd64bfbbbec95e4c0acdc.jpeg"}
+        ],
+        "data_model": []
+      }
+    ],
+    "backup": [
+      {
+        "type": "webview",
+        "title": "WeCima",
+        "img_url": "",
+        "webview_model": [
+          {
+            "title": "WeCima",
+            "coverImg": "",
+            "url": "https://wecima.tube",
+            "external": false,
+            "in_app_webview": true
+          }
         ],
         "data_model": []
       }
