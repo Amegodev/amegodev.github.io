@@ -1,9 +1,9 @@
 {
-    "currentAppVersion": "1.0.0",
-    "forceUpdate": false,
+    "currentAppVersion": "2.0.0",
+    "forceUpdate": true,
     "title": "Update available",
     "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
-    "updateLink": "https://play.google.com/store/apps/details?id=com.gachanoxmod.gacha_nox_mod",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.gacha_rose.gacha_game_nox",
     "approved": true,
     "ads": {
         "adNetwork": "admob",
