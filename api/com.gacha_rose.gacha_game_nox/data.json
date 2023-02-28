@@ -32,6 +32,14 @@
         "reward": "7ef74d3e95a8a8e3",
         "native": "ca-app-pub-3940256099942544/2247696110",
         "appOpen": "___"
+      },
+      "idsunity": {
+        "appId": "5184789",
+        "banner": "Banner_Android",
+        "inter": "Interstitial_Android",
+        "reward": "Rewarded_Android",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "___"
       }
     },
     "data_model": [
