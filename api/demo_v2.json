@@ -182,17 +182,17 @@
         }
       ],
       "wallpapers_model": [
-        {"title": "new york","category": ["manhattan", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/42/42ea555c19d4b85a2353b0c4fed8a9a6.jpeg"},
-        {"title": "city","category": ["road", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/a2/a2517c612d33ca455b5447149eceff81.jpeg"},
-        {"title": "germany","category": ["evening", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/40/4080ae7ec8edfd7405b21e76aa7cc4a4.jpeg"},
-        {"title": "view from above","category": ["night city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/6c/6c0cf748db116fabaa70199a35327258.jpeg"},
-        {"title": "cities","category": ["architecture", "palms"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/0c/0cd8779f379ee0fb096eb67e1607b285.jpeg"},
-        {"title": "kuala lumpur","category": ["building", "man made"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95bb0aeff6f11b7bd47136c144ad4169.jpeg"},
-        {"title": "night city","category": ["view from above", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/c6/c6d2ca7bcaddded72d989a39bb987fa7.jpeg"},
-        {"title": "lights","category": ["city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/5f/5f5510722572991a42d348263247be0d.jpeg"},
-        {"title": "bridge","category": ["united states", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d2/d22375c749e82db6bb812655af15e8d0.jpeg"},
-        {"title": "cities","category": ["lanterns", "hdr"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95fb473e7d9461c09dd4f3252c84224c.jpeg"},
-        {"title": "street","category": ["architecture", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/ff/ffd525492aefd64bfbbbec95e4c0acdc.jpeg"}
+        {"title": "new york","category": ["all", "manhattan", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/42/42ea555c19d4b85a2353b0c4fed8a9a6.jpeg"},
+        {"title": "city","category": ["all", "road", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/a2/a2517c612d33ca455b5447149eceff81.jpeg"},
+        {"title": "germany","category": ["all", "evening", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/40/4080ae7ec8edfd7405b21e76aa7cc4a4.jpeg"},
+        {"title": "view from above","category": ["all", "night city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/6c/6c0cf748db116fabaa70199a35327258.jpeg"},
+        {"title": "cities","category": ["all", "architecture", "palms"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/0c/0cd8779f379ee0fb096eb67e1607b285.jpeg"},
+        {"title": "kuala lumpur","category": ["all", "building", "man made"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95bb0aeff6f11b7bd47136c144ad4169.jpeg"},
+        {"title": "night city","category": ["all", "view from above", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/c6/c6d2ca7bcaddded72d989a39bb987fa7.jpeg"},
+        {"title": "lights","category": ["all", "city", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/5f/5f5510722572991a42d348263247be0d.jpeg"},
+        {"title": "bridge","category": ["all", "united states", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/d2/d22375c749e82db6bb812655af15e8d0.jpeg"},
+        {"title": "cities","category": ["all", "lanterns", "hdr"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/95/95fb473e7d9461c09dd4f3252c84224c.jpeg"},
+        {"title": "street","category": ["all", "architecture", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/ff/ffd525492aefd64bfbbbec95e4c0acdc.jpeg"}
       ],
       "data_model": []
     }
