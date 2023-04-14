@@ -20,7 +20,7 @@
     },
     "data_model": [
       {
-        "type": "guide",
+        "type": "wallpapers",
         "title": "Wallpapers App",
         "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jWAnaPNIMIeiJkzbWKD-MlDgQnBoEGgGw3fl2Vy9AmBSEjPlIwgGyw62obP78uelwiQ&usqp=CAU",
         "guide_model": [
