@@ -7,7 +7,7 @@
       "updateLink": "https://play.google.com/store/apps/details?id=com.demo.guide"
     },
     "ads": {
-      "adNetwork": "--",
+      "adNetwork": "admob",
       "frequency": 2,
       "ids": {
         "appId": "ca-app-pub-3940256099942544~3347511713",
