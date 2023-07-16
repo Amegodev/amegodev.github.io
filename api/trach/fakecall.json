@@ -1,7 +1,7 @@
 {
     "title": "Santa Fake Call",
-    "icon": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/com.choo_choo.fakechat.fake_call/icon.png",
-    "backgroundImg": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/fakecall/com.choo_choo.fakechat.fake_call/bg.png",
+    "icon": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/trach/fakecall/icon.png",
+    "backgroundImg": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/trach/fakecall/bg.jpg",
     "messages": [
         "Hi! 👋",
         "What's your name?",
