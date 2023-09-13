@@ -10,7 +10,8 @@
           "reward": "ca-app-pub-3940256099942544/5224354917",
           "native": "ca-app-pub-3940256099942544/2247696110",
           "appOpen": "ca-app-pub-3940256099942544/3419835294"
-      }
+      },
+      "keywords": []
     },
     "config": {
       "currentAppVersion": "2.0.0",
