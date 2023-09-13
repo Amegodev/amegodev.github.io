@@ -1,0 +1,25 @@
+{
+  
+    "ads": {
+      "adNetwork": "admob",
+      "frequency": 2,
+      "ids": {
+          "appId": "ca-app-pub-3940256099942544~3347511713",
+          "banner": "ca-app-pub-3940256099942544/6300978111",
+          "inter": "ca-app-pub-3940256099942544/1033173712",
+          "reward": "ca-app-pub-3940256099942544/5224354917",
+          "native": "ca-app-pub-3940256099942544/2247696110",
+          "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      },
+      "keywords": []
+    },
+    "config": {
+      "currentAppVersion": "2.0.0",
+      "forceUpdate": false,
+      "title": "Update Available 🎉",
+      "body": "Version {} is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+      "updateLink": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+      "approved": true
+    }
+  }
+  
