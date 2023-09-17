@@ -1,34 +1,34 @@
 {
   
-    "ads": {
-      "adNetwork": "admob",
-      "frequency": 4,
-      "idsapplovin": {
-          "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
-          "banner": "283b49c98916f770",
-          "inter": "d526946b31b433a5",
-          "reward": "ca-app-pub-3940256099942544/5224354917",
-          "native": "ca-app-pub-3940256099942544/2247696110",
-          "appOpen": "ca-app-pub-3940256099942544/3419835294"
-      },
-      "ids": {
-          "appId": "ca-app-pub-3940256099942544~3347511713",
-          "banner": "ca-app-pub-3940256099942544/6300978111",
-          "inter": "ca-app-pub-3940256099942544/1033173712",
-          "reward": "ca-app-pub-3940256099942544/5224354917",
-          "native": "ca-app-pub-3940256099942544/2247696110",
-          "appOpen": "ca-app-pub-3940256099942544/3419835294"
-      },
-      "keywords": []
+  "ads": {
+    "adNetwork": "admob",
+    "frequency": 4,
+    "idsapplovin": {
+        "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
+        "banner": "283b49c98916f770",
+        "inter": "d526946b31b433a5",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
     },
-    "config": {
-      "currentAppVersion": "1.0.0",
-      "forceUpdate": false,
-      "title": "Update Available 🎉",
-      "body": "Version {} is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
-      "updateLink": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
-      "approved": false,
-      "": ""
-    }
+    "ids": {
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "keywords": []
+  },
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": false,
+    "title": "Update Available 🎉",
+    "body": "Version {} is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+    "player_link":"https://frembed.com/api/film.php?id={}",
+    "pro_prompt": true,
+    "approved": false
   }
-  
+}
