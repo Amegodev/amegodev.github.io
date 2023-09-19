@@ -29,6 +29,8 @@
       "updateLink": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
       "player_link":"https://frembed.com/api/film.php?id={}",
       "pro_prompt": false,
+      "set_is_pro_for_all": true,
+      "play_movies": false,
       "approved": false
     }
   }
