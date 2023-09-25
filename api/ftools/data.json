@@ -31,7 +31,7 @@
     "player_link":"https://frembed.com/api/film.php?id={}",
     "pro_prompt": false,
     "set_is_pro_for_all": false,
-    "play_movies": false,
+    "play_movies": true,
     "approved": true
   }
 }
