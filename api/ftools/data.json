@@ -1,7 +1,7 @@
 {
   
   "ads": {
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "frequency": 4,
     "idsapplovin": {
         "appId": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
@@ -17,7 +17,8 @@
         "inter": "ca-app-pub-7261031303993495/1037704401",
         "reward": "ca-app-pub-7261031303993495/8078304215",
         "native": "ca-app-pub-7261031303993495/2889842129",
-        "appOpen": "ca-app-pub-7261031303993495/6308807414"
+        "appOpen": "ca-app-pub-7261031303993495/6308807414",
+        "ads-txt": "google.com, pub-7261031303993495, DIRECT, f08c47fec0942faO"
     },
     "keywords": []
   },
