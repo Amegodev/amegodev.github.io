@@ -1,7 +1,7 @@
 {
     "player_link":"https://multiembed.mov/directstream.php?video_id={}&tmdb=1",
     "pro_prompt": false,
-    "set_is_pro_for_all": false,
-    "play_movies": true,
+    "set_is_pro_for_all": true,
+    "play_movies": false,
     "approved": false
 }
