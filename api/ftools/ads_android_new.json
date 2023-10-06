@@ -1,6 +1,6 @@
 {
-    "adNetwork": "applovin",
-    "interstitial_frequency": 2,
+    "adNetwork": "admob",
+    "interstitial_frequency": 4,
     "ids": {
       "admob": {
         "app_id": "ca-app-pub-3940256099942544~3347511713",
