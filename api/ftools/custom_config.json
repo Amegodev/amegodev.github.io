@@ -3,6 +3,6 @@
     "player_link_tv_show":"https://multiembed.mov/?video_id={}&tmdb=1&s={1}&e={2}",
     "pro_prompt": false,
     "set_is_pro_for_all": true,
-    "play_movies": false,
+    "play_movies": true,
     "approved": false
 }
