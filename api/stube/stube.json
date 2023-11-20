@@ -3,7 +3,8 @@
   "enableAutoPictureInPictureMode": false,
   "enableBackgroundPlayback": false,
   "donate_link": "https://www.paypal.com/paypalme/artixo",
-  "socials": [
+  "socials": [],
+  "socials_original": [
     {
       "icon": "https://www.youtube.com/favicon.ico",
       "url": "https://twitter.com/username"
