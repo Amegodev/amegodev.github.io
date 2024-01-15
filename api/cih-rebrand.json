@@ -1,0 +1,74 @@
+{
+    "config": {
+      "currentAppVersion": "1.0.0",
+      "forceUpdate": true,
+      "title": "Update available",
+      "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+      "updateLink": "https://---"
+    },
+    "ads": {
+      "adNetwork": "admob",
+      "frequency": 2,
+      "ids": {
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "appOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
+    },
+    "data_model": [
+      {
+        "type": "wallpapers",
+        "title": "Wallpapers App",
+        "img_url": "https://---",
+        "guide_model": [
+          {
+            "subTitle": "Card title",
+            "linkTitle": "https://example.com/",
+            "Link": "Example.com",
+            "img_url": "https://---.jpg",
+            "text": "Lorem ipsum dolor sit amet",
+            "isNative": false
+          }
+        ],
+        "webview_model": [
+          {
+            "title": "Level 1",
+            "coverImg": "https://---.gif",
+            "url": "https://---/mobile",
+            "external": false
+          }
+        ],
+        "sounds_model": [
+          {
+            "title": "Audio 1",
+            "url": "https://---.mp3",
+            "cover": "https://---.jpg"
+          }
+        ],
+        "wallpapers_model": [
+          {"title": "new york","category": ["All","manhattan", "cities"],"img_url": "https://mobimg.b-cdn.net/v3/fetch/42/42ea555c19d4b85a2353b0c4fed8a9a6.jpeg"}
+        ],
+        "data_model": []
+      }
+    ],
+    "backup": [
+      {
+        "type": "---",
+        "title": "---",
+        "img_url": "",
+        "webview_model": [
+          {
+            "title": "---",
+            "coverImg": "",
+            "url": "https://---",
+            "external": false,
+            "in_app_webview": true
+          }
+        ],
+        "data_model": []
+      }
+    ]
+  }
