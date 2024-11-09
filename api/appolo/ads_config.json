@@ -1,0 +1,19 @@
+{
+  "status": "admob",
+  
+  "android_bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+  "android_bannerLargeAdmob": "ca-app-pub-3940256099942544/6300978111",
+  "android_interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+  
+  "ios_bannerAdmob": "ca-app-pub-3940256099942544/2934735716",
+  "ios_bannerLargeAdmob": "ca-app-pub-3940256099942544/2934735716",
+  "ios_interstitialAdmob": "ca-app-pub-3940256099942544/4411468910",
+  
+  "android_bannerFacebook": "75238233148588_7523324864",
+  "android_nativeFacebook": "7523223228_752387143148191",
+  "android_interstitialFacebook": "75238312288_752387143148191",
+  
+  "ios_bannerFacebook": "752323148588_752215114",
+  "ios_nativeFacebook": "752383348588_751815114",
+  "ios_interstitialFacebook": "752328588_752385803148325"  
+}
