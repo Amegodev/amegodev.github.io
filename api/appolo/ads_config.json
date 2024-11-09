@@ -1,19 +1,19 @@
 {
   "status": "admob",
-  
   "android_bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-  "android_bannerLargeAdmob": "ca-app-pub-3940256099942544/6300978111",
+  "android_bannerLargeAdmob": "ca-app-pub-3940256099942544/6300978112",
   "android_interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-  
-  "ios_bannerAdmob": "ca-app-pub-3940256099942544/2934735716",
-  "ios_bannerLargeAdmob": "ca-app-pub-3940256099942544/2934735716",
-  "ios_interstitialAdmob": "ca-app-pub-3940256099942544/4411468910",
-  
-  "android_bannerFacebook": "75238233148588_7523324864",
-  "android_nativeFacebook": "7523223228_752387143148191",
-  "android_interstitialFacebook": "75238312288_752387143148191",
-  
-  "ios_bannerFacebook": "752323148588_752215114",
-  "ios_nativeFacebook": "752383348588_751815114",
-  "ios_interstitialFacebook": "752328588_752385803148325"  
+  "ios_bannerAdmob": "ca-app-pub-3940256099942544/6300978113",
+  "ios_bannerLargeAdmob": "ca-app-pub-3940256099942544/6300978114",
+  "ios_interstitialAdmob": "ca-app-pub-3940256099942544/1033173713",
+  "android_bannerFacebook": "YOUR_FACEBOOK_ANDROID_BANNER_ID",
+  "android_nativeFacebook": "YOUR_FACEBOOK_ANDROID_NATIVE_ID",
+  "android_interstitialFacebook": "YOUR_FACEBOOK_ANDROID_INTERSTITIAL_ID",
+  "ios_bannerFacebook": "YOUR_FACEBOOK_IOS_BANNER_ID",
+  "ios_nativeFacebook": "YOUR_FACEBOOK_IOS_NATIVE_ID",
+  "ios_interstitialFacebook": "YOUR_FACEBOOK_IOS_INTERSTITIAL_ID",
+  "applovin_id": "YOUR_APPLOVIN_ID",
+  "android_bannerAppLovin": "YOUR_APPLOVIN_ANDROID_BANNER_ID",
+  "android_bannerLargeAppLovin": "YOUR_APPLOVIN_ANDROID_BANNER_LARGE_ID",
+  "android_interstitialAppLovin": "YOUR_APPLOVIN_ANDROID_INTERSTITIAL_ID"
 }
