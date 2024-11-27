@@ -1,5 +1,5 @@
 {
-  "status": "default",
+  "status": "admob",
   "android_bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
   "android_bannerLargeAdmob": "ca-app-pub-3940256099942544/6300978112",
   "android_interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
