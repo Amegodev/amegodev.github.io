@@ -1,0 +1,9 @@
+{
+  'enabled': false,
+  'background_color': "0xff000000",
+  'appTitle': 'App title',
+  'appText': 'Explore quality content',
+  'imgUrl':
+      'https://i.pinimg.com/originals/60/d4/d3/60d4d31e4f2b18abaee11da6281ff6ea.png',
+  'url': 'https://www.google.com/'
+}
