@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "background_color': "0xff000000",
+  "background_color": "0xff000000",
   "appTitle": "App title",
   "appText": "Explore quality content",
   "imgUrl":
