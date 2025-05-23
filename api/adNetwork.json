@@ -1,0 +1,35 @@
+{
+  "adNetwork": "admob",
+  "interFrequency": 3,
+  "nativeAdInterval": 5,
+  "ids": {
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/9257395921", 
+      "bannerId": "ca-app-pub-3940256099942544/6300978111", 
+      "interId": "ca-app-pub-3940256099942544/1033173712", 
+      "rewardId": "ca-app-pub-3940256099942544/5224354917"  
+    },
+    "facebook": {
+      "appId": "YOUR_FACEBOOK_APP_ID", 
+      "appOpenId": "YOUR_PLACEMENT_ID", 
+      "bannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+      "interId": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID", 
+      "rewardId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID" 
+    },
+    "unity": {
+      "appId": "4270603", 
+      "appOpenId": "Android_AppOpen", 
+      "bannerId": "Android_Banner", 
+      "interId": "Android_Interstitial", 
+      "rewardId": "Android_Rewarded" 
+    },
+    "applovin": {
+      "appId": "YOUR_APPLOVIN_SDK_KEY", 
+      "appOpenId": "APPLOVIN_TEST_APPOPEN_ANDROID", 
+      "bannerId": "APPLOVIN_TEST_BANNER_ANDROID",    
+      "interId": "APPLOVIN_TEST_INTER_ANDROID",     
+      "rewardId": "APPLOVIN_TEST_REWARDED_ANDROID" 
+    }
+  }
+}
