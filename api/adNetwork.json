@@ -1,5 +1,5 @@
 {
-  "adNetwork": "admob",
+  "adNetwork": "facebook",
   "interFrequency": 3,
   "nativeAdInterval": 5,
   "ids": {
