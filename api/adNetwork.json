@@ -1,7 +1,7 @@
 {
   "adNetwork": "facebook",
   "interFrequency": 3,
-  "nativeAdInterval": 5,
+  "nativeAdInterval": 3,
   "ids": {
     "admob": {
       "appId": "ca-app-pub-3940256099942544~3347511713",
