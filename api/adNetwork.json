@@ -1,14 +1,14 @@
 {
-  "adNetwork": "facebook",
+  "adNetwork": "admob",
   "interFrequency": 3,
   "nativeAdInterval": 3,
   "ids": {
     "admob": {
-      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appId": "ca-app-pub-5434360095168665~9260290183",
       "appOpenId": "ca-app-pub-3940256099942544/9257395921", 
-      "bannerId": "ca-app-pub-3940256099942544/6300978111", 
-      "interId": "ca-app-pub-3940256099942544/1033173712", 
-      "rewardId": "ca-app-pub-3940256099942544/5224354917"  
+      "bannerId": "ca-app-pub-5434360095168665/8242721985", 
+      "interId": "ca-app-pub-5434360095168665/6771834000", 
+      "rewardId": "ca-app-pub-5434360095168665/8749170204"  
     },
     "facebook": {
       "appId": "YOUR_FACEBOOK_APP_ID", 
